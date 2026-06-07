@@ -1,0 +1,18 @@
+# robots.txt template — replace example.com with your domain.
+# Goal: allow all reputable crawlers, point them to the sitemap.
+
+User-agent: *
+Allow: /
+
+# Block low-value / private paths (uncomment & adjust as needed)
+# Disallow: /admin/
+# Disallow: /cart/
+# Disallow: /search
+# Disallow: /*?*    # block URL parameters if they create duplicates
+
+# Bingbot and YandexBot obey the wildcard rule above; add overrides if needed.
+# User-agent: Yandex
+# Host: example.com   # (legacy) preferred mirror for Yandex
+
+# Always reference your sitemap (absolute URL)
+Sitemap: https://example.com/sitemap.xml
