@@ -1,0 +1,8 @@
+# List your sites here, one per line. '#' lines are ignored.
+# Then run:  ./generate-sitemap.py --file sites.txt
+#
+# https:// is added automatically if you omit it.
+
+wedraftit.ca
+# example.com
+# anothersite.com
