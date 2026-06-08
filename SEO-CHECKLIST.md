@@ -3,6 +3,10 @@
 A repeatable checklist for getting every site indexed by **Bing** and **Yandex**
 (and well-positioned in search generally). Work top to bottom for each new site.
 
+> **Django sites:** follow the canonical **[Django SEO Standard](django-standard/README.md)**
+> for `/sitemap.xml` (with `<lastmod>`), `/robots.txt`, and `/llms.txt`. Track
+> per-site rollout in **[COMPLIANCE.md](COMPLIANCE.md)**.
+
 ---
 
 ## 1. Submit & Verify the Site

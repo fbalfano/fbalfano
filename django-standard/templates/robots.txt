@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# XML sitemap — primary discovery for search crawlers (Bing, Yandex, Google)
+Sitemap: https://{{ site.domain }}/sitemap.xml
+
+# llms.txt — guidance for AI/LLM crawlers (served at site root; this line is
+# informational — the canonical location is /llms.txt)
+# LLMs: https://{{ site.domain }}/llms.txt
