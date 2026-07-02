@@ -1,207 +1,120 @@
 # How Not to Get Away With Murder
-## Table of Contents *(working draft v1)*
+## Table of Contents *(working draft v2 — Canada + United States)*
 
-> Organized by the *kind of evidence* that caught them — the forensic thread the
-> reader learns to recognize. Each chapter names its anchor case; full
-> citations, links, and factual summaries are in `case-index.md`.
+> Organized by the *kind of evidence* that caught them. Cases from both Canada
+> (🇨🇦, CanLII) and the United States (🇺🇸, Justia/CourtListener) sit side by side
+> within each forensic theme — because the science doesn't stop at the border,
+> and the American cases are often the darker ones. Full citations, links, and
+> smoking-gun summaries are in `case-index.md` (Canada) and `us-case-index.md`
+> (US); the download list is `citation-worklist.md`.
 
 ---
 
 ### Introduction — The Smoking Gun Is Rarely a Gun
-Why killers get caught: not by a single dramatic clue, but by the trail they
-can't stop leaving — in cell towers, on their own hands, in their search bars,
-and in their own mouths. How to read this book, and how to read a court
-decision. *(To be drafted.)*
+Why killers get caught: not by one dramatic clue, but by the trail they can't
+stop leaving — in cell towers, on their own hands, in their search bars, on their
+wrists, and in their own mouths. How to read this book; how to read a court
+decision; and why we tell you the case name every time, so you can go check us.
 
 ---
 
 ## PART I — WHAT THE BODY KEPT
-*Biological and trace evidence: DNA, hair, fibres, and the science of what
-transfers between a killer and a victim.*
+*DNA, genetic genealogy, trace evidence, and toxicology — the science of what a
+victim's body, and a killer's, refuse to let go.*
 
-**1. The Man Who Handed Police the Hair That Hanged Him**
-Anchor: *R. v. Arp*, 1998 CanLII 769 (SCC)
-*How he got caught:* volunteered "elimination" hair samples that DNA then tied
-straight to the sexual assault and murder — and gave Canada its rulebook on
-explaining DNA odds to a jury.
+1. **The Man Who Handed Police the Hair That Hanged Him** — 🇨🇦 *R. v. Arp* (SCC, 1998)
+2. **Novel Science, First Blood** — 🇨🇦 *R. v. Legere* (NB CA, 1994) — Canada's first DNA murder conviction
+3. **Under Her Fingernails** — 🇨🇦 *Laliberté c. R.* (QC CA, 2015)
+4. **The Maintenance Man's Calling Card** — 🇨🇦 *R. v. Terceira* (ON CA/SCC, 1998–99) — fibres + hair + DNA
+5. **A Coffee Cup and a Stranger's Family Tree** — 🇺🇸 *State v. Talbott* (Wash., 2022) — the first genetic-genealogy trial
+6. **No Privacy in the DNA Your Cousins Share** — 🇺🇸 *State v. Hartman* (Wash. Ct. App., 2023) — the technique upheld
+   - *Sidebar:* 🇺🇸 the Golden State Killer (DeAngelo) — the cold case that launched it all (no appeal)
+   - *Also in this thread:* 🇺🇸 *People v. Vaultz* (Cal., 2024) and the G063674 constitutionality ruling
+7. **The Carpet in His Bedroom** — 🇺🇸 *Williams v. State* (Ga., 1983) — the Atlanta Child Murders fibre case
+8. **The Sweet Taste of Antifreeze** — 🇺🇸 *Turner v. State* (Ga., 2007) — two men, years apart, one poisoner
 
-**2. Novel Science, First Blood: Canada's First DNA Murder Conviction**
-Anchor: *R. v. Legere*, 1994 CanLII 3851 (NB CA)
-*How he got caught:* an escaped prisoner's months-long terror ended when
-biological evidence from four scenes matched him — the first time DNA grounded a
-Canadian murder conviction.
-
-**3. Under Her Fingernails**
-Anchor: *Laliberté c. R.*, 2015 QCCA 1633
-*How he got caught:* a woman who survived a knife attack had fought back — and
-scraped her attacker's DNA under her own nails.
-
-**4. The Maintenance Man's Calling Card**
-Anchor: *R. v. Terceira*, 1998 CanLII 2174 (ON CA), aff'd 1999 CanLII 645 (SCC)
-*How he got caught:* fibres from his sweatpants on every piece of a murdered
-child's clothing, his hairs on her body, his DNA at the scene — a convergence no
-coincidence could explain.
-
----
-
-## PART II — THE GUN AND THE RESIDUE
-*Firearms evidence: gunshot residue, ballistics, toolmarks, and the physics that
-exposes a staged scene.*
-
-**5. The Residue on His Hand**
-Anchor: *R. v. Stevenson*, 2014 ONCA 842
-*How he got caught:* his estranged partner was shot on her way to work; the only
-question was *who* — and gunshot-residue particles put a just-fired gun in his
-hand.
-
-**6. No Gun, But the Bullets Matched**
-Anchor: *R. v. F. (J.M.)*, 2022 MBCA 52
-*How he got caught:* the murder weapon was never found, but the ammunition in
-his bedroom matched the casing at the scene — and his phone showed him posing
-with the rifle.
-
-**7. Ballistics and the Wrong Man Killed**
-Anchor: *R. v. Mohamed*, 2025 ONCA 611
-*How they got caught:* an innocent engineer was shot in a botched gang hit;
-cartridge-case comparison and a firearms database tied the rounds to the
-shooters' guns.
-
-**8. The Judge, the Pistol, and the Angle That Didn't Add Up** 🔶
-Anchor: *Delisle c. R.*, 2013 QCCA 952
-*How he got caught — and then wasn't:* a retired appeal-court judge said his
-wife shot herself; the bullet's entry angle said otherwise. The case that shows
-staged-suicide forensics can cut *both* ways — later reopened over concerns the
-science was overstated. Told as the cautionary tale it became.
-
----
-
-## PART III — THE PHONE IN YOUR POCKET
-*Location and movement: cell-tower pings, phone records, and the machines that
+## PART II — THE PHONE IN YOUR POCKET
+*Cell-tower pings, GPS, geotags, and licence-plate readers — the machines that
 log where you were.*
 
-**9. Two Phones, the Same Towers**
-Anchor: *R. v. Millard* (Tim Bosma), 2023 ONCA 418
-*How he got caught:* the burner phone that lured Bosma to a fake truck test-drive
-was pinging off the same towers as the killer's own phone — the thread that
-unmasked a wealthy "respectable" murderer.
+> *Framing:* 🇺🇸 *Carpenter v. United States* (2018) and *United States v. Jones*
+> (2012) — the two rulings that decided when the phone in your pocket needs a
+> warrant.
 
-**10. A Murder With No Body, Solved by Where Three Phones Met**
-Anchor: *R. v. Millard* (Laura Babcock), 2023 ONCA 426
-*How he got caught:* no body was ever found — but phone records placed all three
-players together on the night of the victim's last outgoing call.
+9. **Two Phones, the Same Towers** — 🇨🇦 *R. v. Millard* (Tim Bosma) (ON CA, 2023)
+10. **A Murder With No Body, Solved by Where Three Phones Met** — 🇨🇦 *R. v. Millard* (Laura Babcock) (ON CA, 2023)
+11. **Your Rental Car Snitched on You** — 🇨🇦 *R. v. Dosanjh* (ON CA, 2022) — infotainment GPS log
+12. **Seven Hundred Thousand Records Behind a Smiling Daughter** — 🇨🇦 *R. v. Pan* (ON CA 2023 / SCC 2025) 🔶
+13. **He Said He Went Fishing** — 🇺🇸 *People v. Peterson* (Scott Peterson) (Cal., 2020) — GPS to the exact patch of bay 🔶
+14. **The Blind Photo From Inside a Pocket** — 🇺🇸 *State v. Zielinski* (Minn., 2024) — an accidental geotag
+15. **The Cameras on the Interstate** — 🇺🇸 *State v. LaBranche* (La., 2025) — ALPR tracks the getaway car
 
-**11. Your Rental Car Snitched on You**
-Anchor: *R. v. Dosanjh*, 2022 ONCA 689
-*How he got caught:* he rented the getaway SUV under a false name — not knowing
-its infotainment system silently logged a complete GPS track placing it outside
-the hotel at the instant of the shooting.
+## PART III — WHAT YOU TYPED, WHAT YOU SAVED
+*Search history, deleted files, chat logs — the confession you type when you
+think no one's reading.*
 
-**12. Seven Hundred Thousand Records Behind a Smiling Daughter** 🔶
-Anchor: *R. v. Pan*, 2023 ONCA 362, aff'd 2025 SCC 12
-*How she got caught:* a staged home-invasion and a frantic 911 call fell apart
-under a mountain of call records, texts, and cell-tower data exposing a
-murder-for-hire — evidence so one-sidedly presented it later reopened the case.
+16. **"Most Painful Torture": The Hard Drive in the Wall** — 🇨🇦 *R. v. Garland* (AB CA, 2019)
+17. **When the Chat Log *Is* the Crime** — 🇨🇦 *R. v. Todorovic* (ON CA, 2014)
+18. **The Text That Set the Meeting, the Camera That Caught the Exit** — 🇨🇦 *R. v. Sandeson* (NS CA, 2020)
+19. **A Murder Syllabus on the Family Computer** — 🇺🇸 *State v. Jensen* (Wis., 2021) — botulism, mercury fulminate, antifreeze
+20. **He Googled Where a Bullet Won't Kill You** — 🇺🇸 *Barber v. State* (Fla., 2009) — staging a beach shooting
 
----
+## PART IV — THE DEVICE THAT WATCHED YOU
+*Fitness trackers, smart speakers, pacemakers, and the black box in your car —
+the witnesses you strap on and invite inside.*
 
-## PART IV — WHAT YOU TYPED, WHAT YOU SAVED
-*Digital forensics: search history, deleted files, chat logs, and hidden
-cameras.*
+21. **The Steps a Dead Woman Kept Taking** — 🇺🇸 *State v. Dabate* (Conn., 2025) — the Fitbit murder
+22. **Twelve Steps Cleared the Wrong Man** — 🇺🇸 *State v. Burch* (Wis., 2021) — a Fitbit alibi, then the real killer
+23. **The Car That Almost Testified** — 🇺🇸 *State v. Worsham* (Fla., 2017) 🔶 with *People v. Xinos* (Cal., 2011) 🔶 — the black-box privacy fight
+    - *Sidebar — The Device That Almost Testified:* the Alexa cases (Bates, Crespo, Verrill), the Aiello Fitbit heartbeat, the Compton pacemaker — famous, but none convicted-on-appeal 🔶
 
-**13. "Most Painful Torture": The Hard Drive in the Wall**
-Anchor: *R. v. Garland*, 2019 ABCA 479
-*How he got caught:* he buried a couple and their grandson where the bodies were
-never found — but couldn't delete the search history on the hard drive he hid in
-his parents' farmhouse.
+## PART V — THE GUN AND THE RESIDUE
+*Gunshot residue, ballistics, and toolmarks — what a fired weapon leaves behind.*
 
-**14. When the Chat Log *Is* the Crime**
-Anchor: *R. v. Todorovic*, 2014 ONCA 153
-*How she got caught:* a teenager goaded her boyfriend into killing a rival over
-a stream of instant messages — messages that were themselves the act of
-counselling murder.
+24. **The Residue on His Hand** — 🇨🇦 *R. v. Stevenson* (ON CA, 2014)
+25. **No Gun, But the Bullets Matched** — 🇨🇦 *R. v. F. (J.M.)* (MB CA, 2022)
+26. **Ballistics and the Wrong Man Killed** — 🇨🇦 *R. v. Mohamed* (ON CA, 2025)
 
-**15. The Text That Set the Meeting, the Camera That Caught the Exit**
-Anchor: *R. v. Sandeson*, 2020 NSCA 47
-*How he got caught:* a med student arranged a drug deal by text; the victim was
-never found — but the killer's own apartment camera showed him walk in and never
-walk out.
+## PART VI — THE STAGED SCENE
+*Bloodstain patterns, bullet trajectory, and the physics that exposes a scene
+dressed up to lie.*
 
----
+27. **The Judge, the Pistol, and the Angle That Didn't Add Up** — 🇨🇦 *Delisle c. R.* (QC CA, 2013) 🔶
+28. **The Staged Break-In** — 🇨🇦 *R. v. Klymchuk* (ON CA, 2005/2008) 🔶
+29. **The Blood on the Stairs** — 🇺🇸 *State v. Peterson* (Michael Peterson, "The Staircase") (N.C., 2013) 🔶
+30. **The Gun in the Dead Man's Hand** — 🇺🇸 *Johnson v. State* (Tex., 2004) — no powder burns, no suicide
 
-## PART V — IN THEIR OWN WORDS
+## PART VII — IN THEIR OWN WORDS
 *Confessions, undercover stings, wiretaps, and informants — the distinctively
 Canadian art of getting a killer to talk.*
 
-**16. Mr. Big: The Confession That Rewrote the Rules**
-Anchor: *R. v. Hart*, 2014 SCC 52
-*How he got caught — and why it wasn't enough:* the RCMP's fake-crime-boss sting
-drew a confession to drowning his daughters; the Supreme Court used the case to
-put the whole technique on trial.
+31. **Mr. Big: The Confession That Rewrote the Rules** — 🇨🇦 *R. v. Hart* (SCC, 2014)
+32. **When Mr. Big Holds Up** — 🇨🇦 *R. v. Mack* (SCC, 2014)
+33. **The Fake Insurance Investigator** — 🇨🇦 *R. v. Kelly* (ON CA, 2017)
+34. **The Sting That Went Too Far** — 🇨🇦 *Laflamme c. R.* (QC CA, 2015) 🔶
+35. **The Tapped Phone and the Lure Call** — 🇨🇦 *R. v. Mapara* (SCC, 2005)
+36. **The Word of Men Behind Bars** — 🇨🇦 *R. v. Brooks* (SCC, 2000)
 
-**17. When Mr. Big Holds Up**
-Anchor: *R. v. Mack*, 2014 SCC 58
-*How he got caught:* decided the same day as *Hart* — the confession stuck
-because he revealed where the body was, and the body was there.
+## PART VIII — WHEN THE SCIENCE LIES (AND WHEN IT SETS YOU FREE)
+*The dark counterpoint: forensic techniques that convicted the innocent — and the
+science that later freed them. The reminder that evidence is only as honest as
+the people wielding it.*
 
-**18. The Fake Insurance Investigator**
-Anchor: *R. v. Kelly*, 2017 ONCA 621
-*How he got caught:* no fake mob this time — just an undercover "investigator"
-dangling a $571,000 life-insurance payout until greed pulled the truth out.
-
-**19. The Sting That Went Too Far** 🔶
-Anchor: *Laflamme c. R.*, 2015 QCCA 1517
-*How he got caught — and then walked:* a 31-year-old cold-case confession thrown
-out because the undercover theatre of simulated violence crossed into coercion.
-
-**20. The Tapped Phone and the Lure Call**
-Anchor: *R. v. Mapara*, 2005 SCC 23
-*How he got caught:* a wiretap caught him telling the victim to come to the car
-lot "in 15 minutes" — minutes before the ambush.
-
-**21. The Word of Men Behind Bars**
-Anchor: *R. v. Brooks*, 2000 SCC 11
-*How he got caught:* two jailhouse informants said he'd confessed to killing a
-toddler — and the Supreme Court wrestled with whether you can convict on the word
-of career criminals cutting deals.
+37. **The Teeth That Caught Ted Bundy** — 🇺🇸 *Bundy v. State* (Fla., 1984) — bite marks at their most triumphant
+38. **The Snaggletooth Exoneration** — 🇺🇸 *State v. Krone* (Ariz., 1995) 🔶 — the same science sends the wrong man to death row
+39. **Bite Marks, Formally Rejected** — 🇺🇸 *Howard v. State* (Miss., 2020) 🔶 — 26 years, then DNA
+40. **The Flies That Never Came** — 🇺🇸 *Lobato v. State* (Nev., 2004) 🔶 — entomology clears the innocent
+41. **The Boy, the Flies, and Forty-Eight Years** — 🇨🇦 *R. v. Truscott* (ON CA, 2007) 🔶 — the Canadian bookend
 
 ---
 
-## PART VI — THE PERFORMANCE FALLS APART
-*Behavioural evidence: staged scenes, inconsistent stories, and the tells that
-give a killer away.*
-
-**22. The Staged Break-In** 🔶
-Anchor: *R. v. Klymchuk*, 2005 CanLII 44167 (ON CA); *and* 2008 ONCA 854
-*How he got caught:* a torn screen, a pressed-in shoeprint, a snow-blower moved
-outside — a fake burglary staged over an axe murder, and a lesson in how far
-"staging" experts can go before a court pushes back.
-
-**23. Storefront Cameras and a Moving Truck** *(companion to Ch. 9)*
-Anchor: *R. v. Millard* (Tim Bosma), 2023 ONCA 418
-*How he got caught:* ordinary business surveillance video traced the victim's
-truck through the streets after he vanished — the mundane cameras that corner a
-killer.
+## APPENDIX — The Ones Without a Court of Appeal (Yet)
+Techniques that have caught killers but lack a qualifying appellate decision —
+plus leads to chase. See `gaps-and-future-chapters.md`.
 
 ---
 
-## EPILOGUE — WHEN THE SCIENCE SETS YOU FREE 🔶
-**24. The Boy, the Flies, and Forty-Eight Years**
-Anchor: *R. v. Truscott*, 2007 ONCA 575
-The inverse of every chapter before it: a 14-year-old convicted on a
-pathologist's stomach-contents time-of-death estimate — undone decades later
-when forensic entomologists read the insect evidence and the Court of Appeal
-declared a miscarriage of justice. The reminder that forensic science is only as
-honest as the people wielding it.
-
----
-
-## APPENDIX — The Ones Without a Court of Appeal *(Yet)*
-Forensic techniques that have caught Canadian killers but haven't produced an
-appellate decision — genetic genealogy, Fitbits, smart-home devices, licence
-plate readers. See `gaps-and-future-chapters.md`.
-
----
-
-*Legend: 🔶 = contested, reversed, or inverted case — a real story, told
-honestly as the complicated case it is. Verification status for every case is in
-`case-index.md`.*
+*Legend: 🇨🇦 Canadian (CanLII) · 🇺🇸 American (Justia/CourtListener) · 🔶 contested,
+reversed, suppressed, or inverted — a real story, told honestly. Verification
+status per case in `case-index.md` and `us-case-index.md`; download list in
+`citation-worklist.md`.*

@@ -13,9 +13,13 @@ fake crime boss. We tell it as a story — *how did they get caught?* — and th
 hand the reader the actual court decision so they can go read the facts
 themselves.
 
-**Jurisdiction:** Canada. Every anchor case is a decision of a provincial Court
-of Appeal or the Supreme Court of Canada, available (free) on
-[CanLII](https://www.canlii.org).
+**Jurisdiction:** Canada and the United States. Canadian anchor cases are
+decisions of a provincial Court of Appeal or the Supreme Court of Canada, free on
+[CanLII](https://www.canlii.org); American ones are decisions of a state Court of
+Appeals, state Supreme Court, or federal court, free on
+[Justia](https://law.justia.com), [CourtListener](https://www.courtlistener.com),
+or the official court site. Cases sit side by side within each forensic theme —
+the science doesn't stop at the border, and the American cases are often darker.
 
 **Tone:** Popular true-crime. Narrative first, forensic science explained
 accessibly, legal accuracy underneath.
@@ -51,14 +55,18 @@ print.** In `case-index.md`, each case carries a status:
 
 ## Files
 
-- `TABLE-OF-CONTENTS.md` — the book's structure: parts, chapters, anchor cases,
-  and the one-line "how they got caught" hook for each.
-- `case-index.md` — the master list of every anchor case: style of cause,
-  citation, CanLII link, court, year, verification status, and a factual
-  summary of the smoking gun.
-- `gaps-and-future-chapters.md` — forensic categories that don't yet have a
-  Canadian appellate decision (genetic genealogy, Fitbit/wearables, smart-home
-  IoT, licence-plate readers) and how to handle them.
+- `TABLE-OF-CONTENTS.md` — the book's structure: 8 forensic-theme parts, ~41
+  chapters spanning both countries, and the one-line "how they got caught" hook
+  for each.
+- `citation-worklist.md` — **the download list.** Every anchor authority by case
+  name + citation + status flag, grouped by theme, in the order to pull them.
+- `case-index.md` — master list of the **Canadian** cases: style of cause,
+  citation, CanLII link, court, year, verification status, smoking-gun summary.
+- `us-case-index.md` — the same for the **American** cases (Justia/CourtListener
+  links).
+- `gaps-and-future-chapters.md` — categories still lacking a *Canadian* appellate
+  decision (many now covered by US cases: genetic genealogy → Talbott; Fitbits →
+  Dabate/Burch; ALPR → LaBranche) plus leads to chase.
 
 ## Where we are
 
