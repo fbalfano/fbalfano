@@ -33,7 +33,7 @@ cases we'll frame carefully.
 - ✅ 🇺🇸 *United States v. Jones*, 565 U.S. 400 (2012) *(framing — GPS on vehicle)*
 - ✅ 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418
 - ✅ 🇨🇦 *R. v. Millard* (Laura Babcock), 2023 ONCA 426
-- ✅ 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 *(rental-car GPS)*
+- ✅ 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 *(rental-car GPS)* — **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇨🇦 *R. v. Pan*, 2023 ONCA 362; aff'd 2025 SCC 12 *(check disposition)*
 - ✅🔶 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409, 472 P.3d 382 (Cal. 2020) *(guilt affirmed, death sentence reversed)*
 - ✅ 🇺🇸 *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) *(geotagged pocket photo)*
@@ -48,7 +48,7 @@ cases we'll frame carefully.
 
 ## PART IV — The Device That Watched You (wearables, IoT, vehicle data)
 - ✅ 🇺🇸 *State v. Dabate*, **351 Conn. 428 (2025)** (SC 20749) *(Fitbit — steps after "death")* — **PDF pulled ✔ · chapter drafted ✔**
-- ✅ 🇺🇸 *State v. Burch*, 2021 WI 68, 961 N.W.2d 314 (Wis. 2021) *(Fitbit — 12 steps clears boyfriend)*
+- ✅ 🇺🇸 *State v. Burch*, 2021 WI 68, 398 Wis. 2d 1, 961 N.W.2d 314 *(Fitbit — 12 steps clears boyfriend)* — **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇺🇸 *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) *(car EDR — suppressed; DUI/vehicular)*
 - 🔶 🇺🇸 *People v. Xinos*, 192 Cal. App. 4th 637 (2011) *(car EDR — DEPUBLISHED, not precedent)*
 - **"Almost testified" sidebar (🔶, no conviction-on-appeal):** *State v. Bates* (AR, Alexa — dropped) · *Anthony Aiello* (CA, Fitbit — died pre-trial) · *State v. Compton* (OH, pacemaker — arson, died pre-trial) · *State v. Crespo* (FL, Alexa — trial-level) · *State v. Verrill* (NH, Alexa — appeal pending, No. 2024-0337)

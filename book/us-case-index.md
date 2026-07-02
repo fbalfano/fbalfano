@@ -165,13 +165,24 @@ pull the PDF — the case, court, and disposition are confirmed in every instanc
   proprietary algorithm). Court found four prosecutorial improprieties
   (including the "mini Cheshire scene" question) but harmless.
 
-### *State v. Burch*, 2021 WI 68, 961 N.W.2d 314 (Wis. 2021) — ✅
-- **Court/year:** Wisconsin Supreme Court, 2021 (affirmed)
+### *State v. Burch*, 2021 WI 68, 398 Wis. 2d 1, 961 N.W.2d 314 — ✅ CONFIRMED FROM PDF
+- **Court/year:** Wisconsin Supreme Court, decided June 29, 2021 (affirmed;
+  fractured court — Hagedorn majority, multiple separate writings)
 - **Link:** https://www.courtlistener.com/opinion/4896044/state-v-george-steven-burch/
-- **Smoking gun:** Nicole VanderHeyden was killed near Green Bay (2016). The
-  boyfriend's Fitbit logged only 12 steps during the killing window — clearing
-  him — and phone/Google location data then delivered the real killer, Burch.
-  **First US appellate decision admitting Fitbit step-count evidence.**
+- **PDF in repo:** `book/pdfs/State_v_Burch_2021_WI_68.pdf`
+- **Chapter:** drafted — `book/chapters/ch22-burch-fitbit-twelve-steps.md`
+- **Smoking gun (per the opinion):** Nicole VanderHeyden was killed near Green
+  Bay (May 2016); boyfriend Detrie was the natural suspect until his Fitbit Flex
+  logged only 12 steps during the hours of her death. Burch had voluntarily
+  consented ("search my Samsung cellphone") to a full phone extraction in an
+  unrelated vehicle investigation weeks after the murder; months later his DNA
+  hit on the victim's sock, detectives found the archived download — 64 viewings
+  of news stories about her death — and a Google Dashboard warrant put his phone
+  at the bar, her residence, the body site, and the clothing on-ramp. At trial
+  he blamed the Fitbit-cleared boyfriend via a blackout story. Life sentence;
+  affirmed. Consent not limited to texts; inter-agency sharing of the archived
+  extraction upheld; Fitbit step data admitted WITHOUT expert testimony
+  (contrast Dabate's Porter hearing).
 
 ### *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) — ✅ 🔶
 - **Court/year:** Florida Fourth District Court of Appeal, 2017

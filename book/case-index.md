@@ -100,15 +100,23 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   Millard's own earlier texts ("first I'm going to hurt her…") also feature —
   cross-referenced in Ch. 15's digital theme.
 
-### Ch. 11 — *R. v. Dosanjh*, 2022 ONCA 689 — ✅ (citation confirmed via CanLII summary text)
+### Ch. 11 — *R. v. Dosanjh*, 2022 ONCA 689 — ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/on/onca/doc/2022/2022onca689/2022onca689.html
-- **Court / year:** Ontario Court of Appeal, 2022 (murder 2016; jury conviction 2019)
-- **Smoking gun:** Hotel manager Aly Sunderani was shot roughly a dozen times
-  outside a Guelph Comfort Inn. Raja Dosanjh rented the getaway Infiniti QX60
-  under a false name; an OPP analyst downloaded the SUV's infotainment system and
-  reconstructed a full GPS track showing it drove Mississauga→Guelph and sat
-  outside the hotel at the moment of the killing. Dash-cam and DNA on the gun
-  grip corroborated it.
+- **PDF in repo:** `book/pdfs/R_v_Dosanjh_2022_ONCA_689.pdf`
+- **Chapter:** drafted — `book/chapters/ch11-dosanjh-rental-gps.md`
+- **Court / year:** Ontario Court of Appeal, Oct. 7, 2022 (Fairburn A.C.J.O.;
+  murder 2016; jury conviction Aug. 1, 2019)
+- **Smoking gun (per the opinion):** Hotel manager Aly Sunderani suffered 31
+  gunshot wounds (three to the heart) from a submachine gun outside the Guelph
+  Comfort Inn, broad daylight. Four circumstantial pillars: (1) Dosanjh's DNA on
+  the gun grip (3.7M:1); (2) he rented the getaway Infiniti QX60 hours earlier
+  under the false name "Jaspinder Nagra"; (3) clothing match across rental-agency
+  and hotel video; (4) the infotainment tracklog — 1:16 p.m. rental lot, 1:28
+  p.m. brother-in-law's parents' home, 3:52 p.m. hotel lot, and at 4:38 p.m.,
+  the exact minute of the shooting, to the hotel's front and away. Legal payoff:
+  no reasonable expectation of privacy in GPS data from a car he had "no right
+  to be driving" under a fake name — the false identity destroyed his own
+  suppression argument. Appeal dismissed.
 
 ### Ch. 12 — *R. v. Pan*, 2023 ONCA 362, aff'd 2025 SCC 12 — ✅ 🔶
 - **Links:** ONCA https://www.canlii.org/en/on/onca/doc/2023/2023onca362/2023onca362.html · SCC https://www.canlii.org/en/ca/scc/doc/2025/2025scc12/2025scc12.html

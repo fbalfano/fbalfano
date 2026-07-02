@@ -7,6 +7,12 @@
 > and the American cases are often the darker ones. Full citations, links, and
 > smoking-gun summaries are in `case-index.md` (Canada) and `us-case-index.md`
 > (US); the download list is `citation-worklist.md`.
+>
+> **Read it in any order.** Every chapter is a self-contained short story —
+> nothing depends on what came before. The parts are shelving, not sequence:
+> a menu for readers who want more of a particular flavor of evidence.
+> Cross-references between chapters are optional "if you liked this one"
+> pointers, never homework.
 
 ---
 
@@ -43,7 +49,8 @@ log where you were.*
 
 9. **Two Phones, the Same Towers** — 🇨🇦 *R. v. Millard* (Tim Bosma) (ON CA, 2023)
 10. **A Murder With No Body, Solved by Where Three Phones Met** — 🇨🇦 *R. v. Millard* (Laura Babcock) (ON CA, 2023)
-11. **Your Rental Car Snitched on You** — 🇨🇦 *R. v. Dosanjh* (ON CA, 2022) — infotainment GPS log
+11. **Never Rent a Getaway Car** — 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 ✍️ *drafted*
+    *Hook:* **He rented the getaway car under a fake name — and the fake name is exactly why the car's testimony could never be thrown out.**
 12. **Seven Hundred Thousand Records Behind a Smiling Daughter** — 🇨🇦 *R. v. Pan* (ON CA 2023 / SCC 2025) 🔶
 13. **He Said He Went Fishing** — 🇺🇸 *People v. Peterson* (Scott Peterson) (Cal., 2020) — GPS to the exact patch of bay 🔶
 14. **The Blind Photo From Inside a Pocket** — 🇺🇸 *State v. Zielinski* (Minn., 2024) — an accidental geotag
@@ -65,7 +72,8 @@ the witnesses you strap on and invite inside.*
 
 21. **Don't Murder a Woman Wearing a Fitbit** — 🇺🇸 *State v. Dabate*, 351 Conn. 428 (2025) ✍️ *drafted*
     *Hook:* **Her husband told police she was already dead. Her Fitbit kept counting.**
-22. **Twelve Steps Cleared the Wrong Man** — 🇺🇸 *State v. Burch* (Wis., 2021) — a Fitbit alibi, then the real killer
+22. **Twelve Steps** — 🇺🇸 *State v. Burch*, 2021 WI 68 ✍️ *drafted*
+    *Hook:* **The Fitbit cleared the boyfriend. A cellphone handed over in a fender-bender case buried the man who did it.**
 23. **The Car That Almost Testified** — 🇺🇸 *State v. Worsham* (Fla., 2017) 🔶 with *People v. Xinos* (Cal., 2011) 🔶 — the black-box privacy fight
     - *Sidebar — The Device That Almost Testified:* the Alexa cases (Bates, Crespo, Verrill), the Aiello Fitbit heartbeat, the Compton pacemaker — famous, but none convicted-on-appeal 🔶
 
