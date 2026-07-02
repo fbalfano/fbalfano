@@ -50,8 +50,8 @@ cases we'll frame carefully.
 ## PART IV - The Device That Watched You (wearables, IoT, vehicle data)
 - ✅ 🇺🇸 *State v. Dabate*, **351 Conn. 428 (2025)** (SC 20749) *(Fitbit - steps after "death")* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇺🇸 *State v. Burch*, 2021 WI 68, 398 Wis. 2d 1, 961 N.W.2d 314 *(Fitbit - 12 steps clears boyfriend)* - **PDF pulled ✔ · chapter drafted ✔**
-- ✅🔶 🇺🇸 *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) *(car EDR - suppressed; DUI/vehicular)*
-- 🔶 🇺🇸 *People v. Xinos*, 192 Cal. App. 4th 637 (2011) *(car EDR - DEPUBLISHED, not precedent)*
+- ✅🔶 🇺🇸 *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) *(car EDR - suppressed; DUI/vehicular)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 23, with Xinos)**
+- 🔶 🇺🇸 *People v. Xinos*, 192 Cal. App. 4th 637 (2011) *(car EDR - DEPUBLISHED, not precedent)* - **PDF pulled ✔ · folded into Ch. 23 ✔**
 - **"Almost testified" sidebar (🔶, no conviction-on-appeal):** *State v. Bates* (AR, Alexa - dropped) · *Anthony Aiello* (CA, Fitbit - died pre-trial) · *State v. Compton* (OH, pacemaker - arson, died pre-trial) · *State v. Crespo* (FL, Alexa - trial-level) · *State v. Verrill* (NH, Alexa - appeal pending, No. 2024-0337)
 
 ## PART V - The Gun and the Residue (firearms, GSR, ballistics)
