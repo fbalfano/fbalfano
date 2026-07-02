@@ -65,7 +65,8 @@ think no one's reading.*
 
 16. **The Hard Drive in the Rafters** - 🇨🇦 *R v Garland*, 2019 ABCA 479 ✍️ *drafted*
     *Hook:* **The patent he felt cheated over never earned a dollar. He killed three people for it anyway - and hid a hard drive that remembered every search.**
-17. **When the Chat Log *Is* the Crime** - 🇨🇦 *R. v. Todorovic* (ON CA, 2014)
+17. **The Girl Who Never Held the Knife** - 🇨🇦 *R. v. Todorovic*, 2014 ONCA 153 ✍️ *drafted*
+    *Hook:* **She was fifteen. She never touched the victim. She talked a boy into the stabbing from behind a keyboard, and the law called it first-degree murder.**
 18. **The Camera He Installed Himself** - 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 ✍️ *drafted* 🔶
     *Hook:* **His own security camera caught Taylor Samson walking in with a duffel bag full of marijuana. No camera on earth ever caught him walking out.**
     *(This appeal ordered a new trial over the defence-investigator disclosure scandal; 2023 retrial convicted, news-sourced.)*
@@ -88,7 +89,8 @@ the witnesses you strap on and invite inside.*
 ## PART V - THE GUN AND THE RESIDUE
 *Gunshot residue, ballistics, and toolmarks - what a fired weapon leaves behind.*
 
-24. **The Residue on His Hand** - 🇨🇦 *R. v. Stevenson* (ON CA, 2014)
+24. **The Residue Doesn't Lie, But It Doesn't Explain** - 🇨🇦 *R. v. Stevenson*, 2014 ONCA 842 ✍️ *drafted*
+    *Hook:* **A single particle of lead, antimony, and barium, fused by the heat of a gunshot, does not tell you whose gun it was. It just tells you that you were close to one.**
 25. **No Gun, But the Bullets Matched** - 🇨🇦 *R. v. F. (J.M.)* (MB CA, 2022)
 26. **Ballistics and the Wrong Man Killed** - 🇨🇦 *R. v. Mohamed* (ON CA, 2025)
 

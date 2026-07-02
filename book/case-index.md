@@ -43,13 +43,24 @@ before print · 🔶 frame with care (contested / reversed / inverted).
 
 ## Part II - The Gun and the Residue
 
-### Ch. 5 - *R. v. Stevenson*, 2014 ONCA 842 - ✅
+### Ch. 24 - *R. v. Stevenson*, 2014 ONCA 842 - ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/on/onca/doc/2014/2014onca842/2014onca842.html
-- **Court / year:** Ontario Court of Appeal, 2014 (murder 2006); SCC leave later denied
-- **Smoking gun:** Stefanie Stevenson was shot in the head walking to her car
-  for a hospital shift. Identity was the only issue; gunshot-residue particles
-  (including three-component GSR) on the accused's right hand put a just-fired
-  gun in his hand.
+- **PDF in repo:** `book/pdfs/R_v_Stevenson_2014_ONCA_842.pdf`
+- **Chapter:** drafted - `book/chapters/ch24-stevenson-gsr.md`
+- **Court / year:** Ontario Court of Appeal, decided Nov. 26, 2014 (Doherty
+  J.A.; Rouleau and Epstein JJ.A.; murder Dec. 23, 2006)
+- **Smoking gun (per the opinion):** Stefanie Stevenson shot once in the head
+  ~7:20 p.m. by an assailant lying in wait beside her home as she left for a
+  hospital shift; estranged husband arrested ~2 hours later. Identity the only
+  issue; no eyewitnesses, weapon never found, accused didn't testify. GSR: hands
+  bagged at arrest, then daubed; CFS found many three-component particles (lead
+  + antimony + barium fused): 2 on left-hand back, 9 on right-hand web, 13 on
+  right-hand back, plus jacket/pants. Persistent, but easily transferred by
+  contact; presence does NOT show HOW it got there (defence raised post-arrest
+  transfer). Motive mixed (divorce, $30k settlement rejected day before, new
+  partner, prior threatening conviction, but largely amicable re: kids);
+  6:35-8:30 p.m. window unaccounted for. Appeal dismissed; GSR properly
+  admitted. **An honest, nuanced GSR chapter, not a slam-dunk.**
 
 ### Ch. 6 - *R. v. F. (J.M.)*, 2022 MBCA 52 - ✅
 - **Link:** https://www.canlii.org/en/mb/mbca/doc/2022/2022mbca52/2022mbca52.html
@@ -181,13 +192,25 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   phrase is from trial coverage, not this judgment - use the judgment's
   wording.)
 
-### Ch. 14 - *R. v. Todorovic*, 2014 ONCA 153 - ⚠️
+### Ch. 17 - *R. v. Todorovic*, 2014 ONCA 153 - ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/on/onca/doc/2014/2014onca153/2014onca153.html
-- **Court / year:** Ontario Court of Appeal, 2014 (murder 2008)
-- **Smoking gun:** Melissa Todorovic, 15, used a stream of MSN messages and texts
-  to sexually blackmail and goad her boyfriend into stabbing 14-year-old Stefanie
-  Rengel, left to die in a snowbank. The messages were essentially the act of
-  counselling first-degree murder. Convicted and sentenced as an adult.
+- **PDF in repo:** `book/pdfs/R_v_Todorovic_2014_ONCA_153.pdf`
+- **Chapter:** drafted - `book/chapters/ch17-todorovic-chat-log.md`
+- **Court / year:** Ontario Court of Appeal, decided Feb. 27, 2014 (Rosenberg
+  J.A.; Rouleau and Pardu JJ.A.; murder Jan. 1, 2008)
+- **Smoking gun (per the opinion):** David Bagshaw (17) stabbed Stefanie Rengel
+  (14) to death outside her home; Melissa Todorovic (15), his girlfriend,
+  counselled/encouraged him. Crown case rested on a large body of circumstantial
+  evidence including computer chats showing obsessive jealousy, plus her
+  post-offence conduct: a "Did you do it?" call overheard by Bagshaw's friend,
+  and her own incriminating admission that she had asked him to kill Rengel. The
+  judgment records an incident ~3 months earlier where Bagshaw told Rengel his
+  girlfriend wanted him to stab her (and planned to fake an interruption). First-
+  degree murder; sentenced as an ADULT (life, 7-yr parole ineligibility); appeal
+  dismissed. **⚠️ Sourcing note:** this appeal is about the admissibility of her
+  police statements + adult sentence, so it summarizes rather than quotes the
+  chats; the granular sex-ultimatum content is trial-sourced, kept OUT of the
+  chapter.
 
 ### Ch. 18 - *R. v. Sandeson*, 2020 NSCA 47 - ✅ CONFIRMED FROM PDF 🔶
 - **Link:** https://www.canlii.org/en/ns/nsca/doc/2020/2020nsca47/2020nsca47.html

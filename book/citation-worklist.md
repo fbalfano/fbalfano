@@ -41,7 +41,7 @@ cases we'll frame carefully.
 
 ## PART III - What You Typed, What You Saved (search history, files, chat)
 - ✅ 🇨🇦 *R v Garland*, 2019 ABCA 479 *(hard drive in the rafters)* - **PDF pulled ✔ · chapter drafted ✔**
-- ⚠️ 🇨🇦 *R. v. Todorovic*, 2014 ONCA 153 *(chat log = the crime)*
+- ✅ 🇨🇦 *R. v. Todorovic*, 2014 ONCA 153 *(chat log = the crime)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 *(own camera; NEW TRIAL ordered - defence-PI scandal)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇺🇸 *State v. Jensen*, 2021 WI 27, 396 Wis. 2d 196 *(letter from the grave; NEW TRIAL ordered, not affirmance)* - **PDF pulled ✔ · chapter drafted ✔**
 - ⚠️ 🇺🇸 *State v. Jensen* (**Jensen II**), 2011 WI App 3, 331 Wis. 2d 440, 794 N.W.2d 482 *(companion pull - trial evidence detail incl. family-computer forensics)*
@@ -55,7 +55,7 @@ cases we'll frame carefully.
 - **"Almost testified" sidebar (🔶, no conviction-on-appeal):** *State v. Bates* (AR, Alexa - dropped) · *Anthony Aiello* (CA, Fitbit - died pre-trial) · *State v. Compton* (OH, pacemaker - arson, died pre-trial) · *State v. Crespo* (FL, Alexa - trial-level) · *State v. Verrill* (NH, Alexa - appeal pending, No. 2024-0337)
 
 ## PART V - The Gun and the Residue (firearms, GSR, ballistics)
-- ✅ 🇨🇦 *R. v. Stevenson*, 2014 ONCA 842 *(GSR on suspect's hand)*
+- ✅ 🇨🇦 *R. v. Stevenson*, 2014 ONCA 842 *(GSR on suspect's hand)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *R. v. F. (J.M.)*, 2022 MBCA 52 *(no gun, ammo match + phone photos)*
 - ✅ 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 *(ballistics, wrong-target hit)*
 
