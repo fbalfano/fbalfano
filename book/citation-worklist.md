@@ -23,7 +23,7 @@ cases we'll frame carefully.
 - ✅ 🇺🇸 *State v. Talbott*, 200 Wn.2d 731, 521 P.3d 948 (Wash. 2022) - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇺🇸 *State v. Hartman*, 29 Wn. App. 2d 384, 534 P.3d 423 (Wash. Ct. App. 2023) - **PDF pulled ✔ · chapter drafted ✔ (Ch. 6)**
 - ✅ 🇺🇸 *People v. Vaultz*, No. B323590 (Cal. Ct. App. 2024) *(unpublished)* - **PDF pulled ✔ · folded into Ch. 6 ✔**
-- ⚠️🔶 🇺🇸 *People v.* [caption uncertain - maybe "Russo"], No. G063674 (Cal. Ct. App. 2024) *(confirm party name in the PDF)*
+- ~~🇺🇸 *People v. Russo*, No. G063674 (Cal. Ct. App. Div. 3)~~ - **DROPPED.** Confirmed to be the genetic-genealogy Fourth Amendment case, but it is a **rape** prosecution (two living victims, semen abandoned at scene), **not a murder**. Doesn't fit a murder-only book; the genealogy-privacy point is already carried by Ch. 6 (Hartman, a child's murder) + Vaultz. *(The 1959 "People v. Russo," 168 Cal. App. 2d 747, is an unrelated namesake.)*
 - 🔶 🇺🇸 *Golden State Killer / People v. DeAngelo* - **no appeal (guilty plea); news-sourced sidebar only**
 - ✅ 🇺🇸 *Williams v. State*, 251 Ga. 749, 312 S.E.2d 40 (Ga. 1983) *(Atlanta Child Murders - fibres)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇺🇸 *Turner v. State*, 281 Ga. 647, 641 S.E.2d 527 (Ga. 2007) *(Julia Lynn Turner, antifreeze)* - **PDF pulled ✔ · chapter drafted ✔**
@@ -83,8 +83,16 @@ cases we'll frame carefully.
 ---
 
 ### Tally
-**52 anchor authorities** - ~24 Canadian, ~28 American - across 8 forensic
+**51 anchor authorities** - ~24 Canadian, ~27 American - across 8 forensic
 themes, plus the "almost testified" and Golden State Killer sidebars.
+
+**STATUS: content-complete.** All 41 numbered chapters (Parts I-VIII) plus the
+Part II framing interlude are drafted, with source PDFs archived and Word docs
+built. The only non-drafted line items remaining are the by-design sidebars
+(Golden State Killer; the Alexa/Fitbit/pacemaker "almost testified" cases),
+which have no qualifying appellate decision to anchor a full chapter, and the
+dropped Russo slot above. Optional expansion leads live in
+`gaps-and-future-chapters.md`.
 
 ### As we summarize each, we'll capture:
 1. The human story (victim, accused, what happened).
