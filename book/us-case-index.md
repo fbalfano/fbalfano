@@ -99,14 +99,21 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   the "1 in 7,792" figure are NOT in this opinion (trial-record/press) - chapter
   follows the opinion's own account.
 
-### *Turner v. State*, 281 Ga. 647, 641 S.E.2d 527 (Ga. 2007) - ⚠️
-- **Court/year:** Supreme Court of Georgia, 2007
+### *Turner v. State*, 281 Ga. 647, 641 S.E.2d 527 (Ga. 2007) - ✅ CONFIRMED FROM PDF
+- **Court/year:** Supreme Court of Georgia, 2007 (Glenn's death 1995; Thompson's 2001)
 - **Link:** https://law.justia.com/cases/georgia/supreme-court/2007/s06a1971-1.html
-- **Smoking gun:** Julia Lynn Turner poisoned her firefighter husband (1995) and,
-  years later, her boyfriend (2001) with ethylene glycol (antifreeze), each
-  disguised as sudden illness. Toxicology found the poison in the boyfriend; the
-  husband's exhumation showed the same - an identical M.O. Confirm exact S.E.2d
-  page.
+- **PDF in repo:** `book/pdfs/Turner_v_State_281_Ga_647_2007.pdf` · **Chapter:** `book/chapters/ch08-turner-antifreeze.md`
+- **Smoking gun (per the opinion):** Julia Lynn Turner's husband Glenn (a Cobb
+  County POLICE officer, not firefighter) died suddenly March 1995, ruled
+  natural/heart. M.O.: sudden flu-like illness, ER visit + discharge, green Jell-O
+  (hides antifreeze), dead within hours, insurance collected. 4 days after the
+  funeral she moved in with affair partner Randy Thompson. Six years later
+  Thompson died on the IDENTICAL script (ER, Jell-O, dead by morning, $30k+ life
+  insurance). Toxicology found ethylene glycol in Thompson (rare poisoning); that
+  triggered retesting Glenn's preserved samples and EXHUMING his body - confirming
+  ethylene glycol, overturning the "heart" ruling. Thompson's death admitted as a
+  similar transaction. Malice-murder conviction (Glenn) affirmed. (Died in prison
+  2010 - later history.) **Correction: police officer, not firefighter.**
 
 ---
 

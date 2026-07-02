@@ -26,7 +26,7 @@ cases we'll frame carefully.
 - ⚠️🔶 🇺🇸 *People v.* [caption uncertain - maybe "Russo"], No. G063674 (Cal. Ct. App. 2024) *(confirm party name in the PDF)*
 - 🔶 🇺🇸 *Golden State Killer / People v. DeAngelo* - **no appeal (guilty plea); news-sourced sidebar only**
 - ✅ 🇺🇸 *Williams v. State*, 251 Ga. 749, 312 S.E.2d 40 (Ga. 1983) *(Atlanta Child Murders - fibres)* - **PDF pulled ✔ · chapter drafted ✔**
-- ⚠️ 🇺🇸 *Turner v. State*, **281 Ga. 647**, 641 S.E.2d 527 (Ga. **2007**) *(Julia Lynn Turner, antifreeze)* - **WRONG FILE SENT (got 273 Ga. 340 (2001), a different Turner) - RE-PULL: Justia s06a1971-1**
+- ✅ 🇺🇸 *Turner v. State*, 281 Ga. 647, 641 S.E.2d 527 (Ga. 2007) *(Julia Lynn Turner, antifreeze)* - **PDF pulled ✔ · chapter drafted ✔**
 
 ## PART II - The Phone in Your Pocket (location & movement)
 - ✅ 🇺🇸 *Carpenter v. United States*, 585 U.S. 296, 138 S. Ct. 2206 (2018) *(framing - cell-site)*

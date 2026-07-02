@@ -43,8 +43,8 @@ victim's body, and a killer's, refuse to let go.*
    - *Sidebar:* 🇺🇸 the Golden State Killer (DeAngelo) - the cold case that launched it all (no appeal)
 7. **The Carpet in His Bedroom** - 🇺🇸 *Williams v. State*, 251 Ga. 749 (1983) ✍️ *drafted* *(Atlanta Child Murders - fibres)*
    *Hook:* **For two years a city buried its children and could not name the killer. In the end he was undone by the carpet fibres he carried out of his own bedroom and left on the bodies.**
-8. **The Sweet Taste of Antifreeze** - 🇺🇸 *Turner v. State*, 281 Ga. 647 (2007) - two men, years apart, one poisoner
-   *⚠️ NEEDS RE-PULL: the file sent was the WRONG Turner (273 Ga. 340 (2001), James Steven Turner, a 1979 shooting). The antifreeze poisoner is Julia Lynn Turner, 281 Ga. 647, 641 S.E.2d 527 (2007) - Justia s06a1971-1.*
+8. **The Sweet Taste of Antifreeze** - 🇺🇸 *Turner v. State*, 281 Ga. 647 (2007) ✍️ *drafted*
+   *Hook:* **Her husband died of a sudden illness in 1995, and the doctors called it his heart. Six years later her boyfriend died of the exact same sudden illness. It was only the second death that made anyone test the first.**
 
 ## PART II - THE PHONE IN YOUR POCKET
 *Cell-tower pings, GPS, geotags, and licence-plate readers - the machines that
