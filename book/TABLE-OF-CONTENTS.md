@@ -28,10 +28,14 @@ decision; and why we tell you the case name every time, so you can go check us.
 *DNA, genetic genealogy, trace evidence, and toxicology - the science of what a
 victim's body, and a killer's, refuse to let go.*
 
-1. **The Man Who Handed Police the Hair That Hanged Him** - 🇨🇦 *R. v. Arp* (SCC, 1998)
-2. **Novel Science, First Blood** - 🇨🇦 *R. v. Legere* (NB CA, 1994) - Canada's first DNA murder conviction
-3. **Under Her Fingernails** - 🇨🇦 *Laliberté c. R.* (QC CA, 2015)
-4. **The Maintenance Man's Calling Card** - 🇨🇦 *R. v. Terceira* (ON CA/SCC, 1998–99) - fibres + hair + DNA
+1. **The Man Who Handed Police the Hair That Hanged Him** - 🇨🇦 *R. v. Arp*, 1998 CanLII 769 (SCC) ✍️ *drafted*
+   *Hook:* **When the police asked Brian Arp for a few hairs to rule him out, he handed them over. They were the very hairs that would tie him to a murder.**
+2. **First Blood** - 🇨🇦 *R. v. Legere*, 1994 CanLII 3851 (NB CA) ✍️ *drafted* *(Canada's first DNA murder conviction)*
+   *Hook:* **An escaped killer terrorized a New Brunswick river valley for seven months. He was convicted on a technology so new that no Canadian jury had ever hanged a murder on it before. His blood was the first.**
+3. **Under Her Fingernails** - 🇨🇦 *Laliberté c. R.*, 2015 QCCA 1633 ✍️ *drafted* *(French decision, translated)*
+   *Hook:* **An intruder killed Michaël Cadieux with fourteen stab wounds. He did not count on the woman beside him fighting back, grabbing him by the throat, and taking a piece of him under her nails.**
+4. **The Calling Card** - 🇨🇦 *R. v. Terceira*, 1998 CanLII 2174 (ON CA); aff'd 1999 CanLII 645 (SCC) ✍️ *drafted*
+   *Hook:* **A six-year-old girl's body was hidden in a boiler room the police never found, on a floor they didn't know existed. But the man who put her there left four different kinds of himself on her body.**
 5. **A Coffee Cup and a Stranger's Family Tree** - 🇺🇸 *State v. Talbott* (Wash., 2022) - the first genetic-genealogy trial
 6. **No Privacy in the DNA Your Cousins Share** - 🇺🇸 *State v. Hartman* (Wash. Ct. App., 2023) - the technique upheld
    - *Sidebar:* 🇺🇸 the Golden State Killer (DeAngelo) - the cold case that launched it all (no appeal)

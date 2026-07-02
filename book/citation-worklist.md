@@ -16,10 +16,10 @@ cases we'll frame carefully.
 ---
 
 ## PART I - What the Body Kept (DNA, genealogy, trace, toxicology)
-- ✅ 🇨🇦 *R. v. Arp*, 1998 CanLII 769 (SCC), [1998] 3 SCR 339
-- ⚠️ 🇨🇦 *R. v. Legere*, 1994 CanLII 3851 (NB CA)
-- ⚠️ 🇨🇦 *Laliberté c. R.*, 2015 QCCA 1633
-- ✅ 🇨🇦 *R. v. Terceira*, 1998 CanLII 2174 (ON CA); aff'd 1999 CanLII 645 (SCC)
+- ✅ 🇨🇦 *R. v. Arp*, 1998 CanLII 769 (SCC), [1998] 3 SCR 339 - **PDF pulled ✔ · chapter drafted ✔**
+- ✅ 🇨🇦 *R. v. Legere*, 1994 CanLII 3851 (NB CA) - **PDF pulled ✔ · chapter drafted ✔**
+- ✅ 🇨🇦 *Laliberté c. R.*, 2015 QCCA 1633 *(French - translated)* - **PDF pulled ✔ · chapter drafted ✔**
+- ✅ 🇨🇦 *R. v. Terceira*, 1998 CanLII 2174 (ON CA); aff'd 1999 CanLII 645 (SCC) - **PDFs pulled ✔ · chapter drafted ✔**
 - ✅ 🇺🇸 *State v. Talbott*, 200 Wn.2d 731, 521 P.3d 948 (Wash. 2022) *(also Wash. Ct. App. No. 80334-4-I, 2021)*
 - ✅ 🇺🇸 *State v. Hartman*, 29 Wn. App. 2d 384, 534 P.3d 423 (Wash. Ct. App. 2023)
 - ⚠️ 🇺🇸 *People v. Vaultz*, No. B323590 (Cal. Ct. App. 2024) *(unpublished - cite by docket)*

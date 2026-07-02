@@ -8,36 +8,65 @@ before print · 🔶 frame with care (contested / reversed / inverted).
 
 ## Part I - What the Body Kept
 
-### Ch. 1 - *R. v. Arp*, 1998 CanLII 769 (SCC), [1998] 3 SCR 339 - ✅
+### Ch. 1 - *R. v. Arp*, 1998 CanLII 769 (SCC), [1998] 3 SCR 339 - ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/ca/scc/doc/1998/1998canlii769/1998canlii769.html
-- **Court / year:** Supreme Court of Canada, 1998 (affirming BC CA)
-- **Smoking gun:** Two women picked up alone in early-morning Prince George
-  (1989, 1993) were later found dumped outside the city. Brian Arp volunteered
-  hair samples to "eliminate" himself; DNA instead tied him to the second
-  killing, and hair + similar-fact evidence linked the two. Leading SCC
-  authority on DNA match statistics and the "prosecutor's fallacy."
+- **PDF in repo:** `book/pdfs/R_v_Arp_1998_SCC_769.pdf` · **Chapter:** `book/chapters/ch01-arp-hair.md`
+- **Court / year:** Supreme Court of Canada, 1998 (Cory J.; murders 1989 & 1993)
+- **Smoking gun (per the opinion):** Marnie Blanchard (last seen ~2 a.m. outside a
+  Prince George bar, Nov 22 1989; skeletal remains found ~10 km out) and Theresa
+  Umphrey (nude body on a snowbank ~50 km SW, Feb 1993). Arp VOLUNTEERED scalp/pubic
+  hair in 1990 to "help" (before DNA analysis was contemplated; not told it could
+  be used in court); later refused DNA samples, but police bagged his cigarette
+  butts from an interview. RCMP biologist Barbara Fraser: five-probe match between
+  his hair + butts and Umphrey's semen, frequency < 1 in 31 billion. Convicted of
+  both murders; appeal dismissed. Leading SCC authority on similar-fact-to-prove-
+  identity and on presenting DNA match probabilities (the "prosecutor's fallacy").
 
-### Ch. 2 - *R. v. Legere*, 1994 CanLII 3851 (NB CA) - ⚠️
+### Ch. 2 - *R. v. Legere*, 1994 CanLII 3851 (NB CA) - ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/nb/nbca/doc/1994/1994canlii3851/1994canlii3851.html
-- **Court / year:** New Brunswick Court of Appeal, 1994 (murders 1989)
-- **Smoking gun:** After escaping custody, Allan Legere murdered four people
-  around the Miramichi. With no eyewitnesses, DNA from the scenes matched him -
-  the first murder conviction in Canada grounded on DNA evidence.
+- **PDF in repo:** `book/pdfs/R_v_Legere_1994_NBCA_3851.pdf` · **Chapter:** `book/chapters/ch02-legere-first-dna.md`
+- **Court / year:** New Brunswick Court of Appeal, 1994 (murders 1989; convicted 1991)
+- **Smoking gun (per the opinion):** Already imprisoned for the 1986 murder of
+  John Glendenning, Legere escaped custody (May 1989) en route to a Moncton
+  hospital and, over ~7 months, murdered four people around the Miramichi: grocer
+  Annie Flam (apartment set afire), sisters Linda and Donna Daughney, and Roman
+  Catholic priest Father James Smith. Recaptured Nov 1989. No reliable eyewitnesses;
+  DNA typing of biological traces (blood, semen) tied him to the scenes - the FIRST
+  murder conviction in Canada grounded on DNA. NBCA analyzed the novel science's
+  admissibility/reliability and dismissed the appeal.
 
-### Ch. 3 - *Laliberté c. R.*, 2015 QCCA 1633 - ⚠️ (French decision)
+### Ch. 3 - *Laliberté c. R.*, 2015 QCCA 1633 - ✅ CONFIRMED FROM PDF (French, translated)
 - **Link:** https://www.canlii.org/fr/qc/qcca/doc/2015/2015qcca1633/2015qcca1633.html
-- **Court / year:** Quebec Court of Appeal, 2015 (attack 2011); SCC leave denied (file 36712)
-- **Smoking gun:** A man was stabbed to death and his partner stabbed but
-  survived. DNA scraped from under the surviving victim's fingernails - left as
-  she fought back - matched Pierre-Olivier Laliberté.
+- **PDF in repo:** `book/pdfs/Laliberte_c_R_2015_QCCA_1633.pdf` · **Chapter:** `book/chapters/ch03-laliberte-fingernails.md`
+- **Court / year:** Quebec Court of Appeal, 2015 (attack June 12, 2011, Quebec City); SCC leave denied
+- **Smoking gun (per the opinion, translated from French):** ~4:12 a.m., an
+  intruder entered the apartment of Michaël Cadieux and his partner (court uses
+  initials **B.F.S.**). They rushed him; Cadieux was stabbed 14 times and killed;
+  B.F.S. grabbed the attacker by the throat, strangled and shoved him, and survived.
+  Same-day scrapings under her RIGHT-hand fingernails held TWO complete genetic
+  profiles - hers and Pierre-Olivier Laliberté's (as much of his DNA as hers;
+  ~1 in several hundred billion; the reddish swab was "blood/bleeding flesh").
+  Defence transfer argument defeated by the fact that B.F.S. worked gloveless as a
+  dishwasher (humidity destroys DNA), so the rich sample had to be fresh - from the
+  struggle. First-degree murder of Cadieux + attempted murder of B.F.S.; appeal
+  dismissed. **Surviving victim identified only by initials - keep it that way.**
 
-### Ch. 4 - *R. v. Terceira*, 1998 CanLII 2174 (ON CA), aff'd 1999 CanLII 645 (SCC) - ✅
+### Ch. 4 - *R. v. Terceira*, 1998 CanLII 2174 (ON CA), aff'd 1999 CanLII 645 (SCC) - ✅ CONFIRMED FROM PDF
 - **Links:** ONCA https://www.canlii.org/en/on/onca/doc/1998/1998canlii2174/1998canlii2174.html · SCC https://www.canlii.org/en/ca/scc/doc/1999/1999canlii645/1999canlii645.html
-- **Court / year:** Ontario CA 1998; SCC 1999 (murder 1990)
-- **Smoking gun:** Six-year-old Andrea Atkinson was killed and hidden in a
-  Toronto apartment boiler room. The building's maintenance man was tied by a
-  convergence of trace evidence - fibres from his sweatpants on every item of
-  her clothing, his hairs on her body, his DNA at the scene.
+- **PDFs in repo:** `book/pdfs/R_v_Terceira_1998_ONCA_2174.pdf`, `..._1999_SCC_645.pdf` · **Chapter:** `book/chapters/ch04-terceira-calling-card.md`
+- **Court / year:** Ontario CA 1998; SCC aff'd Dec 16, 1999 (murder Oct 14, 1990)
+- **Smoking gun (per the opinion):** Six-year-old Andrea Atkinson vanished from
+  outside her Toronto apartment building (Oct 14, 1990); body found Oct 23 in the
+  obscure 6th-floor boiler room (so hidden police never found it during a 9-day
+  search) - sexually assaulted, asphyxiated. John Terceira, a building janitor
+  with keys who admitted going there, was the only janitor scheduled that day and
+  had shown interest in the child. Four converging traces tied him: HAIR, a mixed
+  BLOOD + SEMEN stain outside the boiler room, DNA matching him, and numerous blue
+  FIBRES consistent with the sweatpants he wore to work that day on her clothing
+  and the floor. Plus pre-arrest lies about how often he'd been there. First-degree
+  murder; ONCA affirmed, SCC dismissed - a leading case on DNA probability
+  statistics. (NOTE: fibres were "consistent with" his sweatpants on her clothing/
+  the floor - not literally "every item"; chapter follows the opinion's wording.)
 
 ---
 
