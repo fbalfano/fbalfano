@@ -31,7 +31,7 @@ cases we'll frame carefully.
 ## PART II — The Phone in Your Pocket (location & movement)
 - ✅ 🇺🇸 *Carpenter v. United States*, 585 U.S. 296, 138 S. Ct. 2206 (2018) *(framing — cell-site)*
 - ✅ 🇺🇸 *United States v. Jones*, 565 U.S. 400 (2012) *(framing — GPS on vehicle)*
-- ✅ 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418
+- ✅ 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418 — **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *R. v. Millard* (Laura Babcock), 2023 ONCA 426
 - ✅ 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 *(rental-car GPS)* — **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇨🇦 *R. v. Pan*, 2023 ONCA 362; aff'd 2025 SCC 12 *(check disposition)*
@@ -67,7 +67,7 @@ cases we'll frame carefully.
 
 ## PART VII — In Their Own Words (confession, undercover, wiretap, informant)
 - ✅ 🇨🇦 *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 *(the Mr. Big leading case)* — **PDF pulled ✔ · chapter drafted ✔**
-- ✅ 🇨🇦 *R. v. Mack*, 2014 SCC 58 *(Mr. Big upheld — body confirmed it)*
+- ✅ 🇨🇦 *R. v. Mack*, 2014 SCC 58, [2014] 3 S.C.R. 3 *(Mr. Big upheld — body confirmed it)* — **PDF pulled ✔ · chapter drafted ✔**
 - ⚠️ 🇨🇦 *R. v. Kelly*, 2017 ONCA 621 *(fake insurance investigator)*
 - ⚠️🔶 🇨🇦 *Laflamme c. R.*, 2015 QCCA 1517 *(sting stayed for abuse of process)*
 - ✅ 🇨🇦 *R. v. Mapara*, 2005 SCC 23 *(wiretap lure call)*

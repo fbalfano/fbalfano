@@ -47,7 +47,9 @@ log where you were.*
 > (2012) — the two rulings that decided when the phone in your pocket needs a
 > warrant.
 
-9. **Two Phones, the Same Towers** — 🇨🇦 *R. v. Millard* (Tim Bosma) (ON CA, 2023)
+9. **The Test Drive** — 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418 ✍️ *drafted*
+   *Hook:* **They planned the murder before they picked the victim. Tim Bosma was chosen by his own for-sale ad.**
+   *(Note: the ONCA judgment's evidence summary centres the "mission" texts, video trail, and the Eliminator; the cell-tower correlation from news coverage isn't in it — chapter follows the judgment.)*
 10. **A Murder With No Body, Solved by Where Three Phones Met** — 🇨🇦 *R. v. Millard* (Laura Babcock) (ON CA, 2023)
 11. **Never Rent a Getaway Car** — 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 ✍️ *drafted*
     *Hook:* **He rented the getaway car under a fake name — and the fake name is exactly why the car's testimony could never be thrown out.**
@@ -102,7 +104,8 @@ Canadian art of getting a killer to talk.*
 
 31. **Mr. Big** — 🇨🇦 *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 ✍️ *drafted* 🔶
     *Hook:* **The RCMP built a fake criminal empire with one purpose: to make an unemployed man from Gander confess to drowning his little girls.**
-32. **When Mr. Big Holds Up** — 🇨🇦 *R. v. Mack* (SCC, 2014)
+32. **The Firepit** — 🇨🇦 *R. v. Mack*, 2014 SCC 58, [2014] 3 S.C.R. 3 ✍️ *drafted*
+    *Hook:* **He told the fake crime boss there was "nothing left" of his roommate. Then he drove an undercover cop to the exact spot where the nothing was.**
 33. **The Fake Insurance Investigator** — 🇨🇦 *R. v. Kelly* (ON CA, 2017)
 34. **The Sting That Went Too Far** — 🇨🇦 *Laflamme c. R.* (QC CA, 2015) 🔶
 35. **The Tapped Phone and the Lure Call** — 🇨🇦 *R. v. Mapara* (SCC, 2005)

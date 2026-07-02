@@ -81,14 +81,26 @@ before print · 🔶 frame with care (contested / reversed / inverted).
 
 ## Part III — The Phone in Your Pocket
 
-### Ch. 9 — *R. v. Millard* (Tim Bosma), 2023 ONCA 418 — ✅ (triple-confirmed)
+### Ch. 9 — *R. v. Millard* (Tim Bosma), 2023 ONCA 418 — ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/on/onca/doc/2023/2023onca418/2023onca418.html
-- **Court / year:** Ontario Court of Appeal, 2023 (murder 2013)
-- **Smoking gun:** Dellen Millard and Mark Smich lured Tim Bosma from his home on
-  a fake truck test-drive, killed him, and burned his body in an incinerator.
-  The burner phone that made final contact was pinging off the same cell towers
-  as Millard's own phone; the truck later yielded his prints, GSR, and Bosma's
-  blood.
+- **PDF in repo:** `book/pdfs/R_v_Millard_2023_ONCA_418.pdf`
+- **Chapter:** drafted — `book/chapters/ch09-millard-bosma-test-drive.md`
+- **Court / year:** Ontario Court of Appeal, decided June 14, 2023 (Gillese
+  J.A.; Millard + Smich appeals heard together; convictions June 17, 2016)
+- **Smoking gun (per the opinion):** Tim Bosma, 32, posted his Dodge 3500 for
+  sale online; on May 6, 2013 Millard and Smich took it — and him — on a test
+  drive he never returned from. Crown's evidence: truck found at Millard's
+  mother's home with Bosma's blood spattered throughout, broken passenger
+  window, Millard's prints on the mirror and door; GSR and a .380 casing in the
+  cab; video tracked the truck and put both men in the Millard Air hangar at
+  1:33 a.m. with a large flame at 1:44 a.m.; the ten-foot "Eliminator"
+  incinerator behind the barn held male human bones, Bosma's blood on the
+  hatch; months of texts planned a "mission" to steal a truck and the
+  incinerator's acquisition; texts + a photo tied both men to the .380. After
+  arrest: Smich buried the gun; Millard wrote jail letters instructing his
+  girlfriend to obstruct. Cut-throat defences failed; both appeals dismissed.
+  **Note:** the news-reported burner-phone/cell-tower correlation is NOT in
+  this judgment — chapter follows the judgment.
 
 ### Ch. 10 — *R. v. Millard* (Laura Babcock), 2023 ONCA 426 — ✅
 - **Link:** https://www.canlii.org/en/on/onca/doc/2023/2023onca426/2023onca426.html
@@ -197,13 +209,24 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   — no confirmatory evidence, unlike Mack. Appeal dismissed; charges later
   withdrawn (news-sourced).
 
-### Ch. 17 — *R. v. Mack*, 2014 SCC 58 — ✅
+### Ch. 32 — *R. v. Mack*, 2014 SCC 58, [2014] 3 S.C.R. 3 — ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/ca/scc/doc/2014/2014scc58/2014scc58.html
-- **Court / year:** Supreme Court of Canada, 2014 (decided with *Hart*)
-- **Smoking gun:** Dax Mack told an undercover officer he shot his roommate and
-  dumped the body at his father's property — and the remains were recovered
-  there. Applying the new framework, the SCC upheld the conviction: the
-  confession's probative value won because the body confirmed it.
+- **PDF in repo:** `book/pdfs/R_v_Mack_2014_SCC_58.pdf`
+- **Chapter:** drafted — `book/chapters/ch32-mack-firepit.md`
+- **Court / year:** Supreme Court of Canada, decided Sept. 26, 2014 (Moldaver
+  J., unanimous; heard Dec. 3, 2013)
+- **Smoking gun (per the opinion):** Robert Levoir vanished from Fort McMurray
+  (Nov. 2002); a month later friend Jay Love tipped police that Mack had
+  drunkenly confessed ("no, I did it myself") — Argueta heard similar. Mr. Big
+  (Jan.–Apr. 2004, "Ben" and boss "Liam"): 30 scenarios, ~$5,000; Mack REFUSED
+  to confess at the first Liam meeting ("loose lips sink ships"), stayed on the
+  "third line." April 9: confessed to Ben — five shots with a .223 (four chest,
+  one back), body burned, "nothing left" — recanted within minutes, then led
+  Ben to the firepit on his father's property. April 15: repeated it to Liam.
+  Search found Levoir's bone fragments and teeth in that firepit plus casings
+  fired by the rifle in Mack's apartment. Wiretap conceded illegal (s. 8) but
+  confessions untainted; conviction upheld — the confirmed-by-the-body
+  counterpoint to *Hart*.
 
 ### Ch. 18 — *R. v. Kelly*, 2017 ONCA 621 — ⚠️
 - **Link:** https://www.canlii.org/en/on/onca/doc/2017/2017onca621/2017onca621.html
