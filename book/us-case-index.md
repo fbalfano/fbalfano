@@ -283,22 +283,42 @@ sidebar on the frontier of device evidence:
   Book framing: the "triumphant" bite-mark case whose scientific promise later
   collapsed, setting up the Krone and Howard exonerations (Chs. 38-39).
 
-### *State v. Krone*, 182 Ariz. 319, 897 P.2d 621 (Ariz. 1995) - ✅ 🔶 (exoneration)
-- **Court/year:** Arizona Supreme Court, 1995
+### *State v. Krone*, 182 Ariz. 319, 897 P.2d 621 (Ariz. 1995) - ✅ CONFIRMED FROM PDF 🔶
+- **Court/year:** Arizona Supreme Court, 1995 (murder Dec. 29, 1991)
 - **Link:** https://law.justia.com/cases/arizona/supreme-court/1995/cr-92-0480-ap-2.html
-- **Smoking gun:** Ray Krone - the "Snaggletooth Killer" - was sent to death row
-  almost entirely on bite-mark testimony. The court reversed on a disclosure
-  issue, noting that without the bite marks the State had no case; DNA exonerated
-  him in 2002, the 100th US death-row exoneree.
+- **PDF in repo:** `book/pdfs/State_v_Krone_182_Ariz_319_1995.pdf`
+- **Chapter:** drafted - `book/chapters/ch38-krone-snaggletooth.md`
+- **Smoking gun (per the opinion):** Kim Ancona, a Phoenix bartender, found nude
+  and stabbed in the C.B.S. Lounge men's room. Killer left almost nothing (no
+  prints, no semen, common-blood-type saliva, no DNA tests then). One "crucial"
+  piece: a bite on the neck and breast. Ray Krone (a regular, name in her book,
+  said to be helping her close) had crooked teeth; press dubbed him the
+  "Snaggletooth Killer." Court's line: "without the bite marks, the State
+  arguably had no case." Convicted, sentenced to death. **1995 disposition:
+  convictions REVERSED, new trial** - but on a discovery violation (the State's
+  bite-mark overlay VIDEOTAPE disclosed the business day before trial), NOT an
+  innocence finding. History (news-sourced): retried and convicted again 1996;
+  2002 DNA excluded him and identified another man; freed after ~10 years, the
+  100th US death-row exoneree.
 
-### *Howard v. State*, No. 2018-CA-01586-SCT (Miss. 2020) - ⚠️ 🔶 (exoneration)
-- Reporter reported as 300 So. 3d 1011 - confirm.
-- **Court/year:** Mississippi Supreme Court, 2020
+### *Howard v. State*, No. 2018-CA-01586-SCT (Miss. 2020) - ⚠️ 🔶 CONFIRMED FROM PDF
+- Reporter reported as 300 So. 3d 1011 - **still confirm the exact page.**
+- **Court/year:** Mississippi Supreme Court, 2020 (murder Feb. 2, 1992)
 - **Link:** https://law.justia.com/cases/mississippi/supreme-court/2020/2018-ca-01586-sct.html
-- **Smoking gun:** Eddie Lee Howard spent 26 years on death row on bite-mark
-  testimony (Dr. Michael West) about marks no one else ever saw on an exhumed
-  body. The court vacated, holding bite-mark identification unreliable; DNA
-  excluded him. Exonerated 2021. The case that formally rejected the science.
+- **PDF in repo:** `book/pdfs/Howard_v_State_2018-CA-01586-SCT_2020.pdf`
+- **Chapter:** drafted - `book/chapters/ch39-howard-bite-mark-rejected.md`
+- **Smoking gun (per the opinion):** Georgia Kemp, 84, beaten/strangled/stabbed
+  (2 fatal stab wounds)/raped in Columbus, MS; bloody knife on the bed, phone
+  line cut, small fire. **The autopsy (Dr. Hayne) noted NO bite marks.** Days
+  later the body was exhumed and Dr. Michael West (notorious ABFO odontologist)
+  declared three human bite marks matching Howard's teeth via a "wound
+  duplication test with ink." Little other evidence. **2020 disposition: reversed
+  the denial of postconviction relief, VACATED conviction and death sentence, new
+  trial** - because the ABFO had since revised its guidelines and consensus now
+  holds a perpetrator cannot be reliably identified by bite-mark comparison, AND
+  DNA testing found male touch-DNA on the murder-weapon knife blade that EXCLUDED
+  Howard (nightgown, stockings, kit, fingernails all lacked incriminating male
+  DNA). 26 years on death row; exonerated 2021 (news-sourced).
 
 ### *Lobato v. State*, 120 Nev. 512, 96 P.3d 765 (Nev. 2004) - ⚠️ 🔶 (exoneration)
 - **Court/year:** Nevada Supreme Court, 2004 (published); later relief 2016–18

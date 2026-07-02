@@ -95,8 +95,9 @@ the witnesses you strap on and invite inside.*
 25. **No Gun, But the Bullets Matched** - 🇨🇦 *R v F (JM)*, 2022 MBCA 52 ✍️ *drafted* 🔶
     *Hook:* **The murder weapon was never found. It didn't have to be. The killer kept the matching ammunition in his bedroom and photos of the rifle on his Facebook.**
     *(Conviction set aside, new trial ordered over a s. 10(b) breach - a foyer arrest of a youth without a right-to-counsel warning. Told honestly.)*
-26. **What Happens When You Die** - 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 🔶 *(reframe pending - see below)*
-    *Note: PDF read. Ballistics was INCONCLUSIVE; the real evidence was CCTV + the killers' callous post-murder Google searches ("without vital signs", "what happens when you die"). Convictions were also SET ASIDE (new trial). Better as a digital chapter than a ballistics one - awaiting your call.*
+26. **What Happens When You Die** - 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 ✍️ *drafted* 🔶
+    *Hook:* **After they shot an innocent man in a parking lot, one of the killers pulled out his phone and Googled "what happens when you die." He was not being philosophical. He was checking his work.**
+    *(Reframed as a digital "callous search" chapter, not ballistics - the gun evidence was inconclusive. Told honestly: convictions SET ASIDE, new trial. In the FINAL reorder this belongs in Part IV "What You Typed," not the firearms part.)*
 
 ## PART VI - THE STAGED SCENE
 *Bloodstain patterns, bullet trajectory, and the physics that exposes a scene
@@ -127,8 +128,10 @@ the people wielding it.*
 
 37. **The Teeth That Caught a Monster** - 🇺🇸 *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) ✍️ *drafted*
     *Hook:* **Bite-mark evidence helped convict Ted Bundy, and the experts swore it was a science of "a high degree of reliability." They were right about the monster. They were wrong about the science, and innocent men would pay for the difference.**
-38. **The Snaggletooth Exoneration** - 🇺🇸 *State v. Krone* (Ariz., 1995) 🔶 - the same science sends the wrong man to death row
-39. **Bite Marks, Formally Rejected** - 🇺🇸 *Howard v. State* (Miss., 2020) 🔶 - 26 years, then DNA
+38. **The Snaggletooth Killer** - 🇺🇸 *State v. Krone*, 182 Ariz. 319 (1995) ✍️ *drafted* 🔶
+    *Hook:* **The same bite-mark science that caught Ted Bundy sent Ray Krone to death row. The only difference was that Krone hadn't done it, and it took ten years and a DNA test to prove what his crooked teeth could not.**
+39. **The Bite Marks Only One Man Could See** - 🇺🇸 *Howard v. State*, No. 2018-CA-01586-SCT (Miss. 2020) ✍️ *drafted* 🔶
+    *Hook:* **The autopsy found no bite marks. Then the body was exhumed, a forensic dentist declared he'd found three, matched them to Eddie Lee Howard, and sent him to death row for twenty-six years. Another man's DNA was on the knife.**
 40. **The Flies That Never Came** - 🇺🇸 *Lobato v. State* (Nev., 2004) 🔶 - entomology clears the innocent
 41. **The Boy, the Flies, and Forty-Eight Years** - 🇨🇦 *R. v. Truscott* (ON CA, 2007) 🔶 - the Canadian bookend
 
