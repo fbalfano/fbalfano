@@ -50,9 +50,10 @@ victim's body, and a killer's, refuse to let go.*
 *Cell-tower pings, GPS, geotags, and licence-plate readers - the machines that
 log where you were.*
 
-> *Framing:* 🇺🇸 *Carpenter v. United States* (2018) and *United States v. Jones*
-> (2012) - the two rulings that decided when the phone in your pocket needs a
-> warrant.
+> *Framing interlude (not a murder case):* 🇺🇸 *United States v. Jones* (2012)
+> and *Carpenter v. United States* (2018) - the two rulings that decided when the
+> phone in your pocket needs a warrant. ✍️ *drafted (Jones in hand; Carpenter to
+> be added)* - `book/chapters/interlude-part2-jones-carpenter.md`
 
 9. **The Test Drive** - 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418 ✍️ *drafted*
    *Hook:* **They planned the murder before they picked the victim. Tim Bosma was chosen by his own for-sale ad.**
@@ -61,7 +62,9 @@ log where you were.*
     *Hook:* **They left no body, no crime scene, and no cause of death. What they left was a rap song bragging about where they threw her phone.**
 11. **Never Rent a Getaway Car** - 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 ✍️ *drafted*
     *Hook:* **He rented the getaway car under a fake name - and the fake name is exactly why the car's testimony could never be thrown out.**
-12. **Seven Hundred Thousand Records Behind a Smiling Daughter** - 🇨🇦 *R. v. Pan* (ON CA 2023 / SCC 2025) 🔶
+12. **The Home Invasion That Wasn't** - 🇨🇦 *R. v. Pan*, 2023 ONCA 362 / 2025 SCC 12 ✍️ *drafted* 🔶
+    *Hook:* **She called 911 to report a home invasion, and police found her tied to the banister. But the intruders had shot both her parents and left her without a scratch, and her mother's car keys sat untouched.**
+    *(Honest disposition: SCC 2025 upheld a NEW TRIAL on first-degree murder for all four; attempted-murder convictions stand. "700,000 records" is a press figure, not in the decisions.)*
 13. **He Said He Went Fishing** - 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409 (2020) ✍️ *drafted* 🔶
     *Hook:* **His alibi was that he'd been fishing in San Francisco Bay. Four months later his wife's body washed ashore a mile from the exact spot, and the GPS on his rental cars showed he kept driving back to it.**
 14. **The Blind Photo From Inside a Pocket** - 🇺🇸 *State v. Zielinski* (Minn., 2024) - an accidental geotag

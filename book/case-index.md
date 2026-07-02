@@ -207,16 +207,26 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   to be driving" under a fake name - the false identity destroyed his own
   suppression argument. Appeal dismissed.
 
-### Ch. 12 - *R. v. Pan*, 2023 ONCA 362, aff'd 2025 SCC 12 - ✅ 🔶
+### Ch. 12 - *R. v. Pan*, 2023 ONCA 362; 2025 SCC 12 - ✅ CONFIRMED FROM PDF 🔶
 - **Links:** ONCA https://www.canlii.org/en/on/onca/doc/2023/2023onca362/2023onca362.html · SCC https://www.canlii.org/en/ca/scc/doc/2025/2025scc12/2025scc12.html
-- **Court / year:** Ontario CA 2023; Supreme Court of Canada 2025 (murder 2010)
-- **Smoking gun / caution:** Jennifer Pan staged a home invasion and called 911
-  posing as a bound victim; her mother was killed and father wounded.
-  Investigators unravelled the staged scene, and 700,000+ call records, texts,
-  and cell-tower data exposed a murder-for-hire. The appeal turned partly on how
-  one-sidedly the telecom/PowerPoint evidence went to the jury; ONCA ordered a
-  new trial on the murder counts (upholding attempted murder), and the SCC
-  addressed the matter in 2025. Confirm the precise disposition when drafting.
+- **PDFs in repo:** `book/pdfs/R_v_Pan_2023_ONCA_362.pdf`, `..._2025_SCC_12.pdf` · **Chapter:** `book/chapters/ch12-pan-staged-invasion.md`
+- **Court / year:** Ontario CA 2023; SCC decided April 10, 2025 (murder Nov 8, 2010, Markham)
+- **Smoking gun (per the opinions):** Three men entered the Pan home, took the
+  family, shot both parents in the basement, and left Jennifer Pan unharmed and
+  tied to a banister; she called 911. Mother Bich-Ha Pan died; father Hann Pan
+  survived. Staging tells: witness spared, valuables and the mother's car keys
+  untouched, no prints/DNA/ballistics match. A vast volume of cellphone/text/
+  cell-tower evidence exposed a murder-for-hire routed through ex-boyfriend Daniel
+  Wong and Lenford Crawford (shooters incl. David Mylvaganam); $10k + $2k; SIM
+  from Wong; Crawford's "game time" text; tower data tracking the gunmen Rexdale→
+  Markham→Rexdale; friend Montemayor's testimony she'd told him the plan.
+  **DISPOSITION (confirmed):** the appeal succeeded on a JURY-CHARGE error (lesser
+  included offences), NOT the digital evidence. ONCA set aside the first-degree
+  murder convictions + new trial on that count, upheld attempted murder. SCC 2025:
+  Crown's bid to restore murder convictions DISMISSED - NEW TRIAL on first-degree
+  murder for all four stands; attempted-murder convictions stand. As of writing,
+  the murder charges are to be RETRIED. **"700,000 records" is a press figure, not
+  in the decisions ("a large volume").**
 
 ---
 

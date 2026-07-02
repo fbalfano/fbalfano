@@ -20,11 +20,17 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   "search" requiring a warrant. The essential framing case for any cell-tower
   chapter. (Underlying facts: Detroit RadioShack/T-Mobile robberies.)
 
-### *United States v. Jones*, 565 U.S. 400, 132 S. Ct. 945 (2012) - ✅
-- **Court/year:** U.S. Supreme Court, 2012
+### *United States v. Jones*, 565 U.S. 400, 132 S. Ct. 945 (2012) - ✅ CONFIRMED FROM PDF
+- **Court/year:** U.S. Supreme Court, decided Jan. 23, 2012 (Scalia, J.)
 - **Link:** https://supreme.justia.com/cases/federal/us/565/400/
-- **Point:** Physically attaching a GPS tracker to a vehicle is a "search." The
-  police-GPS-on-a-car framing case (a drug case - scaffolding, not a homicide).
+- **PDF in repo:** `book/pdfs/US_v_Jones_565_US_400_2012.pdf` · **Used in:** `book/chapters/interlude-part2-jones-carpenter.md` (Part II framing interlude, not a murder chapter)
+- **Point (per the opinion):** Antoine Jones (D.C. nightclub owner, cocaine
+  suspect). Agents had a warrant to install a GPS on a Jeep registered to his wife
+  (D.C., within 10 days) but installed it on day 11 in Maryland - i.e., without a
+  valid warrant - and tracked 28 days. Held: attaching the device to the vehicle
+  (an "effect") and using it to monitor movements IS a Fourth Amendment "search"
+  (trespass theory). The GPS-on-a-car framing case; scaffolds the location chapters
+  (Dosanjh, Scott Peterson). Companion: *Carpenter* (cell-site) - to be added.
 
 ---
 
