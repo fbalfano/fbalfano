@@ -34,6 +34,35 @@ seeing it coming, had left her letter precisely to defeat that story. Her letter
 and voicemails were her rebuttal to a suicide verdict, delivered in her own voice
 from beyond her own funeral.
 
+## The murder syllabus
+
+Before we follow the letter on its long journey through the courts, it is worth
+knowing why the police were so sure Julie's accusation was right, because the
+answer sat on the family computer, and it reads like a curriculum in how to kill
+your wife.
+
+Julie Jensen died of ethylene-glycol poisoning, the sweet, toxic core of
+antifreeze that we met in Chapter 8. And in the months before her death, as the
+appellate record lays out, the Jensen home computer had gone looking for exactly
+that kind of knowledge. Its internet history held searches for botulism,
+poisoning, mercury fulminate, and pipe bombs. A website had been visited on how
+to reverse the polarity of a battery. There were, tellingly, no searches on the
+things an innocent man in a failing marriage might look up, nothing about
+separation or divorce, only about ways to make a person die. And on the morning
+of Julie's death itself, the computer recorded a search, logged at 7:40 a.m., for
+"ethylene glycol poisoning," the precise poison that would kill her.
+
+It was not only the machine that testified. A witness recounted that Julie,
+frightened, had shown him sticky notes she'd found, "different poisoning sites for
+different poison," and a poisoning website left open on her husband's computer
+screen. She had been advised to take pictures of it. The woman who wrote the
+letter and left the voicemails was not imagining her danger. She had watched it
+being researched.
+
+That is the evidence that made everyone certain. But certainty is not the same as
+admissibility, and the fight that consumed the next two decades was not about the
+searches on the computer. It was about the words in Julie's letter.
+
 The trial court first ruled the letter admissible. And then, in 2004, before the
 case could get anywhere, the United States Supreme Court dropped an earthquake
 called *Crawford v. Washington* right underneath it. *Crawford* rewrote the
@@ -112,6 +141,10 @@ She leaves behind a trail, and a trail is harder to seal in a drawer.
 > The full procedural saga, *Crawford* through the habeas litigation, is
 > set out in Part I; Justice Karofsky's concurrence addresses the
 > domestic-violence context.
-> **Companion authority (for the underlying trial evidence, incl. the family
-> computer forensics):** *State v. Jensen*, 2011 WI App 3, 331 Wis. 2d 440 -
-> on the pull list.
+> **Companion authority (source for "The murder syllabus" section above - the
+> home-computer searches for botulism, mercury fulminate, pipe bombs, and the
+> 7:40 a.m. "ethylene glycol poisoning" search the morning Julie died):** *State
+> v. Jensen*, 2011 WI App 3, 331 Wis. 2d 440, 794 N.W.2d 482 (affirming the
+> conviction).
+> **See also** Chapter 8 (*Turner*), the other ethylene-glycol poisoning in this
+> book.

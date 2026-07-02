@@ -44,8 +44,8 @@ cases we'll frame carefully.
 - ✅ 🇨🇦 *R. v. Todorovic*, 2014 ONCA 153 *(chat log = the crime)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 *(own camera; NEW TRIAL ordered - defence-PI scandal)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇺🇸 *State v. Jensen*, 2021 WI 27, 396 Wis. 2d 196 *(letter from the grave; NEW TRIAL ordered, not affirmance)* - **PDF pulled ✔ · chapter drafted ✔**
-- ⚠️ 🇺🇸 *State v. Jensen* (**Jensen II**), 2011 WI App 3, 331 Wis. 2d 440, 794 N.W.2d 482 *(companion pull - trial evidence detail incl. family-computer forensics)*
-- ⚠️ 🇺🇸 *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) *(Googled "gunshot right chest")*
+- ✅ 🇺🇸 *State v. Jensen* (**Jensen II**), 2011 WI App 3, 331 Wis. 2d 440, 794 N.W.2d 482 *(computer 'murder syllabus')* - **PDF pulled ✔ · folded into Ch. 19 ✔**
+- ✅ 🇺🇸 *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) *(computer searches; ⚠️ confirm So.3d page)* - **PDF pulled ✔ · chapter drafted ✔**
 
 ## PART IV - The Device That Watched You (wearables, IoT, vehicle data)
 - ✅ 🇺🇸 *State v. Dabate*, **351 Conn. 428 (2025)** (SC 20749) *(Fitbit - steps after "death")* - **PDF pulled ✔ · chapter drafted ✔**

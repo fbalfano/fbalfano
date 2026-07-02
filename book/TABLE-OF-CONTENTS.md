@@ -85,8 +85,9 @@ think no one's reading.*
     *(This appeal ordered a new trial over the defence-investigator disclosure scandal; 2023 retrial convicted, news-sourced.)*
 19. **The Letter From the Grave** - 🇺🇸 *State v. Jensen*, 2021 WI 27 ✍️ *drafted* 🔶
     *Hook:* **Two weeks before she died, Julie Jensen told a police officer: if anything happens to me, my husband should be your first suspect.**
-    *(The computer-search "murder syllabus" evidence lives in companion authority Jensen II, 2011 WI App 3 - on the pull list.)*
-20. **He Googled Where a Bullet Won't Kill You** - 🇺🇸 *Barber v. State* (Fla., 2009) - staging a beach shooting
+    *(Now enriched with the "murder syllabus" computer-search evidence from companion authority Jensen II, 2011 WI App 3 - PDF pulled ✔; incl. the 7:40 a.m. "ethylene glycol poisoning" search the morning Julie died.)*
+20. **He Researched the Wound Before He Made It** - 🇺🇸 *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) ✍️ *drafted*
+    *Hook:* **A man walked off a dark beach with his wife shot dead and four bullet wounds of his own, and a story about a stranger. Months earlier, his computer had been asking exactly where on a body a gunshot does the least harm.**
 
 ## PART IV - THE DEVICE THAT WATCHED YOU
 *Fitness trackers, smart speakers, pacemakers, and the black box in your car -

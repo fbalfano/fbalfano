@@ -206,14 +206,20 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   conviction reinstated *without* trial → reversed → 2021 WI 27) is the
   chapter's spine.
 
-### *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) - ⚠️
-- **Court/year:** Florida Fifth District Court of Appeal, 2009 (affirmed)
+### *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) - ✅ CONFIRMED FROM PDF (⚠️ reporter page)
+- **Court/year:** Florida Fifth District Court of Appeal, 2009 (Sawaya, J.; affirmed)
 - **Link:** https://law.justia.com/cases/florida/fifth-district-court-of-appeal/2009/5d06-3529.html
-- **Smoking gun:** Justin Barber claimed an assailant shot his wife April on a
-  dark beach (2002); he had four wounds he blamed on the attacker. His computer
-  held pre-murder searches - "trauma, cases, gunshot, right chest" - suggesting he
-  researched where to shoot himself non-fatally to stage the scene. Plus a $2M
-  life-insurance policy. Cite by docket 5D06-3529 (exact So. 3d page uncertain).
+- **PDF in repo:** `book/pdfs/Barber_v_State_5D06-3529_Fla_2009.pdf` · **Chapter:** `book/chapters/ch20-barber-gunshot-search.md`
+- **Smoking gun (per the opinion):** Justin Barber convicted of first-degree
+  murder of his wife April on a dark Florida beach (2002); WHOLLY CIRCUMSTANTIAL.
+  Opinion confirms: he shot her at the water's edge and moved the body; murder
+  found premeditated + partly for pecuniary gain; jury recommended death, judge
+  imposed LIFE. Admitted evidence (affirmed): his affairs, a **$2M life-insurance
+  policy** on him and his wife, and **his computer searches**. **⚠️ SOURCING:** the
+  opinion references "his computer search of the terms mentioned" but does NOT
+  quote them; the famous specifics (searches re gunshot trauma / "gunshot right
+  chest," and Barber's own four non-fatal wounds) are from the TRIAL RECORD /
+  reporting - flagged in-chapter. Cite by docket 5D06-3529 (So. 3d page uncertain).
 
 ---
 
