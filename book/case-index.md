@@ -62,16 +62,41 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   6:35-8:30 p.m. window unaccounted for. Appeal dismissed; GSR properly
   admitted. **An honest, nuanced GSR chapter, not a slam-dunk.**
 
-### Ch. 6 - *R. v. F. (J.M.)*, 2022 MBCA 52 - ✅
+### Ch. 25 - *R v F (JM)*, 2022 MBCA 52 - ✅ CONFIRMED FROM PDF 🔶
 - **Link:** https://www.canlii.org/en/mb/mbca/doc/2022/2022mbca52/2022mbca52.html
-- **Court / year:** Manitoba Court of Appeal, 2022
-- **Smoking gun:** A 16-year-old lured the victim by message and shot him with a
-  .22. No gun was recovered, but ammunition seized from his bedroom matched the
-  scene casing, and phone/Facebook photos showed him with a compatible rifle.
+- **PDF in repo:** `book/pdfs/R_v_F_JM_2022_MBCA_52.pdf`
+- **Chapter:** drafted - `book/chapters/ch25-fjm-ammunition.md`
+- **Court / year:** Manitoba Court of Appeal, decided June 8, 2022 (Monnin J.A.)
+- **Smoking gun (per the opinion):** A 16-year-old youth (publication ban -
+  initials only) arranged a "fight" by text/Facebook with the victim; terms were
+  no weapons, no backup, no police. The victim arrived with two others; one filmed
+  it on the victim's phone (two gunshots audible, shooter's face not identifiable).
+  Autopsy: .22 bullet consistent with ammunition later seized from the appellant's
+  bedroom; NO gun found; his phone/Facebook held photos of 3 firearms incl. a
+  compatible rifle; he texted a confession to M.P. he tried to delete, plus texts
+  to his sister about hiding involvement. **⚠️ DISPOSITION CORRECTION vs. earlier
+  note:** conviction was NOT upheld - the MBCA SET IT ASIDE and ordered a NEW
+  TRIAL, holding his statement (and the resulting phone seizure) was obtained in
+  breach of his s. 10(b) right to counsel: police arrested him in his father's
+  foyer without a rights warning, then asked about his cell phone. Told honestly
+  as evidence-caught-him / Charter-freed-him.
 
-### Ch. 7 - *R. v. Mohamed*, 2025 ONCA 611 - ✅
+### Ch. 26 - *R. v. Mohamed*, 2025 ONCA 611 - ✅ CONFIRMED FROM PDF 🔶 (reframe pending)
 - **Link:** https://www.canlii.org/en/on/onca/doc/2025/2025onca611/2025onca611.html
-- **Court / year:** Ontario Court of Appeal, 2025 (shooting 2018)
+- **PDF in repo:** `book/pdfs/R_v_Mohamed_2025_ONCA_611.pdf`
+- **Court / year:** Ontario Court of Appeal, decided Sept. 5, 2025 (Fairburn A.C.J.O.)
+- **Smoking gun (per the opinion):** Nnamdi Ogba, an innocent engineer visiting a
+  soccer friend, shot from behind (5 of 9 bullets, fatal one to the heart) in a
+  planned gang incursion into Scarlettwood Crips territory. CCTV shows three men
+  arrive in a stolen Nissan with stolen plates, the shooting, and the getaway. The
+  chilling forensic thread: after the killing, Islow's phone accessed police/news
+  info on the shooting, then Googled **"without vital signs"** and **"what happens
+  when you die."** **⚠️ TWO honesty flags:** (1) ballistics was INCONCLUSIVE -
+  examiner Chin could not definitively match the gun, only said one firearm in the
+  phone videos "appeared to be" on an FBI-database list; (2) the CONVICTIONS WERE
+  SET ASIDE and a new trial ordered (gang-expert + video/image admissibility).
+  Recommend reframing as a DIGITAL "callous search" chapter (cousin to Barber),
+  not a ballistics one. Chapter NOT yet drafted - awaiting user's call.
 - **Smoking gun:** Nnamdi Ogba, an innocent engineer, was shot from behind in a
   planned gang incursion in Toronto. Firearm-examiner analysis of cartridge
   casings and bullet fragments, run through a firearms database, tied the rounds

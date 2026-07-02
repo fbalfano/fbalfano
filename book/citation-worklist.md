@@ -35,7 +35,7 @@ cases we'll frame carefully.
 - ✅ 🇨🇦 *R. v. Millard* (Laura Babcock), 2023 ONCA 426 - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 *(rental-car GPS)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇨🇦 *R. v. Pan*, 2023 ONCA 362; aff'd 2025 SCC 12 *(check disposition)*
-- ✅🔶 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409, 472 P.3d 382 (Cal. 2020) *(guilt affirmed, death sentence reversed)*
+- ✅🔶 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409, 472 P.3d 382 (Cal. 2020) *(guilt affirmed, death sentence reversed)* - **file pulled ✔ · chapter drafted ✔**
 - ✅ 🇺🇸 *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) *(geotagged pocket photo)*
 - ⚠️ 🇺🇸 *State v. LaBranche*, La. Ct. App. 5th Cir. 2025 *(ALPR - cite by court + FindLaw ID 118267251)*
 
@@ -56,8 +56,8 @@ cases we'll frame carefully.
 
 ## PART V - The Gun and the Residue (firearms, GSR, ballistics)
 - ✅ 🇨🇦 *R. v. Stevenson*, 2014 ONCA 842 *(GSR on suspect's hand)* - **PDF pulled ✔ · chapter drafted ✔**
-- ✅ 🇨🇦 *R. v. F. (J.M.)*, 2022 MBCA 52 *(no gun, ammo match + phone photos)*
-- ✅ 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 *(ballistics, wrong-target hit)*
+- ✅🔶 🇨🇦 *R v F (JM)*, 2022 MBCA 52 *(no gun, ammo match + phone photos; new trial ordered - s.10(b))* - **PDF pulled ✔ · chapter drafted ✔**
+- 🔶 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 *(ballistics INCONCLUSIVE; real thread = callous post-kill Google search; convictions set aside)* - **PDF pulled ✔ · reframe as digital chapter pending**
 
 ## PART VI - The Staged Scene (bloodstain, trajectory, staged death)
 - ⚠️🔶 🇨🇦 *Delisle c. R.*, 2013 QCCA 952 *(judge; staged suicide; later reopened)*
@@ -74,7 +74,7 @@ cases we'll frame carefully.
 - ✅ 🇨🇦 *R. v. Brooks*, 2000 SCC 11 *(jailhouse informants)*
 
 ## PART VIII - When the Science Lies / Sets You Free (junk science & exonerations)
-- ✅ 🇺🇸 *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) *(bite marks convict Bundy)*
+- ✅ 🇺🇸 *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) *(bite marks convict Bundy)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇺🇸 *State v. Krone*, 182 Ariz. 319, 897 P.2d 621 (Ariz. 1995) *(bite-mark exoneration)*
 - ⚠️🔶 🇺🇸 *Howard v. State*, No. 2018-CA-01586-SCT (Miss. 2020) *(≈300 So. 3d 1011) - bite-mark science rejected*
 - ⚠️🔶 🇺🇸 *Lobato v. State*, 120 Nev. 512, 96 P.3d 765 (Nev. 2004) *(entomology exoneration - "no maggots")*

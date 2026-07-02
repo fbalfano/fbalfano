@@ -92,14 +92,26 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
 
 ## The Phone in Your Pocket - location & movement
 
-### *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409, 472 P.3d 382 (Cal. 2020) - ✅ 🔶
-- **Court/year:** Supreme Court of California, 2020
+### *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409, 472 P.3d 382 (Cal. 2020) - ✅ CONFIRMED FROM PDF 🔶
+- **Court/year:** Supreme Court of California, decided Aug. 24, 2020 (Kruger, J.; No. S132449)
 - **Link:** https://law.justia.com/cases/california/supreme-court/2020/s132449.html
-- **Smoking gun:** Laci Peterson vanished Christmas Eve 2002; her body surfaced
-  near the Berkeley Marina - where Scott said he'd been "fishing." Police GPS on
-  his vehicles showed him returning to that area; wiretaps and location evidence
-  broke his alibi. **Guilt convictions affirmed; death sentence reversed** on a
-  jury-selection issue - note the split disposition.
+- **PDF in repo:** `book/pdfs/People_v_Peterson_S132449_2020.docx`
+- **Chapter:** drafted - `book/chapters/ch13-peterson-gps.md`
+- **Smoking gun (per the opinion):** Laci Peterson (8 months pregnant) vanished
+  Christmas Eve 2002; Scott's alibi was fishing ~90 miles away at the Berkeley
+  Marina. His story crumbled: a boat bought in secret Dec 9 (never registered,
+  hidden from his fisherman relatives), computer searches for Bay currents/charts
+  around Brooks Island, a homemade cement anchor + cement and a cement-dusted
+  hammer in his truck, an expert who showed his sturgeon story was impossible
+  (wrong place/season/bait/rod, and illegal), and the Amber Frey affair (she went
+  to police Dec 30). The location thread: in January, on a warrant, police put a
+  camera + GPS on his vehicles; GPS caught him driving 90 miles to the marina at
+  least 5 times, each in a DIFFERENT rented car, brief visits. In April, after a
+  storm, Conner's then Laci's bodies washed ashore ~1 mile from Brooks Island -
+  exactly where he'd "fished" and where his cars kept returning. Pre-arrest: car
+  bought in his mother's name, dyed hair, goatee. **Disposition:** guilt
+  convictions AFFIRMED; DEATH SENTENCE REVERSED (jury-selection error). Later
+  resentenced to life (news-sourced).
 
 ### *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) - ✅
 - **Court/year:** Minnesota Supreme Court, 2024
@@ -253,13 +265,23 @@ sidebar on the frontier of device evidence:
 
 ## When the Science Lies / Sets You Free - junk science & exonerations
 
-### *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) - ✅
-- **Court/year:** Florida Supreme Court, 1984
+### *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) - ✅ CONFIRMED FROM PDF
+- **Court/year:** Florida Supreme Court, 1984 (Chi Omega murders Jan. 15, 1978)
 - **Link:** https://law.justia.com/cases/florida/supreme-court/1984/57772-0.html
-- **Smoking gun:** In the Chi Omega sorority murders, an odontologist matched a
-  bite mark on victim Lisa Levy to Ted Bundy's distinctive teeth. The court upheld
-  bite-mark comparison as generally accepted - the "triumphant" bite-mark case
-  that the next two chapters demolish.
+- **PDF in repo:** `book/pdfs/Bundy_v_State_455_So2d_330_1984.pdf`
+- **Chapter:** drafted - `book/chapters/ch37-bundy-bite-marks.md` (Ch. 37, opens Part VIII)
+- **Smoking gun (per the opinion):** Bundy entered the FSU Chi Omega house and
+  bludgeoned four sleeping women (Margaret Bowman and Lisa Levy killed by
+  strangulation after beatings; Kleiner and Chandler gravely injured), then
+  attacked a fifth, Cheryl Thomas, nearby. Two pillars convicted him: eyewitness
+  Nita Neary (saw him in profile at the door with a club) and the bite mark he
+  left in Lisa Levy's flesh, which two forensic dentists matched to wax models of
+  his teeth, testifying bite-mark comparison offers "a high degree of reliability."
+  Corroboration: hair match, proximity, two flights from police, and his own
+  boast that the killings were "a professional job." Convictions AFFIRMED.
+  (Executed 1989; confessed to ~30 murders - historical, not in the opinion.)
+  Book framing: the "triumphant" bite-mark case whose scientific promise later
+  collapsed, setting up the Krone and Howard exonerations (Chs. 38-39).
 
 ### *State v. Krone*, 182 Ariz. 319, 897 P.2d 621 (Ariz. 1995) - ✅ 🔶 (exoneration)
 - **Court/year:** Arizona Supreme Court, 1995

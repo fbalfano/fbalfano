@@ -55,7 +55,8 @@ log where you were.*
 11. **Never Rent a Getaway Car** - 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 ✍️ *drafted*
     *Hook:* **He rented the getaway car under a fake name - and the fake name is exactly why the car's testimony could never be thrown out.**
 12. **Seven Hundred Thousand Records Behind a Smiling Daughter** - 🇨🇦 *R. v. Pan* (ON CA 2023 / SCC 2025) 🔶
-13. **He Said He Went Fishing** - 🇺🇸 *People v. Peterson* (Scott Peterson) (Cal., 2020) - GPS to the exact patch of bay 🔶
+13. **He Said He Went Fishing** - 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409 (2020) ✍️ *drafted* 🔶
+    *Hook:* **His alibi was that he'd been fishing in San Francisco Bay. Four months later his wife's body washed ashore a mile from the exact spot, and the GPS on his rental cars showed he kept driving back to it.**
 14. **The Blind Photo From Inside a Pocket** - 🇺🇸 *State v. Zielinski* (Minn., 2024) - an accidental geotag
 15. **The Cameras on the Interstate** - 🇺🇸 *State v. LaBranche* (La., 2025) - ALPR tracks the getaway car
 
@@ -91,8 +92,11 @@ the witnesses you strap on and invite inside.*
 
 24. **The Residue Doesn't Lie, But It Doesn't Explain** - 🇨🇦 *R. v. Stevenson*, 2014 ONCA 842 ✍️ *drafted*
     *Hook:* **A single particle of lead, antimony, and barium, fused by the heat of a gunshot, does not tell you whose gun it was. It just tells you that you were close to one.**
-25. **No Gun, But the Bullets Matched** - 🇨🇦 *R. v. F. (J.M.)* (MB CA, 2022)
-26. **Ballistics and the Wrong Man Killed** - 🇨🇦 *R. v. Mohamed* (ON CA, 2025)
+25. **No Gun, But the Bullets Matched** - 🇨🇦 *R v F (JM)*, 2022 MBCA 52 ✍️ *drafted* 🔶
+    *Hook:* **The murder weapon was never found. It didn't have to be. The killer kept the matching ammunition in his bedroom and photos of the rifle on his Facebook.**
+    *(Conviction set aside, new trial ordered over a s. 10(b) breach - a foyer arrest of a youth without a right-to-counsel warning. Told honestly.)*
+26. **What Happens When You Die** - 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 🔶 *(reframe pending - see below)*
+    *Note: PDF read. Ballistics was INCONCLUSIVE; the real evidence was CCTV + the killers' callous post-murder Google searches ("without vital signs", "what happens when you die"). Convictions were also SET ASIDE (new trial). Better as a digital chapter than a ballistics one - awaiting your call.*
 
 ## PART VI - THE STAGED SCENE
 *Bloodstain patterns, bullet trajectory, and the physics that exposes a scene
@@ -121,7 +125,8 @@ Canadian art of getting a killer to talk.*
 science that later freed them. The reminder that evidence is only as honest as
 the people wielding it.*
 
-37. **The Teeth That Caught Ted Bundy** - 🇺🇸 *Bundy v. State* (Fla., 1984) - bite marks at their most triumphant
+37. **The Teeth That Caught a Monster** - 🇺🇸 *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) ✍️ *drafted*
+    *Hook:* **Bite-mark evidence helped convict Ted Bundy, and the experts swore it was a science of "a high degree of reliability." They were right about the monster. They were wrong about the science, and innocent men would pay for the difference.**
 38. **The Snaggletooth Exoneration** - 🇺🇸 *State v. Krone* (Ariz., 1995) 🔶 - the same science sends the wrong man to death row
 39. **Bite Marks, Formally Rejected** - 🇺🇸 *Howard v. State* (Miss., 2020) 🔶 - 26 years, then DNA
 40. **The Flies That Never Came** - 🇺🇸 *Lobato v. State* (Nev., 2004) 🔶 - entomology clears the innocent
