@@ -1,104 +1,107 @@
 # Chapter 19 - The Letter From the Grave
 
 **Two weeks before she died, Julie Jensen told a police officer: if anything
-happens to me, my husband should be your first suspect.**
+happens to me, my husband should be your first suspect. Then she made sure to put
+it in writing.**
 
-Most murder victims never get to testify. Julie Jensen tried anyway.
+Most murder victims never get to testify. Julie Jensen did everything humanly
+possible to be the exception.
 
-In the fall of 1998, in Pleasant Prairie, Wisconsin, Julie was living in fear
-that she did not know how to prove. So she did two things. She wrote a letter,
-sealed it, and gave it to her neighbor, with instructions to hand it to the
-police if anything should happen to her. And she left two voicemails for
-Pleasant Prairie Police Officer Ron Kosman, telling him that if she were found
-dead, her husband Mark should be his "first suspect."
+In the autumn of 1998, in Pleasant Prairie, Wisconsin, Julie was living with a
+fear she could feel but could not prove, the particular dread of a woman who
+senses what is coming and knows no one will believe her until it is too late to
+matter. So she did two remarkably deliberate things. She wrote a letter, sealed
+it, and handed it to a neighbor with instructions to give it to the police if
+anything happened to her. And she left two voicemails for Pleasant Prairie Police
+Officer Ron Kosman, telling him plainly that if she turned up dead, her husband
+Mark should be his "first suspect."
 
 Then, on December 3, 1998, Julie Jensen died of poisoning.
 
-She was right about everything except how long it would take. The letter she
-left behind became the center of one of the longest evidentiary wars in
-American criminal law; a quarter-century battle over a question that sounds
-simple and is anything but: *can a murdered woman accuse her killer from the
-grave?*
+She had been right about all of it except the timing. She could not have guessed
+that the letter she left behind, meant to catch her killer, would instead become
+the fuse on one of the longest-running legal fights in American criminal history,
+a quarter-century argument over a question that sounds like it should have a
+one-word answer and does not: can a murdered woman accuse her killer from the
+grave?
 
 ## The charge, and the earthquake
 
 Mark Jensen was charged with first-degree intentional homicide in 2002, four
-years after Julie's death. The State's theory was that Mark, entangled in an
-affair, had poisoned his wife and dressed her death as a suicide, and that
-Julie, sensing what was coming, had left her letter precisely because she
-feared he would kill her and call it self-inflicted. Her letter and voicemails
-were the answer to the suicide story, delivered in her own voice.
+years after Julie died. The State's theory was that Mark, tangled up in an affair,
+had poisoned his wife and staged the death to look like suicide, and that Julie,
+seeing it coming, had left her letter precisely to defeat that story. Her letter
+and voicemails were her rebuttal to a suicide verdict, delivered in her own voice
+from beyond her own funeral.
 
-The trial court initially ruled the letter admissible. Then, in 2004, while
-the case was still in pretrial hearings, the United States Supreme Court
-decided *Crawford v. Washington*, an earthquake that rewrote the law of the
-Confrontation Clause. After *Crawford*, an absent witness's "testimonial"
-statement cannot be used against a defendant who never had the chance to
-cross-examine her. And Julie, the witness at the heart of the case, could
-never be cross-examined by anyone.
+The trial court first ruled the letter admissible. And then, in 2004, before the
+case could get anywhere, the United States Supreme Court dropped an earthquake
+called *Crawford v. Washington* right underneath it. *Crawford* rewrote the
+Confrontation Clause and laid down a rule with no give in it: a "testimonial"
+statement from an absent witness cannot be used against a defendant who never had
+a chance to cross-examine her. And Julie, being the witness and being dead, was
+about as un-cross-examinable as a witness gets.
 
-What followed reads like a two-decade tennis rally between every level of the
-American court system.
+What followed is best understood not as a trial but as a rally, a decades-long
+volley in which Julie's letter was knocked back and forth across every net in the
+American court system while Mark Jensen sat and watched.
 
-The Wisconsin Supreme Court held in 2007 (*Jensen I*) that Julie's letter and
-voicemails were testimonial; their very purpose was to point police to her
-killer if she died, and they were therefore inadmissible… *unless* Mark had
-forfeited his confrontation right by killing her, the ancient doctrine of
-"forfeiture-by-wrongdoing." On remand, the circuit court found he had. The
-letter went to the jury, and in 2008 the jury convicted Mark Jensen of
-murdering Julie.
+The Wisconsin Supreme Court ruled in 2007 that the letter and voicemails were
+testimonial, their whole purpose being to finger her killer, and therefore
+inadmissible, *unless* Mark had forfeited his right to object by murdering the
+very witness he now wanted silenced, an old doctrine with the grimly satisfying
+name "forfeiture-by-wrongdoing." On remand, the trial court found he had. In came
+the letter, and in 2008 a jury convicted him.
 
-Then the ground shifted again. The U.S. Supreme Court's *Giles v. California*
-(2008) narrowed forfeiture: it applies only where the defendant silenced the
-witness *in order to keep her from testifying*, and no one claimed Mark
-killed Julie to keep her out of a courtroom. So in 2011 (*Jensen II*), the
-Wisconsin Court of Appeals agreed the letter should never have been admitted,
-but called the error *harmless*, pointing to the "voluminous" other evidence
-of Mark's guilt, and let the conviction stand.
+Then the ball came back over the net. The U.S. Supreme Court's *Giles v.
+California* narrowed forfeiture to cases where the defendant killed the witness
+*specifically to keep her from testifying*, which no one had claimed of Mark. So
+in 2011 the Wisconsin Court of Appeals agreed the letter never should have come
+in, then shrugged and called the mistake "harmless" given the mountain of other
+evidence, and let the conviction stand anyway.
 
-The federal courts did not agree that it was harmless. On habeas corpus
-review, they held that Julie's accusation from the grave was no minor exhibit;
-it was the beating heart of the State's case. They vacated the conviction.
-What happened next is the strangest twist in the whole saga: the circuit
-court responded to the federal order by simply *reinstating the conviction
-without a new trial*, reasoning that the law had changed enough that the
-letter would now be admissible after all. The court of appeals reversed. And
-in March 2021, twenty-three years after Julie died, the Wisconsin Supreme
-Court delivered the decision our chapter is anchored to: the law had *not*
-changed, *Jensen I* still governed, the letter and voicemails remained
-testimonial and inadmissible, and Mark Jensen was entitled to what the
-Constitution had promised him all along. A new trial, with Julie's letter
-kept out.
+The federal courts did not care for the shrug. On habeas review they held that
+Julie's accusation from the grave was no minor exhibit, it was the beating heart
+of the State's case, and they threw the conviction out. What the trial court did
+next is the kind of move that makes appellate judges reach for the aspirin: it
+responded to the federal order by simply reinstating the conviction *without a new
+trial*, on the theory that the law had drifted far enough that the letter would be
+fine now. The court of appeals reversed that, too. And at last, in March 2021,
+twenty-three years after Julie died, the Wisconsin Supreme Court delivered the
+ruling this chapter is anchored to: the law had *not* changed, the letter stayed
+out, and Mark Jensen was owed the thing the Constitution had been promising him
+the entire time. A new trial, with Julie's own words locked in the drawer.
 
-A justice writing separately urged courts never to forget the context the
-legal doctrine kept flattening: Julie was, in her words, undeniably a victim
-of domestic abuse who "lived in terror born of the unimaginable fear that her
-husband was going to kill her and claim that her death was a suicide." That,
-the concurrence reminds us, is *why* the letter existed.
+A justice writing separately refused to let the doctrine flatten the human being
+underneath it, noting that Julie was, plainly, a woman living "in terror born of
+the unimaginable fear that her husband was going to kill her and claim that her
+death was a suicide." Which is, of course, exactly why the letter existed in the
+first place.
 
-## The epilogue the opinion doesn't contain
+## The epilogue the opinion can't give you
 
-The 2021 decision ends with the order for a new trial, so the opinion itself
-cannot tell you how the story ends. The news coverage can: in early 2023,
-Kenosha County prosecutors retried Mark Jensen, this time without Julie's
-letter, and a second jury convicted him of first-degree intentional homicide
-all over again. The other evidence, it turned out, really was voluminous.
-*(Note: the retrial outcome is reported from news coverage, not from the
-anchor decision; verify current status before print.)*
+Because the 2021 decision ends with an order for a new trial, the opinion itself
+cannot tell you how the story finally landed. The news can. In early 2023,
+Kenosha County prosecutors tried Mark Jensen a second time, now without Julie's
+letter, and a second jury convicted him of first-degree intentional homicide all
+over again. The "voluminous other evidence" turned out to be exactly as voluminous
+as advertised. *(That ending comes from news coverage, not the anchor decision, so
+confirm the current status before print.)*
 
 ## How'd he get caught?
 
-Julie caught him. Before the poison ever reached her, she left a signed,
-sealed accusation with a neighbor and her voice on a police officer's
-voicemail; evidence gathered by the victim herself, in advance of her own
-murder. The bitter irony of this chapter is that her foresight nearly unmade
-the case: a statement created *to be used by police after her death* is the
-purest form of "testimonial" evidence the Confrontation Clause exists to
-police, and it took American courts twenty-five years to finish arguing about
-it. In the end, both things were true at once. Julie's letter could not
-lawfully convict her husband, and her husband was convicted anyway, because
-a woman who documents her own danger leaves behind more than a letter. She
-leaves behind a trail.
+Julie caught him, twice, across a gap of twenty-five years. Long before the poison
+reached her she had done what almost no victim ever manages: she gathered the
+evidence against her own murderer in advance, a signed accusation with a neighbor
+and her voice on a police officer's answering machine. The cruel irony, the one
+that ate up two and a half decades of appeals, is that her foresight was almost
+too good. A statement created expressly for the police to use after her death is
+the purest "testimonial" evidence there is, the exact thing the Confrontation
+Clause was built to keep out, and so the law spent a generation refusing to let
+the jury hear it. In the end both things came true at once. Julie's letter could
+not lawfully convict her husband. Her husband was convicted anyway. Because a woman
+careful enough to document her own murder does not leave behind a single letter.
+She leaves behind a trail, and a trail is harder to seal in a drawer.
 
 ---
 
