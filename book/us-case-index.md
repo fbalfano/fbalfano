@@ -30,30 +30,42 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
 
 ## What the Body Kept - DNA, genetic genealogy, trace, toxicology
 
-### *State v. Talbott*, 200 Wn.2d 731, 521 P.3d 948 (Wash. 2022) - ✅
-- Also: Wash. Ct. App., No. 80334-4-I (2021) (reversed below; SC reinstated).
-- **Court/year:** Washington Supreme Court, 2022 (Ct. App. 2021)
-- **Links:** SC https://law.justia.com/cases/washington/supreme-court/2022/100-540-7.html · CoA https://law.justia.com/cases/washington/court-of-appeals-division-i/2021/80334-4.html
-- **Smoking gun:** 1987 murders of Canadian couple Tanya Van Cuylenborg and Jay
-  Cook in Washington. In 2018 Parabon/CeCe Moore uploaded crime-scene DNA to
-  GEDmatch, built family trees to Talbott, then police confirmed with his
-  abandoned DNA (a discarded cup). **First genetic-genealogy case ever tried to a
-  jury.** (Note: appeals turned on juror bias, not the GG technique itself.)
+### *State v. Talbott*, 200 Wn.2d 731, 521 P.3d 948 (Wash. 2022) - ✅ CONFIRMED FROM PDF
+- Also: Wash. Ct. App., No. 80334-4-I (CoA reversed 2021; SC reinstated 2022; on
+  remand the CoA struck a firearm enhancement but otherwise AFFIRMED - convictions stand).
+- **Court/year:** Washington Supreme Court, 2022; Ct. App. remand decision (the PDF pulled)
+- **PDF in repo:** `book/pdfs/State_v_Talbott_WaCtApp_80334-4-I.pdf` · **Chapter:** `book/chapters/ch05-talbott-genealogy.md`
+- **Smoking gun (per the opinion):** Nov 1987 murders of a young couple from
+  Victoria, B.C. - Tanya Van Cuylenborg (shot) and Jay Cook (beaten/killed) - on an
+  overnight trip to the Seattle area; bodies in two rural counties, van in a third.
+  Semen on Van Cuylenborg's pants/body + Talbott's palm print on the van. Cold ~30
+  yrs until crime-scene DNA was run through genealogy (GEDmatch/Parabon), family
+  trees built to Talbott, confirmed via his abandoned DNA (a discarded cup - from
+  the investigative record). First US IGG case tried to a jury. Convictions
+  ultimately stand (juror-bias reversal undone by the SC; remand affirmed).
 
-### *State v. Hartman*, 29 Wn. App. 2d 384, 534 P.3d 423 (Wash. Ct. App. 2023) - ✅
-- **Court/year:** Washington Court of Appeals, Div. II, 2023 (review petition filed)
-- **Link:** https://www.courts.wa.gov/opinions/pdf/D2%2056801-2-II%20Published%20Opinion.pdf
-- **Smoking gun:** 1986 rape-murder of 12-year-old M.W. in a Tacoma park.
-  Parabon/GEDmatch built a family tree to Hartman. The leading **published**
-  decision upholding the technique: no privacy interest in DNA abandoned at a
-  scene, and no standing to challenge relatives' voluntarily-uploaded DNA.
+### *State v. Hartman*, 29 Wn. App. 2d 384, 534 P.3d 423 (Wash. Ct. App. 2023) - ✅ CONFIRMED FROM PDF
+- **Court/year:** Washington Court of Appeals, 2023
+- **Link:** https://caselaw.findlaw.com/ (search "State v. Hartman 2023")
+- **PDF in repo:** `book/pdfs/State_v_Hartman_2023_WaCtApp.pdf` · **Chapter:** `book/chapters/ch06-hartman-genealogy-privacy.md` (with Vaultz folded in)
+- **Smoking gun (per the opinion):** 1986 rape-murder of 12-year-old **MW** in a
+  Tacoma park; killer left semen. In 2018 police had Parabon upload the profile to
+  GEDmatch (no warrant), found cousins' DNA, built family trees to Hartman, then
+  collected his abandoned DNA (a napkin) - matched the semen. Hartman moved to
+  suppress. Court AFFIRMED: **no privacy interest in DNA a relative voluntarily
+  uploads to a public database, and none in DNA abandoned at a crime scene** -
+  the leading decision upholding the genetic-genealogy technique. Keep victim to
+  initials MW.
 
-### *People v. Vaultz* (Horace Van Vaultz Jr.), No. B323590 (Cal. Ct. App. 2024) - ⚠️ (unpublished)
-- **Court/year:** California Court of Appeal, 2d Dist., 2024 (conviction affirmed)
-- **Link:** https://www.casemine.com/judgement/us/661b5c22066d194da4133c2f
-- **Smoking gun:** Strangulation murders of Selena Keough (1981) and Mary Duggan
-  (1986); IGG identified him - LA County's first such prosecution. Unpublished, so
-  no reporter cite; cite by docket.
+### *People v. Vaultz* (Horace Van Vaultz Jr.), No. B323590 (Cal. Ct. App. 2024) - ✅ CONFIRMED FROM PDF (companion in Ch. 6)
+- **Court/year:** California Court of Appeal, 2d Dist., April 2024 (conviction AFFIRMED)
+- **PDF in repo:** `book/pdfs/People_v_Vaultz_B323590_2024.pdf` (CaseMine version - the usable one; the other file sent was just the Cal. Supreme Court June 2024 minutes)
+- **Smoking gun (per the opinion):** Strangulation murders of Selena Keough (July
+  1981; ligature, sexual assault, sperm recovered) and Mary Duggan (1986); the
+  same DNA linked both (matched a gag in Duggan's mouth). IGG identified Vaultz, a
+  former Marine - LA County's first such prosecution; arrested at a traffic stop.
+  Convicted; affirmed, DNA "overwhelming." Folded into Ch. 6 as the companion
+  showing the technique holds up on appeal. Unpublished - cite by docket.
 
 ### *People v.* [caption unconfirmed], No. G063674 (Cal. Ct. App. 2024) - ⚠️ 🔶 (caption uncertain)
 - **Court/year:** California Court of Appeal, 4th Dist., 2024
@@ -71,13 +83,21 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   GEDmatch family trees + abandoned DNA (car door, tissue). Use as the origin-story
   sidebar that frames the Talbott/Hartman chapters - not a case-anchored chapter.
 
-### *Williams v. State*, 251 Ga. 749, 312 S.E.2d 40 (Ga. 1983) - ✅
-- **Court/year:** Supreme Court of Georgia, 1983
+### *Williams v. State*, 251 Ga. 749, 312 S.E.2d 40 (Ga. 1983) - ✅ CONFIRMED FROM PDF
+- **Court/year:** Supreme Court of Georgia, 1983 (convicted Feb 27, 1982)
 - **Link:** https://law.justia.com/cases/georgia/supreme-court/1983/39641-1.html
-- **Smoking gun:** Atlanta Child Murders. Rare yellowish-green nylon + violet
-  acetate carpet fibres on the victims matched fibres from Wayne Williams's home
-  and cars, traced to a limited West Point Pepperell carpet run (odds ~1 in
-  7,792). The landmark US trace-fibre / probability decision.
+- **PDF in repo:** `book/pdfs/Williams_v_State_251_Ga_749_1983.pdf` · **Chapter:** `book/chapters/ch07-williams-fibres.md`
+- **Smoking gun (per the opinion):** Atlanta Child Murders. Wayne Bertram Williams
+  convicted of murdering Jimmy Ray Payne and Nathaniel Cater (2 consecutive life
+  terms). Trace-fibre case: fibres from Williams's home, cars, and German Shepherd
+  matched fibres on the victims' bodies; a green fibre from Cater's hair matched
+  Williams's green bedroom carpet (examiners even soaked a carpet fibre in
+  Chattahoochee River water 3 days to test fading, since bodies were dumped in the
+  river). Evidence of 10 other killings admitted to prove identity via the
+  recurring fibre pattern (12 victims total). Affirmed - the landmark US trace-
+  fibre / probability decision. **NOTE:** the West Point Pepperell manufacturer and
+  the "1 in 7,792" figure are NOT in this opinion (trial-record/press) - chapter
+  follows the opinion's own account.
 
 ### *Turner v. State*, 281 Ga. 647, 641 S.E.2d 527 (Ga. 2007) - ⚠️
 - **Court/year:** Supreme Court of Georgia, 2007

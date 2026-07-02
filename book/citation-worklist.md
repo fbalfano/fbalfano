@@ -20,13 +20,13 @@ cases we'll frame carefully.
 - ✅ 🇨🇦 *R. v. Legere*, 1994 CanLII 3851 (NB CA) - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *Laliberté c. R.*, 2015 QCCA 1633 *(French - translated)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *R. v. Terceira*, 1998 CanLII 2174 (ON CA); aff'd 1999 CanLII 645 (SCC) - **PDFs pulled ✔ · chapter drafted ✔**
-- ✅ 🇺🇸 *State v. Talbott*, 200 Wn.2d 731, 521 P.3d 948 (Wash. 2022) *(also Wash. Ct. App. No. 80334-4-I, 2021)*
-- ✅ 🇺🇸 *State v. Hartman*, 29 Wn. App. 2d 384, 534 P.3d 423 (Wash. Ct. App. 2023)
-- ⚠️ 🇺🇸 *People v. Vaultz*, No. B323590 (Cal. Ct. App. 2024) *(unpublished - cite by docket)*
+- ✅ 🇺🇸 *State v. Talbott*, 200 Wn.2d 731, 521 P.3d 948 (Wash. 2022) - **PDF pulled ✔ · chapter drafted ✔**
+- ✅ 🇺🇸 *State v. Hartman*, 29 Wn. App. 2d 384, 534 P.3d 423 (Wash. Ct. App. 2023) - **PDF pulled ✔ · chapter drafted ✔ (Ch. 6)**
+- ✅ 🇺🇸 *People v. Vaultz*, No. B323590 (Cal. Ct. App. 2024) *(unpublished)* - **PDF pulled ✔ · folded into Ch. 6 ✔**
 - ⚠️🔶 🇺🇸 *People v.* [caption uncertain - maybe "Russo"], No. G063674 (Cal. Ct. App. 2024) *(confirm party name in the PDF)*
 - 🔶 🇺🇸 *Golden State Killer / People v. DeAngelo* - **no appeal (guilty plea); news-sourced sidebar only**
-- ✅ 🇺🇸 *Williams v. State*, 251 Ga. 749, 312 S.E.2d 40 (Ga. 1983) *(Atlanta Child Murders - fibres)*
-- ⚠️ 🇺🇸 *Turner v. State*, 281 Ga. 647, 641 S.E.2d 527 (Ga. 2007) *(antifreeze - confirm page)*
+- ✅ 🇺🇸 *Williams v. State*, 251 Ga. 749, 312 S.E.2d 40 (Ga. 1983) *(Atlanta Child Murders - fibres)* - **PDF pulled ✔ · chapter drafted ✔**
+- ⚠️ 🇺🇸 *Turner v. State*, **281 Ga. 647**, 641 S.E.2d 527 (Ga. **2007**) *(Julia Lynn Turner, antifreeze)* - **WRONG FILE SENT (got 273 Ga. 340 (2001), a different Turner) - RE-PULL: Justia s06a1971-1**
 
 ## PART II - The Phone in Your Pocket (location & movement)
 - ✅ 🇺🇸 *Carpenter v. United States*, 585 U.S. 296, 138 S. Ct. 2206 (2018) *(framing - cell-site)*

@@ -36,12 +36,15 @@ victim's body, and a killer's, refuse to let go.*
    *Hook:* **An intruder killed Michaël Cadieux with fourteen stab wounds. He did not count on the woman beside him fighting back, grabbing him by the throat, and taking a piece of him under her nails.**
 4. **The Calling Card** - 🇨🇦 *R. v. Terceira*, 1998 CanLII 2174 (ON CA); aff'd 1999 CanLII 645 (SCC) ✍️ *drafted*
    *Hook:* **A six-year-old girl's body was hidden in a boiler room the police never found, on a floor they didn't know existed. But the man who put her there left four different kinds of himself on her body.**
-5. **A Coffee Cup and a Stranger's Family Tree** - 🇺🇸 *State v. Talbott* (Wash., 2022) - the first genetic-genealogy trial
-6. **No Privacy in the DNA Your Cousins Share** - 🇺🇸 *State v. Hartman* (Wash. Ct. App., 2023) - the technique upheld
+5. **A Coffee Cup and a Stranger's Family Tree** - 🇺🇸 *State v. Talbott*, 200 Wn.2d 731 (2022) ✍️ *drafted*
+   *Hook:* **A young couple was murdered in 1987, cold for thirty years. The killer was found through the DNA of cousins he had never met, and confirmed by a cup he threw away.**
+6. **No Privacy in the DNA Your Cousins Share** - 🇺🇸 *State v. Hartman*, 29 Wn. App. 2d 384 (2023) ✍️ *drafted* *(+ People v. Vaultz companion)*
+   *Hook:* **A man tried to suppress the evidence that convicted him of a child's murder by claiming a privacy violation. The court's answer: the DNA you share with your relatives is not yours alone to hide.**
    - *Sidebar:* 🇺🇸 the Golden State Killer (DeAngelo) - the cold case that launched it all (no appeal)
-   - *Also in this thread:* 🇺🇸 *People v. Vaultz* (Cal., 2024) and the G063674 constitutionality ruling
-7. **The Carpet in His Bedroom** - 🇺🇸 *Williams v. State* (Ga., 1983) - the Atlanta Child Murders fibre case
-8. **The Sweet Taste of Antifreeze** - 🇺🇸 *Turner v. State* (Ga., 2007) - two men, years apart, one poisoner
+7. **The Carpet in His Bedroom** - 🇺🇸 *Williams v. State*, 251 Ga. 749 (1983) ✍️ *drafted* *(Atlanta Child Murders - fibres)*
+   *Hook:* **For two years a city buried its children and could not name the killer. In the end he was undone by the carpet fibres he carried out of his own bedroom and left on the bodies.**
+8. **The Sweet Taste of Antifreeze** - 🇺🇸 *Turner v. State*, 281 Ga. 647 (2007) - two men, years apart, one poisoner
+   *⚠️ NEEDS RE-PULL: the file sent was the WRONG Turner (273 Ga. 340 (2001), James Steven Turner, a 1979 shooting). The antifreeze poisoner is Julia Lynn Turner, 281 Ga. 647, 641 S.E.2d 527 (2007) - Justia s06a1971-1.*
 
 ## PART II - THE PHONE IN YOUR POCKET
 *Cell-tower pings, GPS, geotags, and licence-plate readers - the machines that
