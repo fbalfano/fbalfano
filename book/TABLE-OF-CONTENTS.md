@@ -132,7 +132,9 @@ the people wielding it.*
     *Hook:* **The same bite-mark science that caught Ted Bundy sent Ray Krone to death row. The only difference was that Krone hadn't done it, and it took ten years and a DNA test to prove what his crooked teeth could not.**
 39. **The Bite Marks Only One Man Could See** - 🇺🇸 *Howard v. State*, No. 2018-CA-01586-SCT (Miss. 2020) ✍️ *drafted* 🔶
     *Hook:* **The autopsy found no bite marks. Then the body was exhumed, a forensic dentist declared he'd found three, matched them to Eddie Lee Howard, and sent him to death row for twenty-six years. Another man's DNA was on the knife.**
-40. **The Flies That Never Came** - 🇺🇸 *Lobato v. State* (Nev., 2004) 🔶 - entomology clears the innocent
+40. **The Flies That Never Came** - 🇺🇸 *Lobato v. State*, 120 Nev. 512 (2004) ✍️ *drafted* 🔶
+    *Hook:* **She was convicted of a murder that happened 170 miles from where she was, on the word of a jailhouse informant who forged letters to con her own sentencing judge. What finally freed her was the testimony of insects that never showed up.**
+    *(Sourcing note: the 2004 anchor decision reverses on the INFORMANT issue; the entomology + exoneration are the case's later history, flagged in-chapter.)*
 41. **The Boy, the Flies, and Forty-Eight Years** - 🇨🇦 *R. v. Truscott* (ON CA, 2007) 🔶 - the Canadian bookend
 
 ---

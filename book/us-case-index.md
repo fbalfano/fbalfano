@@ -320,11 +320,22 @@ sidebar on the frontier of device evidence:
   Howard (nightgown, stockings, kit, fingernails all lacked incriminating male
   DNA). 26 years on death row; exonerated 2021 (news-sourced).
 
-### *Lobato v. State*, 120 Nev. 512, 96 P.3d 765 (Nev. 2004) - ⚠️ 🔶 (exoneration)
-- **Court/year:** Nevada Supreme Court, 2004 (published); later relief 2016–18
-- **Link:** https://caselaw.findlaw.com/court/nv-supreme-court/1003868.html
-- **Smoking gun:** Kirstin Lobato was convicted though 170 miles away. The
-  *absence* of blow-fly colonization on the body in July heat meant death came
-  after sunset - when she had an alibi. Entomology eventually vacated the
-  conviction (2018). Cite the 2004 opinion; describe the 2016–18 relief
-  narratively.
+### *Lobato v. State*, 120 Nev. 512, 96 P.3d 765 (Nev. 2004) - ✅ CONFIRMED FROM PDF 🔶
+- **Court/year:** Nevada Supreme Court, 2004 (murder July 2001); later relief 2016-18
+- **Link:** https://law.justia.com/cases/nevada/supreme-court/2004/ (search "Lobato 96 P.3d 765")
+- **PDF in repo:** `book/pdfs/Lobato_v_State_120_Nev_512_2004.pdf`
+- **Chapter:** drafted - `book/chapters/ch40-lobato-flies.md`
+- **⚠️ SOURCING NOTE (important):** the 2004 opinion does NOT discuss entomology.
+  It reverses Lobato's FIRST conviction on a JAILHOUSE-INFORMANT issue - the trial
+  court wrongly barred the defense from impeaching informant Korinda Martin with
+  forged letters (Martin had forged a recommendation to defraud her own sentencing
+  judge; a document examiner later confirmed her authorship). The famous blow-fly /
+  time-of-death entomology (near-total absence of insect colonization on a body
+  exposed in July heat = death after dark, when Lobato was 170 mi away in Panaca)
+  and the eventual exoneration (~16 yrs; freed 2017-18) belong to the RETRIAL and
+  later habeas proceedings - carried in-chapter as clearly-flagged later history.
+- **Smoking gun (per the opinion):** Duran Bailey found beaten/stabbed/mutilated
+  behind a Las Vegas dumpster (July 8, 2001). Lobato's ambiguous "I didn't think
+  anybody would miss him" (conflating her own earlier, separate assault) + Martin's
+  jailhouse testimony convicted her. 2004: convictions REVERSED, new trial
+  (informant-impeachment error).

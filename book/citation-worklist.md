@@ -77,7 +77,7 @@ cases we'll frame carefully.
 - ✅ 🇺🇸 *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) *(bite marks convict Bundy)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇺🇸 *State v. Krone*, 182 Ariz. 319, 897 P.2d 621 (Ariz. 1995) *(bite-mark exoneration)* - **PDF pulled ✔ · chapter drafted ✔**
 - ⚠️🔶 🇺🇸 *Howard v. State*, No. 2018-CA-01586-SCT (Miss. 2020) *(≈300 So. 3d 1011) - bite-mark science rejected* - **PDF pulled ✔ · chapter drafted ✔**
-- ⚠️🔶 🇺🇸 *Lobato v. State*, 120 Nev. 512, 96 P.3d 765 (Nev. 2004) *(entomology exoneration - "no maggots")*
+- ✅🔶 🇺🇸 *Lobato v. State*, 120 Nev. 512, 96 P.3d 765 (Nev. 2004) *(2004 opinion = INFORMANT reversal; entomology/exoneration are later history)* - **PDF pulled ✔ · chapter drafted ✔**
 - ⚠️🔶 🇨🇦 *R. v. Truscott*, 2007 ONCA 575 *(entomology + pathology exoneration)*
 
 ---
