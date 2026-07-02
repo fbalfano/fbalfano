@@ -11,6 +11,30 @@ Check this file before drafting anything new.
 2. Exception: text inside a **verbatim quotation** from a court decision keeps
    the original punctuation exactly as the court wrote it.
 
+## Voice and tone
+
+The book reads like **an old detective novel crossed with *America's Dumbest
+Criminals***. Descriptive, illustrative, and easy to read. The reader should be
+able to *see* the scene, and above all *see what went wrong*.
+
+- **Paint the picture.** Set scenes with concrete, sensory detail, the way
+  hardboiled detective fiction does. A cold street, a lit window, a phone buzzing
+  in an evidence bag. Show, don't summarize.
+- **Comparatives woven in.** Use similes and metaphors the way old detective
+  novels do ("the case fell into place like tumblers in a lock"). Sparingly
+  enough that each one lands.
+- **Humor, aimed correctly.** These are real murders with real victims, so the
+  humor NEVER targets the victim, the killing, or the grief. It targets the
+  *criminal's stupidity*: the staggering, face-palming carelessness of what they
+  did and forgot to do. Dry, wry, a raised eyebrow, not a laugh track. Think of
+  the narrator shaking his head at a man who researched how to destroy DNA and
+  then filed the research on a hard drive he kept.
+- **Page-turner endings.** Every chapter should make the reader want the next
+  one. End on a line with snap.
+- **Rhythm.** Mix short, punchy sentences with longer descriptive ones. Vary it.
+- **Respect the dead.** Victims are named and treated with dignity. The comedy is
+  always about the blunder, never the loss.
+
 ## Chapter structure
 
 3. Every chapter opens with a **Hook Sentence in bold** as the first line after
