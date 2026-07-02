@@ -135,7 +135,9 @@ the people wielding it.*
 40. **The Flies That Never Came** - 🇺🇸 *Lobato v. State*, 120 Nev. 512 (2004) ✍️ *drafted* 🔶
     *Hook:* **She was convicted of a murder that happened 170 miles from where she was, on the word of a jailhouse informant who forged letters to con her own sentencing judge. What finally freed her was the testimony of insects that never showed up.**
     *(Sourcing note: the 2004 anchor decision reverses on the INFORMANT issue; the entomology + exoneration are the case's later history, flagged in-chapter.)*
-41. **The Boy, the Flies, and Forty-Eight Years** - 🇨🇦 *R. v. Truscott* (ON CA, 2007) 🔶 - the Canadian bookend
+41. **The Boy, the Flies, and Forty-Eight Years** - 🇨🇦 *Truscott (Re)*, 2007 ONCA 575 ✍️ *drafted* 🔶
+    *Hook:* **A pathologist looked at the food in a dead girl's stomach and declared she had died within a forty-five-minute window. That window sent a fourteen-year-old boy to the gallows. It took forty-eight years, and a study of blow flies, to prove the window was never real.**
+    *(The book's closing chapter; completes Part VIII.)*
 
 ---
 

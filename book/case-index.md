@@ -358,12 +358,21 @@ before print · 🔶 frame with care (contested / reversed / inverted).
 
 ## Epilogue - When the Science Sets You Free
 
-### Ch. 24 - *R. v. Truscott*, 2007 ONCA 575 - ⚠️ 🔶 (inverted)
-- **Link:** https://www.canlii.org/en/on/onca/doc/2007/2007onca575/2007onca575.html
-- **Court / year:** Ontario Court of Appeal, 2007 (murder 1959)
-- **Smoking gun / caution:** Steven Truscott was convicted at 14 largely on a
-  pathologist's stomach-contents/rigor time-of-death estimate fixing death inside
-  his narrow window. On a reference back, forensic entomologists reading the
-  insect colonization - with reassessed pathology - showed death likely came
-  later. The CA quashed the conviction as a miscarriage of justice and acquitted
-  him. The inverse of the book's theme: science freeing the innocent.
+### Ch. 41 - *Truscott (Re)*, 2007 ONCA 575 - ✅ CONFIRMED FROM MARKDOWN 🔶 (inverted; CLOSING CHAPTER)
+- **Link:** https://www.canlii.org/en/on/onca/doc/2007/2007onca575/2007onca575.html (PDF: .../2007onca575.pdf)
+- **In repo:** `book/pdfs/Truscott_Re_2007_ONCA_575.md` (full CanLII text as Markdown - the PDF was >30 MB)
+- **Chapter:** drafted - `book/chapters/ch41-truscott-bookend.md`
+- **Court / year:** Ontario Court of Appeal, 2007 (murder June 9, 1959; ministerial reference)
+- **Smoking gun / caution (per the opinion):** Steven Truscott, 14, convicted 1959
+  of murdering 12-yr-old classmate Lynne Harper (last seen riding on his bike;
+  found in Lawson's Bush, sexually assaulted, strangled with her blouse);
+  sentenced to hang, commuted to life. Crown case wholly circumstantial, four
+  pillars; the load-bearing one was Dr. John Penistan's time-of-death opinion
+  (7:00-7:45 p.m. June 9) from STOMACH CONTENTS + rigor + decomposition, which
+  gave Truscott "exclusive opportunity." 2007 reference: fresh pathology made the
+  "died before 8 p.m." claim "scientifically untenable"; forensic ENTOMOLOGY
+  (blow-fly maggots ~1/16" per Penistan's own autopsy notes, read against fly
+  development rates) supported a later death, outside his window. Conviction
+  QUASHED as a miscarriage of justice; new trial impossible; ACQUITTAL entered.
+  The book's inverted bookend: forensic science freeing the innocent, and the
+  cautionary close to the whole junk-science arc.
