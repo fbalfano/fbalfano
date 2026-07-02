@@ -52,8 +52,8 @@ log where you were.*
 
 > *Framing interlude (not a murder case):* 🇺🇸 *United States v. Jones* (2012)
 > and *Carpenter v. United States* (2018) - the two rulings that decided when the
-> phone in your pocket needs a warrant. ✍️ *drafted (Jones in hand; Carpenter to
-> be added)* - `book/chapters/interlude-part2-jones-carpenter.md`
+> phone in your pocket needs a warrant. ✍️ *drafted (Jones + Carpenter both in)* -
+> `book/chapters/interlude-part2-jones-carpenter.md`
 
 9. **The Test Drive** - 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418 ✍️ *drafted*
    *Hook:* **They planned the murder before they picked the victim. Tim Bosma was chosen by his own for-sale ad.**
@@ -67,8 +67,10 @@ log where you were.*
     *(Honest disposition: SCC 2025 upheld a NEW TRIAL on first-degree murder for all four; attempted-murder convictions stand. "700,000 records" is a press figure, not in the decisions.)*
 13. **He Said He Went Fishing** - 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409 (2020) ✍️ *drafted* 🔶
     *Hook:* **His alibi was that he'd been fishing in San Francisco Bay. Four months later his wife's body washed ashore a mile from the exact spot, and the GPS on his rental cars showed he kept driving back to it.**
-14. **The Blind Photo From Inside a Pocket** - 🇺🇸 *State v. Zielinski* (Minn., 2024) - an accidental geotag
-15. **The Cameras on the Interstate** - 🇺🇸 *State v. LaBranche* (La., 2025) - ALPR tracks the getaway car
+14. **The Blind Photo From Inside a Pocket** - 🇺🇸 *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) ✍️ *drafted*
+    *Hook:* **Somewhere on the drive to a robbery that would end in murder, a phone in someone's pocket took a picture of the inside of that pocket. No one meant to take it. And it was stamped with the time and the place.**
+15. **The Cameras on the Interstate** - 🇺🇸 *State v. LaBranche* (La. 5th Cir. 2025) ✍️ *drafted*
+    *Hook:* **He drove to the killings in his dead sister's car, a black Honda with distinctive chrome trim. The licence-plate readers on the interstate recognized it all the way home.**
 
 ## PART III - WHAT YOU TYPED, WHAT YOU SAVED
 *Search history, deleted files, chat logs - the confession you type when you

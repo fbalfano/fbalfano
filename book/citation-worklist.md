@@ -29,15 +29,15 @@ cases we'll frame carefully.
 - ✅ 🇺🇸 *Turner v. State*, 281 Ga. 647, 641 S.E.2d 527 (Ga. 2007) *(Julia Lynn Turner, antifreeze)* - **PDF pulled ✔ · chapter drafted ✔**
 
 ## PART II - The Phone in Your Pocket (location & movement)
-- ✅ 🇺🇸 *Carpenter v. United States*, 585 U.S. 296, 138 S. Ct. 2206 (2018) *(framing - cell-site)*
+- ✅ 🇺🇸 *Carpenter v. United States*, 585 U.S. 296, 138 S. Ct. 2206 (2018) *(framing - cell-site)* - **file pulled ✔ · folded into interlude ✔**
 - ✅ 🇺🇸 *United States v. Jones*, 565 U.S. 400 (2012) *(framing - GPS on vehicle)* - **PDF pulled ✔ · framing interlude drafted ✔**
 - ✅ 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418 - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *R. v. Millard* (Laura Babcock), 2023 ONCA 426 - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 *(rental-car GPS)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇨🇦 *R. v. Pan*, 2023 ONCA 362; 2025 SCC 12 *(staged 911; new trial on murder / attempted-murder stands)* - **PDFs pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409, 472 P.3d 382 (Cal. 2020) *(guilt affirmed, death sentence reversed)* - **file pulled ✔ · chapter drafted ✔**
-- ✅ 🇺🇸 *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) *(geotagged pocket photo)*
-- ⚠️ 🇺🇸 *State v. LaBranche*, La. Ct. App. 5th Cir. 2025 *(ALPR - cite by court + FindLaw ID 118267251)*
+- ✅ 🇺🇸 *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) *(geotagged pocket photo)* - **PDF pulled ✔ · chapter drafted ✔**
+- ✅ 🇺🇸 *State v. LaBranche*, La. Ct. App. 5th Cir. 2025 *(ALPR; ⚠️ confirm So.3d page)* - **PDF pulled ✔ · chapter drafted ✔**
 
 ## PART III - What You Typed, What You Saved (search history, files, chat)
 - ✅ 🇨🇦 *R v Garland*, 2019 ABCA 479 *(hard drive in the rafters)* - **PDF pulled ✔ · chapter drafted ✔**

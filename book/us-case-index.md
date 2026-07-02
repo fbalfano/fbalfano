@@ -13,12 +13,16 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
 
 ## Fourth Amendment framing cases (legal scaffolding, not chapters of their own)
 
-### *Carpenter v. United States*, 585 U.S. 296, 138 S. Ct. 2206 (2018) - ✅
-- **Court/year:** U.S. Supreme Court, 2018
+### *Carpenter v. United States*, 585 U.S. 296, 138 S. Ct. 2206 (2018) - ✅ CONFIRMED FROM DOCX
+- **Court/year:** U.S. Supreme Court, decided June 22, 2018
 - **Link:** https://www.supremecourt.gov/opinions/17pdf/16-402_h315.pdf
-- **Point:** Acquiring historical cell-site location info is a Fourth Amendment
-  "search" requiring a warrant. The essential framing case for any cell-tower
-  chapter. (Underlying facts: Detroit RadioShack/T-Mobile robberies.)
+- **File in repo:** `book/pdfs/Carpenter_v_US_585_US_296_2018.docx` · **Used in:** `book/chapters/interlude-part2-jones-carpenter.md` (Part II framing interlude)
+- **Point (per the opinion):** Detroit RadioShack/T-Mobile armed robberies;
+  accomplice named Carpenter. Government got ~127 days of his historical cell-site
+  location info WITHOUT a warrant (third-party-records theory), placing his phone
+  near the robberies. Held: acquiring that pervasive long-term location record IS
+  a Fourth Amendment "search" requiring a warrant. The essential framing for every
+  cell-tower chapter (Millard, Pan). Now folded into the interlude with Jones.
 
 ### *United States v. Jones*, 565 U.S. 400, 132 S. Ct. 945 (2012) - ✅ CONFIRMED FROM PDF
 - **Court/year:** U.S. Supreme Court, decided Jan. 23, 2012 (Scalia, J.)
@@ -146,21 +150,35 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   convictions AFFIRMED; DEATH SENTENCE REVERSED (jury-selection error). Later
   resentenced to life (news-sourced).
 
-### *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) - ✅
-- **Court/year:** Minnesota Supreme Court, 2024
+### *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) - ✅ CONFIRMED FROM PDF
+- **Court/year:** Minnesota Supreme Court, 2024 (No. A22-0710; killing Aug 27, 2020)
 - **Link:** https://law.justia.com/cases/minnesota/supreme-court/2024/a22-0710.html
-- **Smoking gun:** A debt collection turned killing (Lino Lakes, 2020). A phone
-  fired a blind photo from inside a pocket, auto-geotagged 4.3 miles (~9 min)
-  from the victim's house around the time of death - placing the killers on the
-  timeline. First-degree conviction affirmed.
+- **PDF in repo:** `book/pdfs/State_v_Zielinski_10_NW3d_1_2024.pdf` · **Chapter:** `book/chapters/ch14-zielinski-pocket-photo.md`
+- **Smoking gun (per the opinion):** Robbery-murder of Karl Henderson (Lino Lakes;
+  ~$50k in a home safe); Zielinski + "Nicholas" hauled the safe from the basement,
+  father found Henderson shot. A phone took a blind pocket photo, auto-geotagged
+  "about a nine-minute drive" from the scene around the time of the murder.
+  **Honest weight:** the court says the case was overwhelming EVEN WITHOUT the
+  photo - cell data showed her phone travelling with Nicholas's to the scene and
+  back, her DNA was on the stolen safe, plus "I've waited long enough" texts and
+  SentrySafe searches + a Star Tribune article visit. First-degree AFFIRMED;
+  duplicative second-degree reversed. (Opinion says "nine-minute drive," not
+  "4.3 miles.")
 
-### *State v. LaBranche*, La. Ct. App. 5th Cir. 2025 - ⚠️ (reporter cite unconfirmed)
-- **Court/year:** Court of Appeal of Louisiana, 5th Cir., 2025 (affirmed)
+### *State v. LaBranche*, La. Ct. App. 5th Cir. 2025 - ✅ CONFIRMED FROM PDF (⚠️ reporter page still unconfirmed)
+- **Court/year:** Court of Appeal of Louisiana, 5th Cir., 2025 (convictions affirmed)
 - **Link:** https://caselaw.findlaw.com/court/la-court-of-appeal/118267251.html
-- **Smoking gun:** 2022 Metairie double murder. ALPR cameras clocked the Honda
-  Accord tied to LaBranche fleeing northbound on I-55 in the hours after the
-  killings - the licence-plate-reader case Canada didn't provide. Cite by court +
-  FindLaw ID until the So. 3d page is confirmed.
+- **PDF in repo:** `book/pdfs/State_v_LaBranche_La5Cir_2025.pdf` · **Chapter:** `book/chapters/ch15-labranche-alpr.md`
+- **Smoking gun (per the opinion):** 2022 Metairie double murder - Jonathan Pizzuto
+  and William Mitchell shot (10 .45 casings). Cody LaBranche blamed Pizzuto for the
+  overdose death of his sister Brittany (Pizzuto's partner); grudge over her ashes/
+  pets; repeated pre-murder contact attempts. He drove Brittany's distinctive black
+  Honda Accord w/ chrome trim (now registered to his mother at his Ponchatoula
+  address); home surveillance caught it leaving; ALPR then clocked it northbound on
+  I-55 near Hammond in the killing window, Metairie→Ponchatoula. Confessed after
+  Miranda (shot Mitchell then Pizzuto; threw the gun in a river). 2 counts first-
+  degree murder; affirmed. Cite by court + FindLaw ID 118267251 until the So. 3d
+  page is confirmed.
 
 ---
 

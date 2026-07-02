@@ -32,14 +32,25 @@ tracklog thrown out.
 
 Its companion is *Carpenter v. United States* (2018), which extended the same
 caution from a device the police attach to one they merely ask a company to hand
-over. There the government had obtained months of historical cell-site location
-records, the log of which towers a suspect's phone connected to, without a warrant,
-and used them to place him near a string of robberies. The Court held that
-acquiring that kind of pervasive, long-term location history is also a search
-requiring a warrant, refusing to treat the digital trail we leave with our phone
-companies as fair game simply because a third party holds it. *(Carpenter is the
-essential companion to this interlude; its own chapter-length treatment can be
-slotted here once the decision is in hand.)*
+over. Timothy Carpenter was tied to a string of armed robberies at RadioShack and
+T-Mobile stores around Detroit after an accomplice named him. To build the case,
+the government obtained, without a warrant, months of Carpenter's historical
+cell-site location information, the log of which cell towers his phone had
+connected to, roughly 127 days of it, placing his phone near robbery after
+robbery. The government's theory was that this was fair game because the records
+belonged to the phone company, not to Carpenter, under the old rule that you
+surrender your privacy in information you hand to a third party.
+
+The Court refused to go there. Acquiring that kind of pervasive, long-term record
+of a person's movements, it held, is a Fourth Amendment search that requires a
+warrant, even though a phone company holds the data, because a comprehensive log
+of everywhere you have been is exactly the sort of intimate portrait the Amendment
+protects. Modern life forces us to leave a locational trail with our carriers
+simply by owning a phone; that necessity, the Court reasoned, cannot mean we
+surrender the right to keep the government from freely reading it. *Carpenter* is
+the essential backdrop to every chapter in this book where historical cell-tower
+records place a killer, from the two phones on the same towers in the Millard
+cases to the timeline that helped convict Jennifer Pan.
 
 Together, *Jones* and *Carpenter* are the rules of the road for everything in this
 part of the book. They do not stop the police from using cell towers and GPS to
