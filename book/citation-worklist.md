@@ -47,7 +47,7 @@ cases we'll frame carefully.
 - ⚠️ 🇺🇸 *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) *(Googled "gunshot right chest")*
 
 ## PART IV — The Device That Watched You (wearables, IoT, vehicle data)
-- ✅ 🇺🇸 *State v. Dabate*, No. SC20749 (Conn. 2025) *(Fitbit — steps after "death")*
+- ✅ 🇺🇸 *State v. Dabate*, **351 Conn. 428 (2025)** (SC 20749) *(Fitbit — steps after "death")* — **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇺🇸 *State v. Burch*, 2021 WI 68, 961 N.W.2d 314 (Wis. 2021) *(Fitbit — 12 steps clears boyfriend)*
 - ✅🔶 🇺🇸 *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) *(car EDR — suppressed; DUI/vehicular)*
 - 🔶 🇺🇸 *People v. Xinos*, 192 Cal. App. 4th 637 (2011) *(car EDR — DEPUBLISHED, not precedent)*

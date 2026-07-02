@@ -144,13 +144,26 @@ pull the PDF — the case, court, and disposition are confirmed in every instanc
 
 ## The Device That Watched You — wearables, IoT, vehicle data
 
-### *State v. Dabate*, No. SC20749 (Conn. 2025) — ✅
-- **Court/year:** Connecticut Supreme Court, 2025 (affirmed)
+### *State v. Dabate*, 351 Conn. 428 (2025) (SC 20749) — ✅ CONFIRMED FROM PDF
+- **Court/year:** Connecticut Supreme Court, decided March 11, 2025 (affirmed)
 - **Link:** https://law.justia.com/cases/connecticut/supreme-court/2025/sc20749.html
-- **Smoking gun:** Dabate blamed a masked intruder for shooting his wife Connie
-  (2015). But Connie's Fitbit logged her walking ~1,200 feet of steps for over an
-  hour *after* he said she was dead — demolishing the home-invasion story.
-  Conviction and Fitbit reliability upheld.
+- **PDF in repo:** `book/pdfs/State_v_Dabate_351_Conn_428_2025.pdf`
+- **Chapter:** drafted — `book/chapters/ch21-dabate-fitbit.md`
+- **Smoking gun (per the opinion):** Dabate blamed a camouflaged intruder for
+  shooting his wife Connie (Dec. 23, 2015) and staged the scene — loose zip
+  ties, self-inflicted box-cutter wounds, his wallet planted outside. The jury's
+  timeline: Connie home from a cancelled gym class at 9:18 a.m., on the phone,
+  Facebook, and messaging; at 10:05 a.m. he lured her to the basement and shot
+  her — the moment her hip-worn Fitbit One stopped registering steps. The
+  Fitbit + Facebook activity "demonstrated to the jury that the victim was
+  alive at the time that the defendant claimed that she had been murdered by a
+  third party." Also: no third-person scent (canine), his DNA on the gun, chair,
+  safe, and box cutter, a 7-year affair with a pregnant mistress, and a
+  "surrogate" cover story that collapsed. 65 years; affirmed after a *Porter*
+  reliability challenge to the Fitbit (Columbia's Keith Diaz: hip-worn Fitbit
+  more accurate than the research-grade Actical; no need to explain the
+  proprietary algorithm). Court found four prosecutorial improprieties
+  (including the "mini Cheshire scene" question) but harmless.
 
 ### *State v. Burch*, 2021 WI 68, 961 N.W.2d 314 (Wis. 2021) — ✅
 - **Court/year:** Wisconsin Supreme Court, 2021 (affirmed)

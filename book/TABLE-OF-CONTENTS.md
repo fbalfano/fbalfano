@@ -63,7 +63,8 @@ think no one's reading.*
 *Fitness trackers, smart speakers, pacemakers, and the black box in your car —
 the witnesses you strap on and invite inside.*
 
-21. **The Steps a Dead Woman Kept Taking** — 🇺🇸 *State v. Dabate* (Conn., 2025) — the Fitbit murder
+21. **Don't Murder a Woman Wearing a Fitbit** — 🇺🇸 *State v. Dabate*, 351 Conn. 428 (2025) ✍️ *drafted*
+    *Hook:* **Her husband told police she was already dead. Her Fitbit kept counting.**
 22. **Twelve Steps Cleared the Wrong Man** — 🇺🇸 *State v. Burch* (Wis., 2021) — a Fitbit alibi, then the real killer
 23. **The Car That Almost Testified** — 🇺🇸 *State v. Worsham* (Fla., 2017) 🔶 with *People v. Xinos* (Cal., 2011) 🔶 — the black-box privacy fight
     - *Sidebar — The Device That Almost Testified:* the Alexa cases (Bates, Crespo, Verrill), the Aiello Fitbit heartbeat, the Compton pacemaker — famous, but none convicted-on-appeal 🔶
