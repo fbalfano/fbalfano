@@ -265,8 +265,9 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   extraction upheld; Fitbit step data admitted WITHOUT expert testimony
   (contrast Dabate's Porter hearing).
 
-### *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) - ✅ 🔶
+### Ch. 23 - *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) - ✅ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch23-worsham-xinos-blackbox.md` (with Xinos)**
 - **Court/year:** Florida Fourth District Court of Appeal, 2017
+- **PDF in repo:** `book/pdfs/State_v_Worsham_227_So3d_602_2017.pdf`
 - **Link:** https://www.leagle.com/decision/inflco20170329178
 - **Smoking gun / caution:** A fatal high-speed crash (DUI manslaughter /
   vehicular homicide). Police downloaded the car's event data recorder (speed,
@@ -274,9 +275,10 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   expectation in black-box data and **suppressed it**. The "the car almost
   testified" privacy landmark - not a conviction-by-data story.
 
-### *People v. Xinos*, 192 Cal. App. 4th 637 (Cal. Ct. App. 2011) - 🔶 (DEPUBLISHED)
+### Ch. 23 - *People v. Xinos*, 192 Cal. App. 4th 637 (Cal. Ct. App. 2011) - 🔶 (DEPUBLISHED) - **PDF pulled ✔ · folded into ch23 ✔**
 - **Court/year:** California Court of Appeal, 6th Dist., 2011 - **later depublished,
   not citable as precedent.**
+- **PDF in repo:** `book/pdfs/People_v_Xinos_192_CalApp4th_637_2011.pdf`
 - **Smoking gun / caution:** Drunk driver killed a pedestrian at ~60 mph; his
   SUV's black box recorded the last five seconds; warrantless download held
   unconstitutional. Companion to Worsham - but flag the depublication prominently.
@@ -299,24 +301,36 @@ sidebar on the frontier of device evidence:
 
 ## The Staged Scene - bloodstain, trajectory, staged death
 
-### *State v. Peterson* (Michael Peterson - "The Staircase"), N.C. Ct. App., No. COA12-1047 (2013) - ⚠️ 🔶
-- Approx. reporter: 228 N.C. App. 339, 744 S.E.2d 153.
-- **Court/year:** North Carolina Court of Appeals, 2013 (new trial granted)
-- **Link:** https://law.justia.com/cases/north-carolina/court-of-appeals/2013/12-1047.html
-- **Smoking gun / caution:** Novelist Michael Peterson convicted of beating his
-  wife Kathleen and staging a fall down the stairs (2003). Bloodstain analyst
-  Duane Deaver was the *only* witness to how he supposedly killed her - and the
-  conviction collapsed when Deaver's testimony and credentials proved
-  misrepresented. Bloodstain analysis as both linchpin and downfall.
+### Ch. 29 - *State v. Peterson* (Michael Peterson - "The Staircase"), No. 547A06 (N.C. 2007) - ✅ CONFIRMED FROM PDF 🔶
+- **Correct anchor:** *State v. Peterson*, 361 N.C. 587, 652 S.E.2d 216 (N.C. 2007),
+  Supreme Court of North Carolina, No. 547A06, **AFFIRMING** the conviction (not the
+  2013 COA new-trial ruling my worklist first referenced). Affirms 179 N.C. App.
+  437, 634 S.E.2d 594 (2006).
+- **PDF in repo:** `book/pdfs/State_v_Peterson_MichaelStaircase_547A06_2007.pdf`
+- **Chapter:** drafted - `book/chapters/ch29-michael-peterson-staircase.md`
+- **Smoking gun / caution (per the 2007 opinion):** Novelist Michael Peterson called
+  911 to say wife Kathleen fell down the stairs (Dec 9, 2001). Paramedics found an
+  enormous amount of blood, much of it dry/smeared; autopsy found SEVEN separate
+  scalp lacerations with NO skull fracture ("beating-type pattern," inconsistent with
+  a fall); blood spatter on his shirt, shoes, and the INSIDE of his shorts' right leg;
+  SBI Agent Duane Deaver's blood-spatter analysis (10,000+ drops). Prior-death
+  parallel: Elizabeth Ratliff, found dead at the foot of a staircase in Germany, 1985,
+  discovered by Peterson. **2007 disposition: conviction AFFIRMED.** LATER HISTORY
+  (flagged in-chapter): Deaver discredited in the SBI crime-lab scandal → 2011 new
+  trial → 2017 Alford plea to manslaughter, time served. Bloodstain analysis as both
+  linchpin and reason it collapsed.
 
-### *Johnson v. State*, No. 06-03-00235-CR (Tex. App.-Texarkana 2004) - ⚠️
-- Reporter reported as 151 S.W.3d 193 - confirm.
+### Ch. 30 - *Johnson v. State* (Mary Alvis Johnson), No. 06-03-00235-CR (Tex. App.-Texarkana 2004) - ✅ CONFIRMED FROM PDF
+- Reporter reported as 151 S.W.3d 193 - confirm exact page before print.
 - **Court/year:** Texas Court of Appeals, 6th Dist., 2004 (affirmed)
 - **Link:** https://law.justia.com/cases/texas/sixth-court-of-appeals/2004/7359.html
-- **Smoking gun:** Mary Johnson staged her husband's death as suicide - gun tucked
-  under his hand. But the fatal shot was fired from 3+ feet away with no residue
-  at the wound (impossible for self-infliction), and barium residue on her own
-  palm gave her away.
+- **PDF in repo:** `book/pdfs/Johnson_v_State_06-03-00235-CR_2004.pdf`
+- **Chapter:** drafted - `book/chapters/ch30-johnson-three-feet.md`
+- **Smoking gun (per the opinion):** Jerry Wayne Johnson shot dead with a .25; only
+  Mary, Jerry, and son Jerry II present. Fatal shot fired from THREE FEET OR MORE
+  away with NO firearm residue at the entrance wound = incompatible with suicide
+  (a man's arm does not reach three feet). Mary told at least SIX conflicting stories
+  and asked a deputy how long gunshot residue stays on the hands. Conviction affirmed.
 
 ---
 

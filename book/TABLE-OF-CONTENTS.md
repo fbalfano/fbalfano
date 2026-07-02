@@ -116,10 +116,17 @@ the witnesses you strap on and invite inside.*
 *Bloodstain patterns, bullet trajectory, and the physics that exposes a scene
 dressed up to lie.*
 
-27. **The Judge, the Pistol, and the Angle That Didn't Add Up** - 🇨🇦 *Delisle c. R.* (QC CA, 2013) 🔶
-28. **The Staged Break-In** - 🇨🇦 *R. v. Klymchuk* (ON CA, 2005/2008) 🔶
-29. **The Blood on the Stairs** - 🇺🇸 *State v. Peterson* (Michael Peterson, "The Staircase") (N.C., 2013) 🔶
-30. **The Gun in the Dead Man's Hand** - 🇺🇸 *Johnson v. State* (Tex., 2004) - no powder burns, no suicide
+27. **The Judge and the Paralyzed Hand** - 🇨🇦 *Delisle c. R.* (QC CA, 2013) ✍️ *drafted* 🔶
+    *Hook:* **A retired appeal-court judge told police his wife had shot herself. But a stroke had left her right arm completely paralyzed, and the gunpowder was on her left hand, in a pattern no suicide could have made.**
+    *(Honest turn: 2021 ministerial review ordered a new trial over doubts about the forensic certainty; 2024 manslaughter plea. Told in-chapter.)*
+28. **The Staged Break-In** - 🇨🇦 *R. v. Klymchuk* (ON CA, 2005/2008) ✍️ *drafted* 🔶
+    *Hook:* **A husband said an intruder had killed his wife with an axe in the drive shed and escaped through a broken window. The Crown said he had staged the whole scene.**
+    *(2005 appeal quashed the conviction over how far a "staging" expert may go; second-degree conviction on retrial is later history.)*
+29. **The Blood on the Stairs** - 🇺🇸 *State v. Peterson* (Michael Peterson, "The Staircase") (N.C., 2007) ✍️ *drafted* 🔶
+    *Hook:* **A novelist called 911 to say his wife had fallen down the stairs. The blood on the walls, on the steps, and on the inside of his own shorts told a different story.**
+    *(The blood-spatter analyst was later discredited; 2011 new trial, 2017 Alford plea. The chapter turns on the science that convicted him and then collapsed.)*
+30. **A Suicide Fired From Three Feet Away** - 🇺🇸 *Johnson v. State* (Tex., 2004) ✍️ *drafted*
+    *Hook:* **A man cannot shoot himself from three feet away. Jerry Johnson was killed by a bullet fired from at least that far, with no powder residue around the wound, and his wife told at least six different stories about how it happened.**
 
 ## PART VII - IN THEIR OWN WORDS
 *Confessions, undercover stings, wiretaps, and informants - the distinctively
@@ -129,10 +136,15 @@ Canadian art of getting a killer to talk.*
     *Hook:* **The RCMP built a fake criminal empire with one purpose: to make an unemployed man from Gander confess to drowning his little girls.**
 32. **The Firepit** - 🇨🇦 *R. v. Mack*, 2014 SCC 58, [2014] 3 S.C.R. 3 ✍️ *drafted*
     *Hook:* **He told the fake crime boss there was "nothing left" of his roommate. Then he drove an undercover cop to the exact spot where the nothing was.**
-33. **The Fake Insurance Investigator** - 🇨🇦 *R. v. Kelly* (ON CA, 2017)
-34. **The Sting That Went Too Far** - 🇨🇦 *Laflamme c. R.* (QC CA, 2015) 🔶
-35. **The Tapped Phone and the Lure Call** - 🇨🇦 *R. v. Mapara* (SCC, 2005)
-36. **The Word of Men Behind Bars** - 🇨🇦 *R. v. Brooks* (SCC, 2000)
+33. **The Fake Insurance Investigator** - 🇨🇦 *R. v. Kelly* (ON CA, 2017) ✍️ *drafted*
+    *Hook:* **A man collected on his dead wife's life insurance, remarried, and moved a province away, certain the cold case would stay cold. Then a friendly insurance investigator named "Bob" showed up with a check for three thousand dollars and a very tempting problem.**
+34. **The Sting That Went Too Far** - 🇨🇦 *Laflamme c. R.* (QC CA, 2015) ✍️ *drafted* 🔶
+    *Hook:* **For thirty-two years, Michel Laflamme had gotten away with strangling his wife and staging her body in a shopping-mall parking lot. Then the police built a fake criminal empire to make him confess. He did confess. And a court threw the whole thing out anyway.**
+    *(The book's honest counterweight: Mr. Big confession set aside and proceedings stayed for abuse of process.)*
+35. **The Tapped Phone and the Lure Call** - 🇨🇦 *R. v. Mapara* (SCC, 2005) ✍️ *drafted*
+    *Hook:* **A used-car dealer's role in a murder was simple: get the victim to the lot, where the shooters were waiting. He made the call to set the meeting. He did not know the police were already on the line.**
+36. **The Word of Men Behind Bars** - 🇨🇦 *R. v. Brooks* (SCC, 2000) ✍️ *drafted* 🔶
+    *Hook:* **Only two adults had access to the child who died in her crib. The physical evidence pointed hard at one of them. But the words that helped convict him came from two career informants behind bars, and that is the most dangerous evidence in this book.**
 
 ## PART VIII - WHEN THE SCIENCE LIES (AND WHEN IT SETS YOU FREE)
 *The dark counterpoint: forensic techniques that convicted the innocent - and the

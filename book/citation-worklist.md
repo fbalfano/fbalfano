@@ -60,18 +60,18 @@ cases we'll frame carefully.
 - 🔶 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 *(reframed as digital 'callous search'; convictions set aside)* - **PDF pulled ✔ · chapter drafted ✔**
 
 ## PART VI - The Staged Scene (bloodstain, trajectory, staged death)
-- ⚠️🔶 🇨🇦 *Delisle c. R.*, 2013 QCCA 952 *(judge; staged suicide; later reopened)*
-- ⚠️🔶 🇨🇦 *R. v. Klymchuk*, 2005 CanLII 44167 (ON CA); *and* 2008 ONCA 854 *(staged break-in over axe murder)*
-- ⚠️🔶 🇺🇸 *State v. Peterson* (Michael Peterson, "The Staircase"), N.C. Ct. App., No. COA12-1047 (2013) *(≈228 N.C. App. 339, 744 S.E.2d 153)*
-- ⚠️ 🇺🇸 *Johnson v. State*, No. 06-03-00235-CR (Tex. App.-Texarkana 2004) *(≈151 S.W.3d 193) - gun staged in dead hand*
+- ⚠️🔶 🇨🇦 *Delisle c. R.*, 2013 QCCA 952 *(judge; staged suicide; later reopened)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 27)**
+- ⚠️🔶 🇨🇦 *R. v. Klymchuk*, 2005 CanLII 44167 (ON CA); *and* 2008 ONCA 854 *(staged break-in over axe murder)* - **PDFs pulled ✔ · chapter drafted ✔ (Ch. 28)**
+- ⚠️🔶 🇺🇸 *State v. Peterson* (Michael Peterson, "The Staircase"), N.C. Supreme Court, No. 547A06 (2007) *(361 N.C. 587, 652 S.E.2d 216; affirming 179 N.C. App. 437)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 29)**
+- ⚠️ 🇺🇸 *Johnson v. State* (Mary Alvis Johnson), No. 06-03-00235-CR (Tex. App.-Texarkana 2004) *(shot from 3+ ft, no residue = impossible suicide)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 30)**
 
 ## PART VII - In Their Own Words (confession, undercover, wiretap, informant)
-- ✅ 🇨🇦 *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 *(the Mr. Big leading case)* - **PDF pulled ✔ · chapter drafted ✔**
-- ✅ 🇨🇦 *R. v. Mack*, 2014 SCC 58, [2014] 3 S.C.R. 3 *(Mr. Big upheld - body confirmed it)* - **PDF pulled ✔ · chapter drafted ✔**
-- ⚠️ 🇨🇦 *R. v. Kelly*, 2017 ONCA 621 *(fake insurance investigator)*
-- ⚠️🔶 🇨🇦 *Laflamme c. R.*, 2015 QCCA 1517 *(sting stayed for abuse of process)*
-- ✅ 🇨🇦 *R. v. Mapara*, 2005 SCC 23 *(wiretap lure call)*
-- ✅ 🇨🇦 *R. v. Brooks*, 2000 SCC 11 *(jailhouse informants)*
+- ✅ 🇨🇦 *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 *(the Mr. Big leading case)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 31)**
+- ✅ 🇨🇦 *R. v. Mack*, 2014 SCC 58, [2014] 3 S.C.R. 3 *(Mr. Big upheld - body confirmed it)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 32)**
+- ⚠️ 🇨🇦 *R. v. Kelly*, 2017 ONCA 621 *(fake insurance-investigator sting; holdback rope detail; appeal dismissed)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 33)**
+- ⚠️🔶 🇨🇦 *Laflamme c. R.*, 2015 QCCA 1517 *(Mr. Big; conviction set aside, proceedings STAYED for abuse of process)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 34)**
+- ✅ 🇨🇦 *R. v. Mapara*, 2005 SCC 23 *(wiretap lure call; first-degree conviction upheld)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 35)**
+- ✅🔶 🇨🇦 *R. v. Brooks*, 2000 SCC 11 *(jailhouse informants; conviction restored 4-3 over Vetrovec-warning split)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 36)**
 
 ## PART VIII - When the Science Lies / Sets You Free (junk science & exonerations)
 - ✅ 🇺🇸 *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) *(bite marks convict Bundy)* - **PDF pulled ✔ · chapter drafted ✔**
