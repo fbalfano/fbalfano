@@ -121,15 +121,27 @@ pull the PDF — the case, court, and disposition are confirmed in every instanc
 
 ## What You Typed, What You Saved — search history & files
 
-### *State v. Jensen*, 2021 WI 27, 957 N.W.2d 244 (Wis. 2021) — ✅
-- Also: 2011 WI App 3, 794 N.W.2d 482 (earlier appellate decision).
-- **Court/year:** Wisconsin Supreme Court, 2021 (and Ct. App. 2010)
-- **Link:** https://caselaw.findlaw.com/court/wi-supreme-court/2117119.html
-- **Smoking gun:** Julie Jensen died of antifreeze poisoning (1998). The family
-  computer held searches for poisoning, botulism, mercury fulminate, and pipe
-  bombs — a "murder syllabus" only her cheating husband Mark could have run — plus
-  Julie's letter predicting he'd be responsible. (Long Confrontation Clause
-  saga; conviction ultimately affirmed.)
+### *State v. Jensen*, 2021 WI 27, 396 Wis. 2d 196, 957 N.W.2d 244 — ✅ CONFIRMED FROM PDF
+- Also: *Jensen II*, 2011 WI App 3, 794 N.W.2d 482 (companion — carries the
+  trial-evidence detail incl. computer forensics; on the pull list).
+- **Court/year:** Wisconsin Supreme Court, decided March 18, 2021 (Dallet J.;
+  Karofsky J. concurring on the domestic-abuse context)
+- **Link:** https://law.justia.com/cases/wisconsin/supreme-court/2021/2018ap001952-cr.html
+- **PDF in repo:** `book/pdfs/State_v_Jensen_2021_WI_27.pdf`
+- **Chapter:** drafted — `book/chapters/ch19-jensen-letter-from-grave.md`
+- **⚠️ CORRECTION vs. earlier research note:** the 2021 decision did NOT affirm
+  the conviction. It held Julie's letter and voicemails remain testimonial and
+  inadmissible under *Jensen I*, and affirmed the court of appeals' order for a
+  **new trial without her statements**. (Jensen was then retried in 2023 and
+  convicted again — news-sourced; verify before print.)
+- **Smoking gun (per the opinion):** Julie Jensen died of poisoning (Dec. 3,
+  1998) after giving a sealed letter to her neighbor — to be delivered to
+  police if anything happened to her — and leaving two voicemails telling
+  Officer Kosman her husband Mark should be his "first suspect." The 25-year
+  Confrontation Clause war over that letter (Crawford → Jensen I → forfeiture →
+  2008 conviction → Giles → Jensen II "harmless" → federal habeas vacatur →
+  conviction reinstated *without* trial → reversed → 2021 WI 27) is the
+  chapter's spine.
 
 ### *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) — ⚠️
 - **Court/year:** Florida Fifth District Court of Appeal, 2009 (affirmed)

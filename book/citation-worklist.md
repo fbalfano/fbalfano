@@ -40,10 +40,11 @@ cases we'll frame carefully.
 - ⚠️ 🇺🇸 *State v. LaBranche*, La. Ct. App. 5th Cir. 2025 *(ALPR — cite by court + FindLaw ID 118267251)*
 
 ## PART III — What You Typed, What You Saved (search history, files, chat)
-- ✅ 🇨🇦 *R. v. Garland*, 2019 ABCA 479 *("most painful torture" hard drive)*
+- ✅ 🇨🇦 *R v Garland*, 2019 ABCA 479 *(hard drive in the rafters)* — **PDF pulled ✔ · chapter drafted ✔**
 - ⚠️ 🇨🇦 *R. v. Todorovic*, 2014 ONCA 153 *(chat log = the crime)*
 - ✅ 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 *(text + own hidden camera)*
-- ✅ 🇺🇸 *State v. Jensen*, 2021 WI 27, 957 N.W.2d 244 (Wis. 2021) *(also 2011 WI App 3) — antifreeze "murder syllabus" searches*
+- ✅🔶 🇺🇸 *State v. Jensen*, 2021 WI 27, 396 Wis. 2d 196 *(letter from the grave; NEW TRIAL ordered, not affirmance)* — **PDF pulled ✔ · chapter drafted ✔**
+- ⚠️ 🇺🇸 *State v. Jensen* (**Jensen II**), 2011 WI App 3, 331 Wis. 2d 440, 794 N.W.2d 482 *(companion pull — trial evidence detail incl. family-computer forensics)*
 - ⚠️ 🇺🇸 *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) *(Googled "gunshot right chest")*
 
 ## PART IV — The Device That Watched You (wearables, IoT, vehicle data)
@@ -65,7 +66,7 @@ cases we'll frame carefully.
 - ⚠️ 🇺🇸 *Johnson v. State*, No. 06-03-00235-CR (Tex. App.—Texarkana 2004) *(≈151 S.W.3d 193) — gun staged in dead hand*
 
 ## PART VII — In Their Own Words (confession, undercover, wiretap, informant)
-- ✅ 🇨🇦 *R. v. Hart*, 2014 SCC 52 *(the Mr. Big leading case)*
+- ✅ 🇨🇦 *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 *(the Mr. Big leading case)* — **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *R. v. Mack*, 2014 SCC 58 *(Mr. Big upheld — body confirmed it)*
 - ⚠️ 🇨🇦 *R. v. Kelly*, 2017 ONCA 621 *(fake insurance investigator)*
 - ⚠️🔶 🇨🇦 *Laflamme c. R.*, 2015 QCCA 1517 *(sting stayed for abuse of process)*

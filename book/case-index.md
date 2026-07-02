@@ -133,15 +133,29 @@ before print · 🔶 frame with care (contested / reversed / inverted).
 
 ## Part IV — What You Typed, What You Saved
 
-### Ch. 13 — *R. v. Garland*, 2019 ABCA 479 — ✅ (citation confirmed)
+### Ch. 16 — *R v Garland*, 2019 ABCA 479 — ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/ab/abca/doc/2019/2019abca479/2019abca479.html
-- **Court / year:** Alberta Court of Appeal, 2019 (murders 2014); SCC leave refused
-- **Smoking gun:** Douglas Garland murdered Alvin and Kathy Liknes and their
-  5-year-old grandson Nathan O'Brien over a patent grudge. A hard drive hidden in
-  his parents' farmhouse held files and an internet search history documenting an
-  obsession with torture and the victims — including a search for "most painful
-  torture." (Note: a separate 2021 ABCA decision dealt with sentence; the 2019
-  decision sets out the facts.)
+- **PDF in repo:** `book/pdfs/R_v_Garland_2019_ABCA_479.pdf`
+- **Chapter:** drafted — `book/chapters/ch16-garland-hard-drive.md`
+- **Court / year:** Alberta Court of Appeal, decided Dec. 6, 2019 (Costigan,
+  Martin, Wakeling JJ.A.; murders June 30, 2014)
+- **Smoking gun (per the opinion):** Garland — a "highly intelligent loner"
+  with computer expertise — nursed a years-long grudge over a patented pump
+  that never earned a dollar. He researched how to kill and dismember, how to
+  bypass the Likneses' Schlage lock, bought meat hooks and a meat saw, disabled
+  the home router (checked in 2:10 a.m., never again), and took Alvin, Kathy,
+  and 5-year-old Nathan from a blood-soaked house. CCTV caught his distinctive
+  1994 Ford at 3:10 and 7:45 a.m.; his own sister identified it. Exigent search
+  of the farm found a smouldering firepit; the warrant search found all three
+  victims' DNA in the pit and on the meat hook and saw, Kathy's blood behind
+  his truck's licence plate (after he power-washed it), and **a hard drive
+  hidden in the rafters**: months of surveillance of the couple, "Kill Without
+  Joy," an autopsy manual, and articles on how to destroy DNA evidence. An
+  aerial survey had photographed three diaper-clad bodies by the burn pit
+  before police ever suspected him. 3× first-degree murder; appeal dismissed
+  on all grounds. (Note: the widely reported "most painful torture" search
+  phrase is from trial coverage, not this judgment — use the judgment's
+  wording.)
 
 ### Ch. 14 — *R. v. Todorovic*, 2014 ONCA 153 — ⚠️
 - **Link:** https://www.canlii.org/en/on/onca/doc/2014/2014onca153/2014onca153.html
@@ -165,13 +179,23 @@ before print · 🔶 frame with care (contested / reversed / inverted).
 
 ## Part V — In Their Own Words
 
-### Ch. 16 — *R. v. Hart*, 2014 SCC 52 — ✅
+### Ch. 31 — *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 — ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/ca/scc/doc/2014/2014scc52/2014scc52.html
-- **Court / year:** Supreme Court of Canada, 2014
-- **Smoking gun:** Nelson Hart's twin daughters drowned near Gander, NL. With no
-  forensic case, the RCMP ran a Mr. Big sting (63 scenarios, ~$15,000) until Hart
-  confessed to the fake crime boss. The SCC made Mr. Big confessions presumptively
-  inadmissible, built a new two-part framework, and excluded the confessions.
+- **PDF in repo:** `book/pdfs/R_v_Hart_2014_SCC_52.pdf`
+- **Chapter:** drafted — `book/chapters/ch31-hart-mr-big.md`
+- **Court / year:** Supreme Court of Canada, decided July 31, 2014 (Moldaver J.)
+- **Smoking gun (per the opinion):** Hart's 3-year-old twins Karen and Krista
+  drowned at a Gander park (Aug. 4, 2002); he left one on the dock to drive home
+  for his wife, phones unused. Cold case → Mr. Big: first contact Feb. 2005
+  ($50 to help find "Jim's" missing sister), 63 scenarios over 4 months, five
+  cities, $15,720 paid, $175,000 counted as a teaser, total op cost $413,268.
+  June 9: Mr. Big rejects the seizure story ("don't lie"), Hart confesses —
+  Child Welfare motive, struck the girls with his shoulder. June 11: dockside
+  re-enactment, nudging Jim with his knee. Arrested June 13; his one phone call
+  went to Jim. SCC: Mr. Big confessions presumptively inadmissible (probative
+  value vs. prejudice + abuse-of-process backstop); Hart's confessions excluded
+  — no confirmatory evidence, unlike Mack. Appeal dismissed; charges later
+  withdrawn (news-sourced).
 
 ### Ch. 17 — *R. v. Mack*, 2014 SCC 58 — ✅
 - **Link:** https://www.canlii.org/en/ca/scc/doc/2014/2014scc58/2014scc58.html

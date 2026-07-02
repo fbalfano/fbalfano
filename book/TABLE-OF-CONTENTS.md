@@ -60,10 +60,13 @@ log where you were.*
 *Search history, deleted files, chat logs — the confession you type when you
 think no one's reading.*
 
-16. **"Most Painful Torture": The Hard Drive in the Wall** — 🇨🇦 *R. v. Garland* (AB CA, 2019)
+16. **The Hard Drive in the Rafters** — 🇨🇦 *R v Garland*, 2019 ABCA 479 ✍️ *drafted*
+    *Hook:* **The patent he felt cheated over never earned a dollar. He killed three people for it anyway — and hid a hard drive that remembered every search.**
 17. **When the Chat Log *Is* the Crime** — 🇨🇦 *R. v. Todorovic* (ON CA, 2014)
 18. **The Text That Set the Meeting, the Camera That Caught the Exit** — 🇨🇦 *R. v. Sandeson* (NS CA, 2020)
-19. **A Murder Syllabus on the Family Computer** — 🇺🇸 *State v. Jensen* (Wis., 2021) — botulism, mercury fulminate, antifreeze
+19. **The Letter From the Grave** — 🇺🇸 *State v. Jensen*, 2021 WI 27 ✍️ *drafted* 🔶
+    *Hook:* **Two weeks before she died, Julie Jensen told a police officer: if anything happens to me, my husband should be your first suspect.**
+    *(The computer-search "murder syllabus" evidence lives in companion authority Jensen II, 2011 WI App 3 — on the pull list.)*
 20. **He Googled Where a Bullet Won't Kill You** — 🇺🇸 *Barber v. State* (Fla., 2009) — staging a beach shooting
 
 ## PART IV — THE DEVICE THAT WATCHED YOU
@@ -97,7 +100,8 @@ dressed up to lie.*
 *Confessions, undercover stings, wiretaps, and informants — the distinctively
 Canadian art of getting a killer to talk.*
 
-31. **Mr. Big: The Confession That Rewrote the Rules** — 🇨🇦 *R. v. Hart* (SCC, 2014)
+31. **Mr. Big** — 🇨🇦 *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 ✍️ *drafted* 🔶
+    *Hook:* **The RCMP built a fake criminal empire with one purpose: to make an unemployed man from Gander confess to drowning his little girls.**
 32. **When Mr. Big Holds Up** — 🇨🇦 *R. v. Mack* (SCC, 2014)
 33. **The Fake Insurance Investigator** — 🇨🇦 *R. v. Kelly* (ON CA, 2017)
 34. **The Sting That Went Too Far** — 🇨🇦 *Laflamme c. R.* (QC CA, 2015) 🔶
