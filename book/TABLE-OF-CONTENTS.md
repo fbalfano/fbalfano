@@ -50,7 +50,8 @@ log where you were.*
 9. **The Test Drive** - 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418 ✍️ *drafted*
    *Hook:* **They planned the murder before they picked the victim. Tim Bosma was chosen by his own for-sale ad.**
    *(Note: the ONCA judgment's evidence summary centres the "mission" texts, video trail, and the Eliminator; the cell-tower correlation from news coverage isn't in it - chapter follows the judgment.)*
-10. **A Murder With No Body, Solved by Where Three Phones Met** - 🇨🇦 *R. v. Millard* (Laura Babcock) (ON CA, 2023)
+10. **If You Go Swimming** - 🇨🇦 *R. v. Millard* (Laura Babcock), 2023 ONCA 426 ✍️ *drafted*
+    *Hook:* **They left no body, no crime scene, and no cause of death. What they left was a rap song bragging about where they threw her phone.**
 11. **Never Rent a Getaway Car** - 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 ✍️ *drafted*
     *Hook:* **He rented the getaway car under a fake name - and the fake name is exactly why the car's testimony could never be thrown out.**
 12. **Seven Hundred Thousand Records Behind a Smiling Daughter** - 🇨🇦 *R. v. Pan* (ON CA 2023 / SCC 2025) 🔶
@@ -65,7 +66,9 @@ think no one's reading.*
 16. **The Hard Drive in the Rafters** - 🇨🇦 *R v Garland*, 2019 ABCA 479 ✍️ *drafted*
     *Hook:* **The patent he felt cheated over never earned a dollar. He killed three people for it anyway - and hid a hard drive that remembered every search.**
 17. **When the Chat Log *Is* the Crime** - 🇨🇦 *R. v. Todorovic* (ON CA, 2014)
-18. **The Text That Set the Meeting, the Camera That Caught the Exit** - 🇨🇦 *R. v. Sandeson* (NS CA, 2020)
+18. **The Camera He Installed Himself** - 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 ✍️ *drafted* 🔶
+    *Hook:* **His own security camera caught Taylor Samson walking in with a duffel bag full of marijuana. No camera on earth ever caught him walking out.**
+    *(This appeal ordered a new trial over the defence-investigator disclosure scandal; 2023 retrial convicted, news-sourced.)*
 19. **The Letter From the Grave** - 🇺🇸 *State v. Jensen*, 2021 WI 27 ✍️ *drafted* 🔶
     *Hook:* **Two weeks before she died, Julie Jensen told a police officer: if anything happens to me, my husband should be your first suspect.**
     *(The computer-search "murder syllabus" evidence lives in companion authority Jensen II, 2011 WI App 3 - on the pull list.)*

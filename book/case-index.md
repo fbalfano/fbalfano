@@ -102,15 +102,27 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   **Note:** the news-reported burner-phone/cell-tower correlation is NOT in
   this judgment - chapter follows the judgment.
 
-### Ch. 10 - *R. v. Millard* (Laura Babcock), 2023 ONCA 426 - ✅
+### Ch. 10 - *R. v. Millard* (Laura Babcock), 2023 ONCA 426 - ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/on/onca/doc/2023/2023onca426/2023onca426.html
-- **Court / year:** Ontario Court of Appeal, 2023 (murder 2012)
-- **Smoking gun:** Laura Babcock vanished in a "love triangle"; her body was
-  never found (the Crown proved she was incinerated). Phone records placed
-  Babcock's, Millard's, and Smich's phones together near Millard's home on the
-  night of her last outgoing call - anchoring a no-body murder timeline. Note:
-  Millard's own earlier texts ("first I'm going to hurt her…") also feature -
-  cross-referenced in Ch. 15's digital theme.
+- **PDF in repo:** `book/pdfs/R_v_Millard_Babcock_2023_ONCA_426.pdf`
+- **Chapter:** drafted - `book/chapters/ch10-babcock-swimming.md`
+- **Court / year:** Ontario Court of Appeal, decided June 15, 2023 (Paciocco
+  J.A.; convictions Dec. 16, 2017 before Code J.)
+- **Smoking gun (per the opinion):** No body, no scene, no cause of death;
+  convicted out of their own devices. Motive texts (Millard to Noudga, April
+  2012: he would "hurt her" then "make her leave"); the shopping trail (a .32
+  from "Isho," later found with Millard's DNA on the handle; The Eliminator
+  incinerator behind an "absurd" vet cover story); July 3 cell-tower traces
+  walking Babcock's and Millard's phones together from Kipling station to Maple
+  Gate and up Highway 427; her phone dying July 4 along Lakeshore Blvd as
+  Millard's phone travels the same route; the "spliff" texts and body-in-tarp
+  photo whose five grommets matched the incinerator ash; the "barn smell check"
+  calendar entry; "BBQ has run its warm up, it's ready for meat"; the 10:38
+  p.m. search "what temperature is cremation done at?"; photos of Smich smiling
+  with an ash rake; and Smich's "ashy stone" rap ("if u go swimming u can find
+  her phone") composed on Babcock's own iPad two hours post-cremation,
+  performed for teens and on video. Appeals dismissed; only the consecutive
+  parole-ineligibility order fell (Bissonnette, Crown conceded).
 
 ### Ch. 11 - *R. v. Dosanjh*, 2022 ONCA 689 - ✅ CONFIRMED FROM PDF
 - **Link:** https://www.canlii.org/en/on/onca/doc/2022/2022onca689/2022onca689.html
@@ -177,15 +189,26 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   Rengel, left to die in a snowbank. The messages were essentially the act of
   counselling first-degree murder. Convicted and sentenced as an adult.
 
-### Ch. 15 - *R. v. Sandeson*, 2020 NSCA 47 - ✅
+### Ch. 18 - *R. v. Sandeson*, 2020 NSCA 47 - ✅ CONFIRMED FROM PDF 🔶
 - **Link:** https://www.canlii.org/en/ns/nsca/doc/2020/2020nsca47/2020nsca47.html
-- **Court / year:** Nova Scotia Court of Appeal, 2020 (murder 2015)
-- **Smoking gun:** Dalhousie med student William Sandeson killed physics student
-  Taylor Samson during a large marijuana deal set up by text; the body was never
-  found. Texts arranged the meeting and Sandeson's own apartment surveillance
-  camera showed Samson enter but never leave. (This appeal ordered a new trial on
-  a defence-PI/mistrial issue, but sets out the full factual matrix; Sandeson was
-  reconvicted at retrial.)
+- **PDF in repo:** `book/pdfs/R_v_Sandeson_2020_NSCA_47.pdf`
+- **Chapter:** drafted - `book/chapters/ch18-sandeson-camera.md`
+- **Court / year:** Nova Scotia Court of Appeal, decided June 17, 2020 (Farrar
+  J.A.; Saunders and Scanlan JJ.A. concurring)
+- **Smoking gun (per the opinion):** Med-school-bound Sandeson arranged a
+  $40,000 marijuana deal with Taylor Samson (Aug. 15, 2015). His own security
+  camera recorded Samson arriving at 10:30 p.m. with a black duffel bag; Samson
+  was never seen again, body never found. Neighbours heard one gunshot and saw
+  a man slumped in a chair, blood, cash, drugs; the DVR did not record between
+  ~11:30 p.m. and ~1:00 a.m.; the apartment smelled of bleach; 2:52 a.m. staged
+  texts to a dead man's phone; video of trunk-cleaning (Samson's DNA in the
+  trunk) and gloved garbage runs; cell towers put his phone at the family farm
+  in Truro, where a shower curtain and duffel bag carried Samson's DNA; he
+  volunteered his phone to police and his own texts contradicted his story.
+  **Disposition:** appeal ALLOWED, new trial ordered; the defence's own private
+  investigator had covertly delivered the two eyewitnesses to police, who kept
+  it secret (police were "active participants in a common venture"). Retrial
+  2023 convicted of second-degree murder (news-sourced).
 
 ---
 

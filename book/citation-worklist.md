@@ -32,7 +32,7 @@ cases we'll frame carefully.
 - ✅ 🇺🇸 *Carpenter v. United States*, 585 U.S. 296, 138 S. Ct. 2206 (2018) *(framing - cell-site)*
 - ✅ 🇺🇸 *United States v. Jones*, 565 U.S. 400 (2012) *(framing - GPS on vehicle)*
 - ✅ 🇨🇦 *R. v. Millard* (Tim Bosma), 2023 ONCA 418 - **PDF pulled ✔ · chapter drafted ✔**
-- ✅ 🇨🇦 *R. v. Millard* (Laura Babcock), 2023 ONCA 426
+- ✅ 🇨🇦 *R. v. Millard* (Laura Babcock), 2023 ONCA 426 - **PDF pulled ✔ · chapter drafted ✔**
 - ✅ 🇨🇦 *R. v. Dosanjh*, 2022 ONCA 689 *(rental-car GPS)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇨🇦 *R. v. Pan*, 2023 ONCA 362; aff'd 2025 SCC 12 *(check disposition)*
 - ✅🔶 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409, 472 P.3d 382 (Cal. 2020) *(guilt affirmed, death sentence reversed)*
@@ -42,7 +42,7 @@ cases we'll frame carefully.
 ## PART III - What You Typed, What You Saved (search history, files, chat)
 - ✅ 🇨🇦 *R v Garland*, 2019 ABCA 479 *(hard drive in the rafters)* - **PDF pulled ✔ · chapter drafted ✔**
 - ⚠️ 🇨🇦 *R. v. Todorovic*, 2014 ONCA 153 *(chat log = the crime)*
-- ✅ 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 *(text + own hidden camera)*
+- ✅🔶 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 *(own camera; NEW TRIAL ordered - defence-PI scandal)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇺🇸 *State v. Jensen*, 2021 WI 27, 396 Wis. 2d 196 *(letter from the grave; NEW TRIAL ordered, not affirmance)* - **PDF pulled ✔ · chapter drafted ✔**
 - ⚠️ 🇺🇸 *State v. Jensen* (**Jensen II**), 2011 WI App 3, 331 Wis. 2d 440, 794 N.W.2d 482 *(companion pull - trial evidence detail incl. family-computer forensics)*
 - ⚠️ 🇺🇸 *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) *(Googled "gunshot right chest")*
