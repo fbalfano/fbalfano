@@ -55,14 +55,46 @@ limits (appeal: 2017 ONCA 778).
 
 ---
 
-## Leads to chase in a later research pass
+## Leads chased (research pass, July 2026)
+
+### ✅ VIABLE - qualifying appellate decision exists; pull the PDF to draft
+- **R. v. Vader**, **2019 ABCA 191** (Travis Vader, the McCann murders; SCC leave
+  denied, file 38764; also reported ~377 CCC (3d) 23). Thread: the victims' own
+  **cellphone data** (activity on the McCanns' phone after they vanished) plus DNA
+  and blood in the recovered vehicle. Manslaughter convictions **affirmed**. Fits
+  Part II (the phone) as a "victim's-phone" story rather than tower-tracking.
+  CanLII: https://www.canlii.org/en/ab/abca/doc/2019/2019abca191/2019abca191.html
+- **R. v. Comber**, **2026 MBCA 27** (dated 2026-03-30; William Comber, Hailey
+  Dugay road shooting). Thread: **ballistics** - the fatal round matched Comber's
+  bolt-action rifle, not the co-accused's semi-auto Remington recovered from the
+  co-accused's residence. Second-degree **murder reduced to manslaughter** on
+  appeal (intent unproven; manslaughter substituted, no new trial). Fits Part V
+  (the gun and the residue); chapter must describe the murder→manslaughter
+  reduction. PDF: manitobacourts.mb.ca/.../r_v_comber_2026_mbca_27.pdf
+
+### 🔶 SIDEBAR-ONLY - citation corrected
+- **R. v. Rafferty**, **2016 ONCA 816** (NOT "2017 ONCA 778", which is an
+  unrelated case; Tori Stafford murder; conviction **affirmed**). The laptop
+  searches were **excluded at trial** under Charter s. 8, so this is not a
+  "caught by digital evidence" story - only a sidebar on suppressed digital
+  evidence.
+
+### ❌ NOT VIABLE - trial level only, appeal abandoned (no appellate anchor)
+- **R. v. Grenon** (Marc-André Grenon, Guylaine Potvin cold case; genetic
+  genealogy via Y-DNA + discarded cup). Convicted 2024; **appeal dropped** - no
+  Quebec CA decision. Cannot anchor a chapter.
+- **R. v. Twitchell** (Mark Twitchell, "Dexter killer"; deleted "SKConfessions"
+  file). Trial only, **2010 ABQB 666** and related; **appeal abandoned 2012**.
+  Garland (Ch. 16) already covers deleted-file/search forensics with a proper
+  appellate anchor.
+
+*(Citations corroborated via news + legal databases; CanLII/court PDFs return 403
+in this environment, so lock the exact ABCA/MBCA/ONCA numbers on a direct CanLII
+lookup before print.)*
+
+## Still open leads
 - A clean Canadian appellate case where **bullet trajectory or blood spatter
   demolished a *self-defence* shooting** (not found yet; Klymchuk disproves a
   staged burglary, not self-defence).
-- **R. v. Vader** (McCann murders, Alberta) - used the victims' own phone; more
-  "using the victim's phone" than tower-tracking, and the ABCA citation needs
-  confirming.
-- **R. v. Comber** (Manitoba CA, ~2026) - snippet suggests a bolt-action rifle
-  matched to ammunition at a residence; unverified, worth opening.
-- Forensic odontology (bite marks), forensic accounting/insurance-motive, and
-  911-call linguistic analysis as their own potential chapters.
+- Forensic accounting/insurance-motive and 911-call linguistic analysis as their
+  own potential chapters.
