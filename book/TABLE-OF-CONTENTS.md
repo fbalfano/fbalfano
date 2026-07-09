@@ -69,81 +69,87 @@ log where you were.*
     *Hook:* **His alibi was that he'd been fishing in San Francisco Bay. Four months later his wife's body washed ashore a mile from the exact spot, and the GPS on his rental cars showed he kept driving back to it.**
 14. **The Blind Photo From Inside a Pocket** - 🇺🇸 *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) ✍️ *drafted*
     *Hook:* **Somewhere on the drive to a robbery that would end in murder, a phone in someone's pocket took a picture of the inside of that pocket. No one meant to take it. And it was stamped with the time and the place.**
-15. **The Cameras on the Interstate** - 🇺🇸 *State v. LaBranche* (La. 5th Cir. 2025) ✍️ *drafted*
+15. **The Cameras on the Interstate** - 🇺🇸 *State v. LaBranche*, No. 25-KA-184 (La. 5th Cir. 2025) ✍️ *drafted*
     *Hook:* **He drove to the killings in his dead sister's car, a black Honda with distinctive chrome trim. The licence-plate readers on the interstate recognized it all the way home.**
+16. **The Phone That Outlived Its Owners** - 🇨🇦 *R. v. Vader*, 2019 ABCA 191 ✍️ *drafted*
+    *Hook:* **A retired couple vanished on a summer road trip and were never seen again. Two hours after they disappeared, someone used their cell phone to call an old girlfriend. That someone was not on their Christmas-card list.**
+    *(Honest disposition: the erroneously entered murder convictions were replaced with manslaughter at trial; the Court of Appeal dismissed the appeal and the manslaughter convictions, with life sentences, stand.)*
 
 ## PART III - WHAT YOU TYPED, WHAT YOU SAVED
 *Search history, deleted files, chat logs - the confession you type when you
 think no one's reading.*
 
-16. **The Hard Drive in the Rafters** - 🇨🇦 *R v Garland*, 2019 ABCA 479 ✍️ *drafted*
+17. **The Hard Drive in the Rafters** - 🇨🇦 *R v Garland*, 2019 ABCA 479 ✍️ *drafted*
     *Hook:* **The patent he felt cheated over never earned a dollar. He killed three people for it anyway - and hid a hard drive that remembered every search.**
-17. **The Girl Who Never Held the Knife** - 🇨🇦 *R. v. Todorovic*, 2014 ONCA 153 ✍️ *drafted*
+18. **The Girl Who Never Held the Knife** - 🇨🇦 *R. v. Todorovic*, 2014 ONCA 153 ✍️ *drafted*
     *Hook:* **She was fifteen. She never touched the victim. She talked a boy into the stabbing from behind a keyboard, and the law called it first-degree murder.**
-18. **The Camera He Installed Himself** - 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 ✍️ *drafted* 🔶
+19. **The Camera He Installed Himself** - 🇨🇦 *R. v. Sandeson*, 2020 NSCA 47 ✍️ *drafted* 🔶
     *Hook:* **His own security camera caught Taylor Samson walking in with a duffel bag full of marijuana. No camera on earth ever caught him walking out.**
     *(This appeal ordered a new trial over the defence-investigator disclosure scandal; 2023 retrial convicted, news-sourced.)*
-19. **The Letter From the Grave** - 🇺🇸 *State v. Jensen*, 2021 WI 27 ✍️ *drafted* 🔶
+20. **The Letter From the Grave** - 🇺🇸 *State v. Jensen*, 2021 WI 27 ✍️ *drafted* 🔶
     *Hook:* **Two weeks before she died, Julie Jensen told a police officer: if anything happens to me, my husband should be your first suspect.**
     *(Now enriched with the "murder syllabus" computer-search evidence from companion authority Jensen II, 2011 WI App 3 - PDF pulled ✔; incl. the 7:40 a.m. "ethylene glycol poisoning" search the morning Julie died.)*
-20. **He Researched the Wound Before He Made It** - 🇺🇸 *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) ✍️ *drafted*
+21. **He Researched the Wound Before He Made It** - 🇺🇸 *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA 2009) ✍️ *drafted*
     *Hook:* **A man walked off a dark beach with his wife shot dead and four bullet wounds of his own, and a story about a stranger. Months earlier, his computer had been asking exactly where on a body a gunshot does the least harm.**
 
 ## PART IV - THE DEVICE THAT WATCHED YOU
 *Fitness trackers, smart speakers, pacemakers, and the black box in your car -
 the witnesses you strap on and invite inside.*
 
-21. **Don't Murder a Woman Wearing a Fitbit** - 🇺🇸 *State v. Dabate*, 351 Conn. 428 (2025) ✍️ *drafted*
+22. **Don't Murder a Woman Wearing a Fitbit** - 🇺🇸 *State v. Dabate*, 351 Conn. 428 (2025) ✍️ *drafted*
     *Hook:* **Her husband told police she was already dead. Her Fitbit kept counting.**
-22. **Twelve Steps** - 🇺🇸 *State v. Burch*, 2021 WI 68 ✍️ *drafted*
+23. **Twelve Steps** - 🇺🇸 *State v. Burch*, 2021 WI 68 ✍️ *drafted*
     *Hook:* **The Fitbit cleared the boyfriend. A cellphone handed over in a fender-bender case buried the man who did it.**
-23. **The Car That Almost Testified** - 🇺🇸 *State v. Worsham* (Fla., 2017) 🔶 with *People v. Xinos* (Cal., 2011) 🔶 - the black-box privacy fight
+24. **The Car That Almost Testified** - 🇺🇸 *State v. Worsham* (Fla., 2017) 🔶 with *People v. Xinos* (Cal., 2011) 🔶 - the black-box privacy fight
     - *Sidebar - The Device That Almost Testified:* the Alexa cases (Bates, Crespo, Verrill), the Aiello Fitbit heartbeat, the Compton pacemaker - famous, but none convicted-on-appeal 🔶
 
 ## PART V - THE GUN AND THE RESIDUE
 *Gunshot residue, ballistics, and toolmarks - what a fired weapon leaves behind.*
 
-24. **The Residue Doesn't Lie, But It Doesn't Explain** - 🇨🇦 *R. v. Stevenson*, 2014 ONCA 842 ✍️ *drafted*
+25. **The Residue Doesn't Lie, But It Doesn't Explain** - 🇨🇦 *R. v. Stevenson*, 2014 ONCA 842 ✍️ *drafted*
     *Hook:* **A single particle of lead, antimony, and barium, fused by the heat of a gunshot, does not tell you whose gun it was. It just tells you that you were close to one.**
-25. **No Gun, But the Bullets Matched** - 🇨🇦 *R v F (JM)*, 2022 MBCA 52 ✍️ *drafted* 🔶
+26. **No Gun, But the Bullets Matched** - 🇨🇦 *R v F (JM)*, 2022 MBCA 52 ✍️ *drafted* 🔶
     *Hook:* **The murder weapon was never found. It didn't have to be. The killer kept the matching ammunition in his bedroom and photos of the rifle on his Facebook.**
     *(Conviction set aside, new trial ordered over a s. 10(b) breach - a foyer arrest of a youth without a right-to-counsel warning. Told honestly.)*
-26. **What Happens When You Die** - 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 ✍️ *drafted* 🔶
+27. **What Happens When You Die** - 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 ✍️ *drafted* 🔶
     *Hook:* **After they shot an innocent man in a parking lot, one of the killers pulled out his phone and Googled "what happens when you die." He was not being philosophical. He was checking his work.**
-    *(Reframed as a digital "callous search" chapter, not ballistics - the gun evidence was inconclusive. Told honestly: convictions SET ASIDE, new trial. In the FINAL reorder this belongs in Part IV "What You Typed," not the firearms part.)*
+    *(Reframed as a digital "callous search" chapter, not ballistics - the gun evidence was inconclusive. Told honestly: convictions SET ASIDE, new trial. In a future reorder this could sit in Part III "What You Typed," but stays with the firearms part for now.)*
+28. **The Second Shooter the Bullet Found** - 🇨🇦 *R. v. Comber*, 2026 MBCA 27 ✍️ *drafted* 🔶
+    *Hook:* **Witnesses saw one man standing in the road firing a rifle, and the police charged him with murder. Then the bullet pulled from the victim's body said he had not done it, and pointed into the dark at the side of the road, where a second shooter no one was watching had been standing.**
+    *(Ballistics excluded the obvious suspect and revealed a hidden second shooter; the murder weapon was never recovered. Honest disposition: second-degree murder set aside as unreasonable on appeal and manslaughter substituted.)*
 
 ## PART VI - THE STAGED SCENE
 *Bloodstain patterns, bullet trajectory, and the physics that exposes a scene
 dressed up to lie.*
 
-27. **The Judge and the Paralyzed Hand** - 🇨🇦 *Delisle c. R.* (QC CA, 2013) ✍️ *drafted* 🔶
+29. **The Judge and the Paralyzed Hand** - 🇨🇦 *Delisle c. R.* (QC CA, 2013) ✍️ *drafted* 🔶
     *Hook:* **A retired appeal-court judge told police his wife had shot herself. But a stroke had left her right arm completely paralyzed, and the gunpowder was on her left hand, in a pattern no suicide could have made.**
     *(Honest turn: 2021 ministerial review ordered a new trial over doubts about the forensic certainty; 2024 manslaughter plea. Told in-chapter.)*
-28. **The Staged Break-In** - 🇨🇦 *R. v. Klymchuk* (ON CA, 2005/2008) ✍️ *drafted* 🔶
+30. **The Staged Break-In** - 🇨🇦 *R. v. Klymchuk* (ON CA, 2005/2008) ✍️ *drafted* 🔶
     *Hook:* **A husband said an intruder had killed his wife with an axe in the drive shed and escaped through a broken window. The Crown said he had staged the whole scene.**
     *(2005 appeal quashed the conviction over how far a "staging" expert may go; second-degree conviction on retrial is later history.)*
-29. **The Blood on the Stairs** - 🇺🇸 *State v. Peterson* (Michael Peterson, "The Staircase") (N.C., 2007) ✍️ *drafted* 🔶
+31. **The Blood on the Stairs** - 🇺🇸 *State v. Peterson* (Michael Peterson, "The Staircase") (N.C., 2007) ✍️ *drafted* 🔶
     *Hook:* **A novelist called 911 to say his wife had fallen down the stairs. The blood on the walls, on the steps, and on the inside of his own shorts told a different story.**
     *(The blood-spatter analyst was later discredited; 2011 new trial, 2017 Alford plea. The chapter turns on the science that convicted him and then collapsed.)*
-30. **A Suicide Fired From Three Feet Away** - 🇺🇸 *Johnson v. State* (Tex., 2004) ✍️ *drafted*
+32. **A Suicide Fired From Three Feet Away** - 🇺🇸 *Johnson v. State* (Tex., 2004) ✍️ *drafted*
     *Hook:* **A man cannot shoot himself from three feet away. Jerry Johnson was killed by a bullet fired from at least that far, with no powder residue around the wound, and his wife told at least six different stories about how it happened.**
 
 ## PART VII - IN THEIR OWN WORDS
 *Confessions, undercover stings, wiretaps, and informants - the distinctively
 Canadian art of getting a killer to talk.*
 
-31. **Mr. Big** - 🇨🇦 *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 ✍️ *drafted* 🔶
+33. **Mr. Big** - 🇨🇦 *R. v. Hart*, 2014 SCC 52, [2014] 2 S.C.R. 544 ✍️ *drafted* 🔶
     *Hook:* **The RCMP built a fake criminal empire with one purpose: to make an unemployed man from Gander confess to drowning his little girls.**
-32. **The Firepit** - 🇨🇦 *R. v. Mack*, 2014 SCC 58, [2014] 3 S.C.R. 3 ✍️ *drafted*
+34. **The Firepit** - 🇨🇦 *R. v. Mack*, 2014 SCC 58, [2014] 3 S.C.R. 3 ✍️ *drafted*
     *Hook:* **He told the fake crime boss there was "nothing left" of his roommate. Then he drove an undercover cop to the exact spot where the nothing was.**
-33. **The Fake Insurance Investigator** - 🇨🇦 *R. v. Kelly* (ON CA, 2017) ✍️ *drafted*
+35. **The Fake Insurance Investigator** - 🇨🇦 *R. v. Kelly* (ON CA, 2017) ✍️ *drafted*
     *Hook:* **A man collected on his dead wife's life insurance, remarried, and moved a province away, certain the cold case would stay cold. Then a friendly insurance investigator named "Bob" showed up with a check for three thousand dollars and a very tempting problem.**
-34. **The Sting That Went Too Far** - 🇨🇦 *Laflamme c. R.* (QC CA, 2015) ✍️ *drafted* 🔶
+36. **The Sting That Went Too Far** - 🇨🇦 *Laflamme c. R.* (QC CA, 2015) ✍️ *drafted* 🔶
     *Hook:* **For thirty-two years, Michel Laflamme had gotten away with strangling his wife and staging her body in a shopping-mall parking lot. Then the police built a fake criminal empire to make him confess. He did confess. And a court threw the whole thing out anyway.**
     *(The book's honest counterweight: Mr. Big confession set aside and proceedings stayed for abuse of process.)*
-35. **The Tapped Phone and the Lure Call** - 🇨🇦 *R. v. Mapara* (SCC, 2005) ✍️ *drafted*
+37. **The Tapped Phone and the Lure Call** - 🇨🇦 *R. v. Mapara* (SCC, 2005) ✍️ *drafted*
     *Hook:* **A used-car dealer's role in a murder was simple: get the victim to the lot, where the shooters were waiting. He made the call to set the meeting. He did not know the police were already on the line.**
-36. **The Word of Men Behind Bars** - 🇨🇦 *R. v. Brooks* (SCC, 2000) ✍️ *drafted* 🔶
+38. **The Word of Men Behind Bars** - 🇨🇦 *R. v. Brooks* (SCC, 2000) ✍️ *drafted* 🔶
     *Hook:* **Only two adults had access to the child who died in her crib. The physical evidence pointed hard at one of them. But the words that helped convict him came from two career informants behind bars, and that is the most dangerous evidence in this book.**
 
 ## PART VIII - WHEN THE SCIENCE LIES (AND WHEN IT SETS YOU FREE)
@@ -151,16 +157,16 @@ Canadian art of getting a killer to talk.*
 science that later freed them. The reminder that evidence is only as honest as
 the people wielding it.*
 
-37. **The Teeth That Caught a Monster** - 🇺🇸 *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) ✍️ *drafted*
+39. **The Teeth That Caught a Monster** - 🇺🇸 *Bundy v. State*, 455 So. 2d 330 (Fla. 1984) ✍️ *drafted*
     *Hook:* **Bite-mark evidence helped convict Ted Bundy, and the experts swore it was a science of "a high degree of reliability." They were right about the monster. They were wrong about the science, and innocent men would pay for the difference.**
-38. **The Snaggletooth Killer** - 🇺🇸 *State v. Krone*, 182 Ariz. 319 (1995) ✍️ *drafted* 🔶
+40. **The Snaggletooth Killer** - 🇺🇸 *State v. Krone*, 182 Ariz. 319 (1995) ✍️ *drafted* 🔶
     *Hook:* **The same bite-mark science that caught Ted Bundy sent Ray Krone to death row. The only difference was that Krone hadn't done it, and it took ten years and a DNA test to prove what his crooked teeth could not.**
-39. **The Bite Marks Only One Man Could See** - 🇺🇸 *Howard v. State*, No. 2018-CA-01586-SCT (Miss. 2020) ✍️ *drafted* 🔶
+41. **The Bite Marks Only One Man Could See** - 🇺🇸 *Howard v. State*, 300 So. 3d 1011 (Miss. 2020) ✍️ *drafted* 🔶
     *Hook:* **The autopsy found no bite marks. Then the body was exhumed, a forensic dentist declared he'd found three, matched them to Eddie Lee Howard, and sent him to death row for twenty-six years. Another man's DNA was on the knife.**
-40. **The Flies That Never Came** - 🇺🇸 *Lobato v. State*, 120 Nev. 512 (2004) ✍️ *drafted* 🔶
+42. **The Flies That Never Came** - 🇺🇸 *Lobato v. State*, 120 Nev. 512 (2004) ✍️ *drafted* 🔶
     *Hook:* **She was convicted of a murder that happened 170 miles from where she was, on the word of a jailhouse informant who forged letters to con her own sentencing judge. What finally freed her was the testimony of insects that never showed up.**
     *(Sourcing note: the 2004 anchor decision reverses on the INFORMANT issue; the entomology + exoneration are the case's later history, flagged in-chapter.)*
-41. **The Boy, the Flies, and Forty-Eight Years** - 🇨🇦 *Truscott (Re)*, 2007 ONCA 575 ✍️ *drafted* 🔶
+43. **The Boy, the Flies, and Forty-Eight Years** - 🇨🇦 *Truscott (Re)*, 2007 ONCA 575 ✍️ *drafted* 🔶
     *Hook:* **A pathologist looked at the food in a dead girl's stomach and declared she had died within a forty-five-minute window. That window sent a fourteen-year-old boy to the gallows. It took forty-eight years, and a study of blow flies, to prove the window was never real.**
     *(The book's closing chapter; completes Part VIII.)*
 

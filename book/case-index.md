@@ -131,7 +131,7 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   casings and bullet fragments, run through a firearms database, tied the rounds
   to .45-calibre handguns. Three men convicted of first-degree murder.
 
-### Ch. 8 - *Delisle c. R.*, 2013 QCCA 952 - ⚠️ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch27-delisle-paralyzed-hand.md` (final Ch. 27)**
+### Ch. 8 - *Delisle c. R.*, 2013 QCCA 952 - ⚠️ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch29-delisle-paralyzed-hand.md` (final Ch. 29)**
 - **Link:** https://www.canlii.org/en/qc/qcca/doc/2013/2013qcca952/2013qcca952.html
 - **Court / year:** Quebec Court of Appeal, 2013 (SCC leave denied Dec 2013)
 - **Smoking gun / caution:** Retired appellate judge Jacques Delisle was
@@ -141,6 +141,28 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   ordered a new trial in 2021 over concerns the GSR/angle evidence was
   overstated; in 2024 Delisle pleaded guilty to manslaughter and was freed on
   time served. Tell it as the disputed case it became.
+
+### Ch. 28 - *R. v. Comber*, 2026 MBCA 27 - ✅ CONFIRMED FROM PDF 🔶
+- **Link:** https://www.canlii.org/en/mb/mbca/doc/2026/2026mbca27/2026mbca27.html
+- **PDF in repo:** `book/pdfs/R_v_Comber_2026_MBCA_27.pdf`
+- **Chapter:** drafted - `book/chapters/ch28-comber-ballistics.md`
+- **Court / year:** Manitoba Court of Appeal, judgment March 30, 2026 (Mainella
+  J.A.; murder Nov. 17, 2018)
+- **Smoking gun (per the opinion):** Hailey Dugay, 20, killed by a .30-calibre
+  bullet as a rear passenger in a pickup on Kuz Road, Manitoba. TWO shooters,
+  two guns. Jesse Paluk (the man witnesses saw firing, initially charged with
+  murder) had a bolt-action Remington firing large Magnum cartridges; ballistics
+  EXCLUDED his rifle as the source of the fatal shot. Ten feet away in the ditch
+  were three spent SAVFC .300 casings from a second, different gun - Comber's
+  semi-automatic Winchester, which he took home and police never recovered (so
+  the fatal weapon's make could not be conclusively established). Paluk pleaded
+  guilty to reckless discharge, turned Crown witness, named Comber as the second
+  shooter. **Honest disposition:** convicted of 2nd-degree murder (2022); on
+  appeal the murder verdict was SET ASIDE as unreasonable (intent not proven -
+  firing at a vehicle is not automatically intent to harm a person) and
+  MANSLAUGHTER substituted. Publication ban (s. 486.5) on some witness info.
+  The ballistics thread: forensic firearms evidence that cleared the obvious
+  suspect and revealed a hidden second shooter.
 
 ---
 
@@ -227,6 +249,25 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   murder for all four stands; attempted-murder convictions stand. As of writing,
   the murder charges are to be RETRIED. **"700,000 records" is a press figure, not
   in the decisions ("a large volume").**
+
+### Ch. 16 - *R. v. Vader*, 2019 ABCA 191 - ✅ CONFIRMED FROM PDF 🔶
+- **Link:** https://www.canlii.org/en/ab/abca/doc/2019/2019abca191/2019abca191.html
+- **PDF in repo:** `book/pdfs/R_v_Vader_2019_ABCA_191.pdf`
+- **Chapter:** drafted - `book/chapters/ch16-vader-victims-phone.md`
+- **Court / year:** Alberta Court of Appeal, May 17, 2019 (aff'g 2016 ABQB 505;
+  SCC leave refused, No. 38764; murders July 3, 2010)
+- **Smoking gun (per the opinion):** Retired couple Lyle and Marie McCann vanished
+  on a July 3, 2010 road trip (last filmed at a St. Albert Superstore); bodies
+  never found. Travis Vader, penniless in a stolen truck, used the McCanns' OWN
+  cell phone two hours after they disappeared to call a former girlfriend, then
+  made more calls/texts - the network logged it all. He burned the motor home and
+  the truck but left the McCanns' SUV, which held both victims' blood, a
+  bullet-holed blood-stained cap (Mr. McCann's), and a Boxer beer can bearing
+  Vader's fingerprints and his blood. Thread: the victims' own phone (using the
+  victim's device), corroborated by trace/DNA. **Honest disposition:** trial judge
+  wrongly convicted of murder via the struck-down s. 230, then vacated and
+  substituted MANSLAUGHTER (life); Court of Appeal dismissed the appeal, so the
+  manslaughter convictions stand.
 
 ---
 
@@ -338,7 +379,7 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   confessions untainted; conviction upheld - the confirmed-by-the-body
   counterpoint to *Hart*.
 
-### Ch. 18 - *R. v. Kelly*, 2017 ONCA 621 - ⚠️ - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch33-kelly-fake-insurance.md` (final Ch. 33)**
+### Ch. 18 - *R. v. Kelly*, 2017 ONCA 621 - ⚠️ - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch35-kelly-fake-insurance.md` (final Ch. 37)**
 - **Link:** https://www.canlii.org/en/on/onca/doc/2017/2017onca621/2017onca621.html
 - **Court / year:** Ontario Court of Appeal, 2017
 - **Smoking gun:** Michael Kelly reported his wife missing; her body was found
@@ -347,7 +388,7 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   hold because Kelly was a suspect - inducing admissions. The non-criminal
   variant of Mr. Big was held not to be coercive.
 
-### Ch. 19 - *Laflamme c. R.*, 2015 QCCA 1517 - ⚠️ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch34-laflamme-sting-too-far.md` (final Ch. 34)**
+### Ch. 19 - *Laflamme c. R.*, 2015 QCCA 1517 - ⚠️ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch36-laflamme-sting-too-far.md` (final Ch. 36)**
 - **Link:** https://www.canlii.org/en/qc/qcca/doc/2015/2015qcca1517/2015qcca1517.html
 - **Court / year:** Quebec Court of Appeal, 2015 (1976 killing; 2007–08 sting)
 - **Smoking gun / caution:** Michel Laflamme was convicted of a 1976 strangling
@@ -355,7 +396,7 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   **stayed** the proceedings for abuse of process - the undercover scenarios of
   simulated violence and threats amounted to coercion. The dark-mirror of *Hart*.
 
-### Ch. 20 - *R. v. Mapara*, 2005 SCC 23 - ✅ - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch35-mapara-lure-call.md` (final Ch. 35)**
+### Ch. 20 - *R. v. Mapara*, 2005 SCC 23 - ✅ - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch37-mapara-lure-call.md` (final Ch. 37)**
 - **Link:** https://www.canlii.org/en/ca/scc/doc/2005/2005scc23/2005scc23.html
 - **Court / year:** Supreme Court of Canada, 2005
 - **Smoking gun:** A wiretap caught Sameer Mapara telling the victim to come to
@@ -363,7 +404,7 @@ before print · 🔶 frame with care (contested / reversed / inverted).
   before the shooting. The SCC upheld admission of the wiretap and co-conspirator
   statements.
 
-### Ch. 21 - *R. v. Brooks*, 2000 SCC 11 - ✅ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch36-brooks-jailhouse-informants.md` (final Ch. 36; conviction restored 4-3)**
+### Ch. 21 - *R. v. Brooks*, 2000 SCC 11 - ✅ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch38-brooks-jailhouse-informants.md` (final Ch. 38; conviction restored 4-3)**
 - **Link:** https://www.canlii.org/en/ca/scc/doc/2000/2000scc11/2000scc11.html
 - **Court / year:** Supreme Court of Canada, 2000
 - **Smoking gun:** The Crown's key evidence that Frederick Brooks killed toddler
@@ -376,7 +417,7 @@ before print · 🔶 frame with care (contested / reversed / inverted).
 
 ## Part VI - The Performance Falls Apart
 
-### Ch. 22 - *R. v. Klymchuk*, 2005 CanLII 44167 (ON CA); *and* 2008 ONCA 854 - ⚠️ 🔶 - **PDFs pulled ✔ · chapter drafted ✔ → `book/chapters/ch28-klymchuk-staged-breakin.md` (final Ch. 28)**
+### Ch. 22 - *R. v. Klymchuk*, 2005 CanLII 44167 (ON CA); *and* 2008 ONCA 854 - ⚠️ 🔶 - **PDFs pulled ✔ · chapter drafted ✔ → `book/chapters/ch30-klymchuk-staged-breakin.md` (final Ch. 30)**
 - **Links:** https://www.canlii.org/en/on/onca/doc/2005/2005canlii44167/2005canlii44167.html · https://www.canlii.org/en/on/onca/doc/2008/2008onca854/2008onca854.html
 - **Court / year:** Ontario Court of Appeal, 2005 and 2008 (murder 1998)
 - **Smoking gun / caution:** Maria Klymchuk was killed with an axe; her husband

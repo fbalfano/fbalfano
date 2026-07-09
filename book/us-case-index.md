@@ -268,7 +268,7 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   extraction upheld; Fitbit step data admitted WITHOUT expert testimony
   (contrast Dabate's Porter hearing).
 
-### Ch. 23 - *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) - ✅ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch23-worsham-xinos-blackbox.md` (with Xinos)**
+### Ch. 24 - *State v. Worsham*, 227 So. 3d 602 (Fla. 4th DCA 2017) - ✅ 🔶 - **PDF pulled ✔ · chapter drafted ✔ → `book/chapters/ch24-worsham-xinos-blackbox.md` (with Xinos)**
 - **Court/year:** Florida Fourth District Court of Appeal, 2017
 - **PDF in repo:** `book/pdfs/State_v_Worsham_227_So3d_602_2017.pdf`
 - **Link:** https://www.leagle.com/decision/inflco20170329178
@@ -304,13 +304,13 @@ sidebar on the frontier of device evidence:
 
 ## The Staged Scene - bloodstain, trajectory, staged death
 
-### Ch. 29 - *State v. Peterson* (Michael Peterson - "The Staircase"), No. 547A06 (N.C. 2007) - ✅ CONFIRMED FROM PDF 🔶
+### Ch. 31 - *State v. Peterson* (Michael Peterson - "The Staircase"), No. 547A06 (N.C. 2007) - ✅ CONFIRMED FROM PDF 🔶
 - **Correct anchor:** *State v. Peterson*, 361 N.C. 587, 652 S.E.2d 216 (N.C. 2007),
   Supreme Court of North Carolina, No. 547A06, **AFFIRMING** the conviction (not the
   2013 COA new-trial ruling my worklist first referenced). Affirms 179 N.C. App.
   437, 634 S.E.2d 594 (2006).
 - **PDF in repo:** `book/pdfs/State_v_Peterson_MichaelStaircase_547A06_2007.pdf`
-- **Chapter:** drafted - `book/chapters/ch29-michael-peterson-staircase.md`
+- **Chapter:** drafted - `book/chapters/ch31-michael-peterson-staircase.md`
 - **Smoking gun / caution (per the 2007 opinion):** Novelist Michael Peterson called
   911 to say wife Kathleen fell down the stairs (Dec 9, 2001). Paramedics found an
   enormous amount of blood, much of it dry/smeared; autopsy found SEVEN separate
@@ -323,7 +323,7 @@ sidebar on the frontier of device evidence:
   trial → 2017 Alford plea to manslaughter, time served. Bloodstain analysis as both
   linchpin and reason it collapsed.
 
-### Ch. 30 - *Johnson v. State* (Mary Alvis Johnson), No. 06-03-00235-CR (Tex. App.-Texarkana 2004) - ✅ CONFIRMED FROM PDF
+### Ch. 32 - *Johnson v. State* (Mary Alvis Johnson), No. 06-03-00235-CR (Tex. App.-Texarkana 2004) - ✅ CONFIRMED FROM PDF
 - **⚠️ CITATION CORRECTION:** this is an **unpublished memorandum opinion, NOT
   designated for publication** - there is no S.W.3d reporter page. Cite as
   *Johnson v. State*, No. 06-03-00235-CR, 2004 WL ______ (Tex. App.-Texarkana
@@ -333,7 +333,7 @@ sidebar on the frontier of device evidence:
 - **Court/year:** Texas Court of Appeals, 6th Dist., decided Aug. 12, 2004 (affirmed)
 - **Link:** https://law.justia.com/cases/texas/sixth-court-of-appeals/2004/7359.html
 - **PDF in repo:** `book/pdfs/Johnson_v_State_06-03-00235-CR_2004.pdf`
-- **Chapter:** drafted - `book/chapters/ch30-johnson-three-feet.md`
+- **Chapter:** drafted - `book/chapters/ch32-johnson-three-feet.md`
 - **Smoking gun (per the opinion):** Jerry Wayne Johnson shot dead with a .25; only
   Mary, Jerry, and son Jerry II present. Fatal shot fired from THREE FEET OR MORE
   away with NO firearm residue at the entrance wound = incompatible with suicide

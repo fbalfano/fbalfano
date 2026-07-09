@@ -57,20 +57,20 @@ limits (appeal: 2017 ONCA 778).
 
 ## Leads chased (research pass, July 2026)
 
-### ✅ VIABLE - qualifying appellate decision exists; pull the PDF to draft
+### ✅ DRAFTED - pulled, written, and integrated into the book
 - **R. v. Vader**, **2019 ABCA 191** (Travis Vader, the McCann murders; SCC leave
-  denied, file 38764; also reported ~377 CCC (3d) 23). Thread: the victims' own
-  **cellphone data** (activity on the McCanns' phone after they vanished) plus DNA
-  and blood in the recovered vehicle. Manslaughter convictions **affirmed**. Fits
-  Part II (the phone) as a "victim's-phone" story rather than tower-tracking.
-  CanLII: https://www.canlii.org/en/ab/abca/doc/2019/2019abca191/2019abca191.html
-- **R. v. Comber**, **2026 MBCA 27** (dated 2026-03-30; William Comber, Hailey
-  Dugay road shooting). Thread: **ballistics** - the fatal round matched Comber's
-  bolt-action rifle, not the co-accused's semi-auto Remington recovered from the
-  co-accused's residence. Second-degree **murder reduced to manslaughter** on
-  appeal (intent unproven; manslaughter substituted, no new trial). Fits Part V
-  (the gun and the residue); chapter must describe the murder→manslaughter
-  reduction. PDF: manitobacourts.mb.ca/.../r_v_comber_2026_mbca_27.pdf
+  denied, file 38764). Thread: the victims' own **cell phone** (Vader called an ex
+  on the McCanns' phone two hours after they vanished) plus DNA/blood/prints in the
+  recovered SUV. Trial judge's erroneous murder convictions were vacated and
+  **manslaughter** substituted; appeal dismissed. **→ now Chapter 16** (Part II),
+  `book/chapters/ch16-vader-victims-phone.md`.
+- **R. v. Comber**, **2026 MBCA 27** (William Comber, Hailey Dugay road shooting).
+  Thread: **ballistics** cleared the obvious suspect (Paluk's bolt-action Remington
+  did not fire the fatal shot) and revealed a hidden second shooter; Comber's
+  Winchester was never recovered, so the fatal weapon's make could not be
+  conclusively matched. Second-degree **murder set aside as unreasonable on appeal
+  and manslaughter substituted**. **→ now Chapter 28** (Part V),
+  `book/chapters/ch28-comber-ballistics.md`.
 
 ### 🔶 SIDEBAR-ONLY - citation corrected
 - **R. v. Rafferty**, **2016 ONCA 816** (NOT "2017 ONCA 778", which is an

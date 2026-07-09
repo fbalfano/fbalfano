@@ -37,7 +37,8 @@ cases we'll frame carefully.
 - ✅🔶 🇨🇦 *R. v. Pan*, 2023 ONCA 362; 2025 SCC 12 *(staged 911; new trial on murder / attempted-murder stands)* - **PDFs pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇺🇸 *People v. Peterson* (Scott Peterson), 10 Cal. 5th 409, 472 P.3d 382 (Cal. 2020) *(guilt affirmed, death sentence reversed)* - **file pulled ✔ · chapter drafted ✔**
 - ✅ 🇺🇸 *State v. Zielinski*, 10 N.W.3d 1 (Minn. 2024) *(geotagged pocket photo)* - **PDF pulled ✔ · chapter drafted ✔**
-- ✅ 🇺🇸 *State v. LaBranche*, La. Ct. App. 5th Cir. 2025 *(ALPR; ⚠️ confirm So.3d page)* - **PDF pulled ✔ · chapter drafted ✔**
+- ✅ 🇺🇸 *State v. LaBranche*, No. 25-KA-184 (La. App. 5 Cir. 2025) *(ALPR; So.3d page likely not yet assigned)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 15)**
+- ✅🔶 🇨🇦 *R. v. Vader*, 2019 ABCA 191 *(victims' own cell phone; SCC leave denied; manslaughter substituted for murder)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 16)**
 
 ## PART III - What You Typed, What You Saved (search history, files, chat)
 - ✅ 🇨🇦 *R v Garland*, 2019 ABCA 479 *(hard drive in the rafters)* - **PDF pulled ✔ · chapter drafted ✔**
@@ -58,6 +59,7 @@ cases we'll frame carefully.
 - ✅ 🇨🇦 *R. v. Stevenson*, 2014 ONCA 842 *(GSR on suspect's hand)* - **PDF pulled ✔ · chapter drafted ✔**
 - ✅🔶 🇨🇦 *R v F (JM)*, 2022 MBCA 52 *(no gun, ammo match + phone photos; new trial ordered - s.10(b))* - **PDF pulled ✔ · chapter drafted ✔**
 - 🔶 🇨🇦 *R. v. Mohamed*, 2025 ONCA 611 *(reframed as digital 'callous search'; convictions set aside)* - **PDF pulled ✔ · chapter drafted ✔**
+- ✅🔶 🇨🇦 *R. v. Comber*, 2026 MBCA 27 *(ballistics cleared the obvious suspect, revealed a hidden 2nd shooter; gun never found)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 28; murder set aside, manslaughter substituted)**
 
 ## PART VI - The Staged Scene (bloodstain, trajectory, staged death)
 - ⚠️🔶 🇨🇦 *Delisle c. R.*, 2013 QCCA 952 *(judge; staged suicide; later reopened)* - **PDF pulled ✔ · chapter drafted ✔ (Ch. 27)**
@@ -83,16 +85,17 @@ cases we'll frame carefully.
 ---
 
 ### Tally
-**51 anchor authorities** - ~24 Canadian, ~27 American - across 8 forensic
+**53 anchor authorities** - ~26 Canadian, ~27 American - across 8 forensic
 themes, plus the "almost testified" and Golden State Killer sidebars.
 
-**STATUS: content-complete.** All 41 numbered chapters (Parts I-VIII) plus the
+**STATUS: content-complete.** All 43 numbered chapters (Parts I-VIII) plus the
 Part II framing interlude are drafted, with source PDFs archived and Word docs
-built. The only non-drafted line items remaining are the by-design sidebars
-(Golden State Killer; the Alexa/Fitbit/pacemaker "almost testified" cases),
-which have no qualifying appellate decision to anchor a full chapter, and the
-dropped Russo slot above. Optional expansion leads live in
-`gaps-and-future-chapters.md`.
+built. Chapters 16 (Vader) and 28 (Comber) were added and the whole book was
+renumbered to insert them in thematic order. The only non-drafted line items
+remaining are the by-design sidebars (Golden State Killer; the
+Alexa/Fitbit/pacemaker "almost testified" cases), which have no qualifying
+appellate decision to anchor a full chapter, and the dropped Russo slot above.
+Optional expansion leads live in `gaps-and-future-chapters.md`.
 
 ### As we summarize each, we'll capture:
 1. The human story (victim, accused, what happened).
