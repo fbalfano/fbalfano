@@ -74,4 +74,8 @@ cooperate, and so did she.
 > The opinion sets out the muzzle-distance and residue evidence establishing the
 > shot could not have been self-inflicted, and catalogs Mary Johnson's many
 > conflicting statements, including her question about how long gunshot residue
-> lasts. (Confirm the exact S.W.3d reporter page before print.)
+> lasts. (Citation note: this is a memorandum opinion, *not designated for
+> publication*, so there is no S.W.3d reporter page; cite it as *Johnson v. State*,
+> No. 06-03-00235-CR, 2004 WL ______ (Tex. App.-Texarkana Aug. 12, 2004, no pet.)
+> (mem. op.), and pull the exact Westlaw number before print. Do **not** cite "151
+> S.W.3d 193" - that is a different defendant, Keithen Oneal Johnson.)

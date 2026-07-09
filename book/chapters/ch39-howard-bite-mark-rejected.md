@@ -99,9 +99,8 @@ not speak, and we spent decades pretending we could hear them.
 
 ---
 
-> **📖 Read the case yourself:** *Howard v. State*, No. 2018-CA-01586-SCT
-> (Miss. 2020) (reported at 300 So. 3d 1011 - confirm the reporter page),
-> Supreme Court of Mississippi, decided 2020.
+> **📖 Read the case yourself:** *Howard v. State*, 300 So. 3d 1011 (Miss. 2020),
+> No. 2018-CA-01586-SCT, Supreme Court of Mississippi, decided August 27, 2020.
 > Free online: [Justia](https://law.justia.com/cases/mississippi/supreme-court/2020/2018-ca-01586-sct.html).
 > The autopsy, the exhumation and Dr. West's bite-mark testimony, the revised
 > ABFO guidelines, and the DNA results excluding Howard from the knife are all

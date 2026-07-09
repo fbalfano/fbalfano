@@ -81,10 +81,12 @@ been.
 
 ---
 
-> **📖 Read the case yourself:** *State v. LaBranche*, Court of Appeal of
-> Louisiana, Fifth Circuit (2025); FindLaw case ID 118267251.
+> **📖 Read the case yourself:** *State v. LaBranche*, No. 25-KA-184 (La. App. 5
+> Cir. 2025), Court of Appeal of Louisiana, Fifth Circuit; FindLaw case ID
+> 118267251.
 > Free online: [FindLaw](https://caselaw.findlaw.com/court/la-court-of-appeal/118267251.html).
 > The murders, the distinctive-vehicle identification, the ALPR tracking of the
 > Honda Accord northbound on I-55, and LaBranche's confession are set out in the
-> opinion. (Confirm the exact So. 3d reporter citation before print; cite by court
-> and FindLaw ID until then.)
+> opinion. (Citation note: cite by docket No. 25-KA-184 for now; because the
+> opinion is from late 2025, a bound So. 3d page has likely not been assigned yet
+> and it may exist only as a 2025 WL slip cite. Confirm before print.)

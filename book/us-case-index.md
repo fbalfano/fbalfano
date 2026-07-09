@@ -165,7 +165,10 @@ pull the PDF - the case, court, and disposition are confirmed in every instance.
   duplicative second-degree reversed. (Opinion says "nine-minute drive," not
   "4.3 miles.")
 
-### *State v. LaBranche*, La. Ct. App. 5th Cir. 2025 - ✅ CONFIRMED FROM PDF (⚠️ reporter page still unconfirmed)
+### *State v. LaBranche*, No. 25-KA-184 (La. App. 5 Cir. 2025) - ✅ CONFIRMED FROM PDF (⚠️ So. 3d page likely not yet assigned)
+- **Docket:** No. 25-KA-184; cite by docket for now. Opinion is from late 2025, so a
+  bound So. 3d page has likely not been assigned yet - it may exist only as a 2025 WL
+  slip cite. Confirm before print.
 - **Court/year:** Court of Appeal of Louisiana, 5th Cir., 2025 (convictions affirmed)
 - **Link:** https://caselaw.findlaw.com/court/la-court-of-appeal/118267251.html
 - **PDF in repo:** `book/pdfs/State_v_LaBranche_La5Cir_2025.pdf` · **Chapter:** `book/chapters/ch15-labranche-alpr.md`
@@ -321,8 +324,13 @@ sidebar on the frontier of device evidence:
   linchpin and reason it collapsed.
 
 ### Ch. 30 - *Johnson v. State* (Mary Alvis Johnson), No. 06-03-00235-CR (Tex. App.-Texarkana 2004) - ✅ CONFIRMED FROM PDF
-- Reporter reported as 151 S.W.3d 193 - confirm exact page before print.
-- **Court/year:** Texas Court of Appeals, 6th Dist., 2004 (affirmed)
+- **⚠️ CITATION CORRECTION:** this is an **unpublished memorandum opinion, NOT
+  designated for publication** - there is no S.W.3d reporter page. Cite as
+  *Johnson v. State*, No. 06-03-00235-CR, 2004 WL ______ (Tex. App.-Texarkana
+  Aug. 12, 2004, no pet.) (mem. op.); pull the exact 2004 WL number before print.
+  **Do NOT use "151 S.W.3d 193"** - that is a different defendant (Keithen Oneal
+  Johnson v. State, Tex. Crim. App.), wrongly attached to this case earlier.
+- **Court/year:** Texas Court of Appeals, 6th Dist., decided Aug. 12, 2004 (affirmed)
 - **Link:** https://law.justia.com/cases/texas/sixth-court-of-appeals/2004/7359.html
 - **PDF in repo:** `book/pdfs/Johnson_v_State_06-03-00235-CR_2004.pdf`
 - **Chapter:** drafted - `book/chapters/ch30-johnson-three-feet.md`
@@ -372,8 +380,9 @@ sidebar on the frontier of device evidence:
   2002 DNA excluded him and identified another man; freed after ~10 years, the
   100th US death-row exoneree.
 
-### *Howard v. State*, No. 2018-CA-01586-SCT (Miss. 2020) - ⚠️ 🔶 CONFIRMED FROM PDF
-- Reporter reported as 300 So. 3d 1011 - **still confirm the exact page.**
+### *Howard v. State*, 300 So. 3d 1011 (Miss. 2020) - ✅ 🔶 CONFIRMED FROM PDF
+- **Citation CONFIRMED:** *Howard v. State*, 300 So. 3d 1011 (Miss. 2020), No.
+  2018-CA-01586-SCT, decided August 27, 2020. Reporter page verified.
 - **Court/year:** Mississippi Supreme Court, 2020 (murder Feb. 2, 1992)
 - **Link:** https://law.justia.com/cases/mississippi/supreme-court/2020/2018-ca-01586-sct.html
 - **PDF in repo:** `book/pdfs/Howard_v_State_2018-CA-01586-SCT_2020.pdf`
