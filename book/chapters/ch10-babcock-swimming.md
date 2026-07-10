@@ -14,8 +14,8 @@ almost entirely from their own phones.
 Laura Babcock was twenty-three, a Toronto woman who had briefly dated Millard.
 Millard was the son of a wealthy aviation entrepreneur, and at nearly thirty he
 was still enjoying the family's toys: a house in Etobicoke, an airport hangar
-near Waterloo, a farm. His close friend Smich came from the other side of every
-tracks there are, a drug dealer whom Millard kept flush with cash, food, and
+near Waterloo, a farm. His close friend Smich came from the wrong side of every track
+there is, a drug dealer whom Millard kept flush with cash, food, and
 somewhere to sleep. The two of them liked to run what they called "missions,"
 petty crimes committed for sport.
 

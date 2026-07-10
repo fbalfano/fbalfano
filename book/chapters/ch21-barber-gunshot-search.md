@@ -5,7 +5,7 @@ wounds of his own, and a story about a stranger who ambushed them. Months
 earlier, his computer had been asking exactly where on a body a gunshot does the
 least harm.**
 
-On a August night in 2002, on a dark stretch of Florida beach, April Barber was
+On an August night in 2002, on a dark stretch of Florida beach, April Barber was
 shot to death near the water. Her husband, Justin Barber, survived, and he had a
 story to tell: an unknown assailant had attacked them both in the dark. His wife
 was killed. He himself had been shot four times and lived.

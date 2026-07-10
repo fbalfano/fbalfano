@@ -122,4 +122,4 @@ what happened to him for one reason. His killers couldn't stop taking notes.
 > The overview and the Crown's evidence summary open the judgment; the
 > bad-character and jury-instruction grounds follow.
 > **Companion chapters:** the same killers were separately convicted of
-> murdering Laura Babcock (*R. v. Millard*, 2023 ONCA 426 - Chapter 10).
+> murdering Laura Babcock (*R. v. Millard*, 2023 ONCA 426, Chapter 10).

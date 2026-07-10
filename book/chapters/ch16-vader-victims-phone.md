@@ -1,7 +1,3 @@
-<!-- STAGED: intended for Part II (The Phone in Your Pocket). Chapter number TBD -
-     will be assigned when Vader and Comber are inserted together in one renumber.
-     Anchor: R v Vader, 2019 ABCA 191. -->
-
 # Chapter 16 - The Phone That Outlived Its Owners
 
 **A retired couple vanished on a summer road trip and were never seen again. Two

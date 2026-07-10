@@ -148,4 +148,4 @@ things you would most like it to forget.
 > of Alberta, decided December 6, 2019.
 > Free online: [CanLII](https://www.canlii.org/en/ab/abca/doc/2019/2019abca479/2019abca479.html).
 > The factual overview opens the judgment; the exigent-search and s. 24(2)
-> analysis follows.
+> analysis follows. The Court of Appeal dismissed the appeal; the three first-degree murder convictions stand.

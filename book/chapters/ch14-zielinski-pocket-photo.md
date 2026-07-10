@@ -60,7 +60,7 @@ complete account than one blind snapshot. Her DNA was found on the very safe
 stolen from Henderson's home. A friend testified to helping her break into it. The
 "I've waited long enough" texts supplied motive and intent; the safe searches and
 the news-article visit supplied consciousness of guilt. As the court put it, even
-without the pocket photo, the cell data, and the safe search, the state's case
+without the accidental pocket photo, the state's case
 overwhelmingly proved her guilt.
 
 That candor is the point, not a weakness. The accidental photo is memorable

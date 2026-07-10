@@ -65,7 +65,7 @@ strangulation of Selena Keough and the murder of Mary Duggan. Sperm recovered fr
 Keough's body in the 1981 investigation, analyzed decades later, matched DNA found
 on a gag in Duggan's mouth, tying the two crimes to one man, and investigative
 genetic genealogy gave that man a name. It was Los Angeles County's first
-prosecution built on the technique. A jury convicted Vaultz, and in 2024 the
+prosecution built on the technique. A jury convicted Van Vaultz, and in 2024 the
 California Court of Appeal affirmed, describing the DNA evidence as overwhelming.
 
 Two states, the same story: a killer who evaded the science of his own era, found
@@ -92,10 +92,10 @@ one day, cheerfully and voluntarily, dig them back up.
 
 > **📖 Read the case yourself:** *State v. Hartman*, 29 Wn. App. 2d 384, 534 P.3d
 > 423 (Wash. Ct. App. 2023).
-> Free online: [FindLaw](https://caselaw.findlaw.com/) (search "State v. Hartman
-> 2023") · courts.wa.gov.
+> Free online: [Google Scholar](https://scholar.google.com/scholar?q=%22State+v.+Hartman%22+534+P.3d+423) (also FindLaw / courts.wa.gov; search "State v. Hartman
+> 2023").
 > The murder, the Parabon/GEDmatch identification, the napkin collection, and the
 > privacy ruling are set out in the opinion.
-> **Companion cases:** *State v. Talbott* (Chapter 5) and *People v. Vaultz*,
+> **Companion cases:** *State v. Talbott* (Chapter 5) and *People v. Van Vaultz*,
 > No. B323590 (Cal. Ct. App. 2024), affirming a California genetic-genealogy
 > conviction.

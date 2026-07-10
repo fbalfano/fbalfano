@@ -33,7 +33,7 @@ autopsy had not recorded.
 
 Dr. West took molds of Eddie Lee Howard's teeth and performed what he called a
 "wound duplication test with ink," pressing a direct comparison between the
-teenager's dental impressions and the marks he said he had found. He declared the
+defendant's dental impressions and the marks he said he had found. He declared the
 marks on the neck and arm "consistent with" Howard's teeth, and the mark on the
 breast, he testified at the time, was "indeed" made by Howard. Howard lived two
 blocks away. He was arrested the next day. And on the strength of Dr. West's

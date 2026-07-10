@@ -1,6 +1,3 @@
-<!-- STAGED: intended for Part V (The Gun and the Residue). Final number assigned
-     in the combined renumber. Anchor: R v Comber, 2026 MBCA 27. -->
-
 # Chapter 28 - The Second Shooter the Bullet Found
 
 **Witnesses saw one man standing in the road firing a rifle, and the police

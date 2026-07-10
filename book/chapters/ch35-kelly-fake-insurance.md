@@ -15,7 +15,7 @@ Kelly to the killing. He was the prime suspect, and for years that was all he wa
 
 The police kept three facts to themselves, the kind of details only the killer could
 know: that the fatal shot was a single round to the base of the skull, that the body
-had been wrapped and tied with white coaxial cable and yellow polypropylene rope,
+had been wrapped and tied with white coaxial cable and yellow rope,
 and the precise spot, ten feet east of Wolf Lake Road, where she lay. Those three
 secrets were the lock. The problem was getting Kelly to hand over the key.
 

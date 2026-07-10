@@ -101,7 +101,7 @@ police your DNA. You cannot stop the people who share it from giving theirs.
 > **📖 Read the case yourself:** *State v. Talbott*, No. 80334-4-I (Wash. Ct. App.)
 > (on remand); the convictions were reinstated by the Washington Supreme Court in
 > *State v. Talbott*, 200 Wn.2d 731, 521 P.3d 948 (2022).
-> Free online: search "State v. Talbott 200 Wn.2d 731" (courts.wa.gov / Justia).
+> Free online: [Google Scholar](https://scholar.google.com/scholar?q=%22State+v.+Talbott%22+200+Wn.2d+731) (search the citation; also on courts.wa.gov / Justia).
 > The murders, the DNA and palm-print evidence, and the procedural history are set
 > out in the opinions; the GEDmatch/genetic-genealogy identification and the
 > discarded-cup collection come from the investigative record and contemporaneous

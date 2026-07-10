@@ -65,7 +65,7 @@ Burch said sure.
 Not only sure. When the officer explained it would be easier to just download
 the whole phone than to sit there photographing the screen like it was 1995,
 Burch agreed to that too, and signed a consent form to prove it: "I, George
-Stephen Burch . . . voluntarily give . . . permission to search my . . . Samsung
+Steven Burch . . . voluntarily give . . . permission to search my . . . Samsung
 cellphone." The department's forensic examiner did what examiners do when handed
 a signed permission slip: he vacuumed the entire device, every byte, and filed
 the copy away in long-term storage. Burch got his phone back and went on with
