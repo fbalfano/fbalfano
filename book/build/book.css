@@ -84,3 +84,8 @@ nav#TOC a::after {
 }
 
 a { color: #111; }
+
+/* Front-matter page separators: title / copyright / dedication each on their own page */
+.pagebreak { break-after: page; }
+/* Front-matter title should sit lower and read as a title page */
+.title { break-before: avoid; }

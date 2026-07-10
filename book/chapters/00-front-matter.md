@@ -4,7 +4,7 @@
 
 **Frank Alfano**
 
----
+<div class="pagebreak"></div>
 
 ## Copyright
 
@@ -30,10 +30,10 @@ or retried; the book says so, in plain terms, wherever it happened.
 
 First edition, 2026.
 
----
+<div class="pagebreak"></div>
 
 ## Dedication
 
 For Silas, my grandson, whom I was lucky enough to be there for when he was born.
 
----
+<div class="pagebreak"></div>
