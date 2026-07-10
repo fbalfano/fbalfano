@@ -10,6 +10,6 @@ EBODY="chapters/00-front-matter.md $BODY"
 pandoc $EBODY -o "build/How Not to Get Away With Murder.epub" --toc --split-level=1 \
   --metadata title="How Not to Get Away With Murder" \
   --metadata subtitle="True Stories of the Evidence That Caught Them" \
-  --metadata author="Frank Alfano" --metadata lang=en-US --metadata date=2026
+  --metadata author="Frank Alfano" --metadata lang=en-US --epub-cover-image="cover/how-not-to-get-away-with-murder-cover.jpg" --metadata date=2026
 rm -f build/frontmatter.html
 echo "Built PDF + EPUB in build/"
