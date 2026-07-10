@@ -66,13 +66,69 @@ remembers now. This is the story of what that means.
 
 ---
 
-## Categories & keywords (KDP suggestions)
+## FINAL Amazon/KDP description (paste-ready, em-dash-free)
 
-- **BISAC categories:** TRUE CRIME / Murder / General; TRUE CRIME / Forensics;
-  LAW / Criminal Law / General.
-- **Keyword ideas:** forensic evidence true crime; how killers get caught; court
-  cases murder; DNA genetic genealogy cases; digital forensics true crime; Canadian
-  true crime; wrongful convictions forensic science; cell phone evidence murder.
+Almost no one is caught the way the movies promise. There is rarely a surprise
+witness or a confession that shatters on the stand. What catches a killer, nearly
+every time, is smaller and quieter: the one thing he forgot he left behind.
+
+A cell tower that puts a phone on a lonely road at the wrong hour. A Fitbit still
+counting a woman's steps after her husband swears she was already dead. A car's black
+box that remembers the last five seconds before a fatal crash. A search for "what
+happens when you die," typed minutes after a murder by a man checking his work.
+
+In forty-three true cases from Canadian and American courts, Frank Alfano traces the
+single thread of evidence that undid each killer, and then tells you exactly where to
+read the court decision yourself.
+
+Inside you'll meet:
+
+- The man who handed police the very hairs that would convict him, because they asked nicely
+- A wife reported dead by her husband, contradicted by the fitness tracker on her own wrist
+- A phone that photographed the inside of a pocket on the way to a murder, stamped with the time and the place
+- A bullet that cleared the man everyone saw firing and pointed at the shooter no one was watching
+- A retired judge, a "Mr. Big" police sting, a letter from the grave, and a staircase that has been argued over for twenty years
+
+This is true crime with the receipts. Every case is real. Every chapter is built on an
+actual appellate court decision, with the citation and a free link, so you never have
+to take the author's word for anything. And it is honest about the other edge of the
+blade: the cases where the science was wrong, the evidence was thrown out, or an
+innocent person was set free.
+
+Read them in any order. Each chapter is a self-contained story, told with the pull of
+a detective novel and a forensic scientist's respect for the facts.
+
+Everything remembers now. This is the story of what that means, one killer and one
+fatal mistake at a time.
+
+---
+
+## Categories & keywords (FINAL, entered on KDP / amazon.ca)
+
+**Keywords (7 slots, each < 50 chars) - paste these exactly:**
+1. forensic evidence true crime
+2. how killers get caught
+3. Canadian true crime cases
+4. real murder court cases
+5. DNA and digital forensics
+6. cold case investigations
+7. wrongful convictions and exonerations
+
+*Note: title + subtitle are already searched by Amazon, so keyword slots avoid
+repeating "murder / true / evidence / stories." "Canadian true crime cases" is an
+amazon.ca play (~half the cases are Canadian). Ignore the "StorytellerUK2026"
+contest keyword - it is UK-store only.*
+
+**Categories (up to 3; one broad + two niche for best-seller-badge potential).**
+Use the search box in KDP's "Choose categories" picker and select the closest path:
+1. True Crime > Murder & Mayhem  (search "murder")
+2. True Crime > Forensics / Forensic Science  (search "forensic")
+3. Criminology  (Politics & Social Sciences > Social Sciences > Criminology; search
+   "criminology"). Alternates if unavailable on .ca: Law > Criminal Law, or
+   True Crime > Serial Killers.
+
+**BISAC equivalents (if asked):** TRUE CRIME / Murder / General; TRUE CRIME /
+Forensics; SOCIAL SCIENCE / Criminology (or LAW / Criminal Law / General).
 
 ---
 
