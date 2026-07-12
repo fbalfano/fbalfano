@@ -81,7 +81,7 @@ been.
 
 ---
 
-> **📖 Read the case yourself:** *State v. LaBranche*, No. 25-KA-184 (La. App. 5
+> **Read the case yourself:** *State v. LaBranche*, No. 25-KA-184 (La. App. 5
 > Cir. 2025), Court of Appeal of Louisiana, Fifth Circuit; FindLaw case ID
 > 118267251.
 > Free online: [FindLaw](https://caselaw.findlaw.com/court/la-court-of-appeal/118267251.html).

@@ -133,7 +133,7 @@ She leaves behind a trail, and a trail is harder to seal in a drawer.
 
 ---
 
-> **📖 Read the case yourself:** *State v. Jensen*, 2021 WI 27, 396 Wis. 2d
+> **Read the case yourself:** *State v. Jensen*, 2021 WI 27, 396 Wis. 2d
 > 196, 957 N.W.2d 244, Wisconsin Supreme Court, decided March 18, 2021.
 > Free online: [Justia](https://law.justia.com/cases/wisconsin/supreme-court/2021/2018ap001952-cr.html)
 > · official PDF via [wicourts.gov](https://www.wicourts.gov).

@@ -84,7 +84,7 @@ was ever asked.
 
 ---
 
-> **📖 Read the case yourself:** *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA
+> **Read the case yourself:** *Barber v. State*, No. 5D06-3529 (Fla. 5th DCA
 > 2009) (opinion filed January 23, 2009; rehearing denied March 6, 2009), Florida
 > Fifth District Court of Appeal.
 > Free online: search "Barber v. State 5D06-3529" (FindLaw / Justia / CaseMine).

@@ -68,7 +68,7 @@ cooperate, and so did she.
 
 ---
 
-> **📖 Read the case yourself:** *Johnson v. State* (Mary Alvis Johnson), No.
+> **Read the case yourself:** *Johnson v. State* (Mary Alvis Johnson), No.
 > 06-03-00235-CR (Tex. App.-Texarkana 2004), Texas Sixth Court of Appeals.
 > Free online: [Justia](https://law.justia.com/cases/texas/sixth-court-of-appeals/2004/7359.html).
 > The opinion sets out the muzzle-distance and residue evidence establishing the
