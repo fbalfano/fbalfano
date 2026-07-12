@@ -1,0 +1,91 @@
+/* 6x9 trade paperback interior for "How Not to Get Away With Murder" */
+
+@page {
+  size: 6in 9in;
+  margin: 0.75in 0.6in 0.75in 0.75in; /* top right bottom left (fallback) */
+  @bottom-center { content: counter(page); font-family: Georgia, serif; font-size: 9pt; color: #333; }
+  @top-center { content: string(runhead); font-family: Georgia, serif; font-size: 8.5pt; font-style: italic; color: #555; letter-spacing: 0.02em; }
+}
+/* Mirrored margins: wider gutter on the inside edge */
+@page :left  { margin: 0.75in 0.75in 0.75in 0.6in; }
+@page :right { margin: 0.75in 0.6in 0.75in 0.75in; }
+
+/* First page of each chapter: no running head */
+@page chapter-first { @top-center { content: none; } }
+
+html { font-size: 11pt; }
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.4;
+  text-align: justify;
+  hyphens: auto;
+  color: #111;
+}
+
+/* Chapter openers */
+h1 {
+  string-set: runhead content(text);
+  break-before: page;
+  page: chapter-first;
+  font-family: Georgia, serif;
+  font-size: 20pt;
+  font-weight: bold;
+  line-height: 1.15;
+  margin: 0.6in 0 0.35in 0;
+  text-align: left;
+  hyphens: none;
+}
+h1:first-of-type { break-before: avoid; } /* title page */
+
+h2 {
+  font-family: Georgia, serif;
+  font-size: 13pt;
+  font-weight: bold;
+  margin: 1.3em 0 0.4em 0;
+  text-align: left;
+  hyphens: none;
+  break-after: avoid;
+}
+h3 { font-size: 11.5pt; font-weight: bold; margin: 1em 0 0.3em; text-align: left; }
+
+p { margin: 0 0 0.65em 0; orphans: 2; widows: 2; }
+/* No indent on the first paragraph after a heading; indent the rest */
+p + p { text-indent: 1.4em; margin-top: -0.2em; }
+
+strong { font-weight: bold; }
+em { font-style: italic; }
+
+/* Citation box (markdown blockquote) */
+blockquote {
+  margin: 1.1em 0.1in;
+  padding: 0.5em 0.7em;
+  border-left: 3px solid #7a1f1f;
+  background: #f4f1ec;
+  font-size: 10pt;
+  line-height: 1.35;
+  text-align: left;
+  hyphens: none;
+  break-inside: avoid;
+}
+blockquote p { text-indent: 0; margin-bottom: 0.4em; }
+blockquote a { color: #333; text-decoration: none; word-break: break-word; }
+
+hr { border: none; border-top: 1px solid #bbb; width: 25%; margin: 1.2em auto; }
+
+/* Table of contents with page numbers */
+nav#TOC { break-before: page; }
+nav#TOC > ul { list-style: none; padding-left: 0; }
+nav#TOC ul ul { display: none; } /* only chapter-level */
+nav#TOC li { margin: 0.2em 0; font-size: 10.5pt; }
+nav#TOC a { text-decoration: none; color: #111; }
+nav#TOC a::after {
+  content: leader('.') " " target-counter(attr(href), page);
+  color: #444;
+}
+
+a { color: #111; }
+
+/* Front-matter page separators: title / copyright / dedication each on their own page */
+.pagebreak { break-after: page; }
+/* Front-matter title should sit lower and read as a title page */
+.title { break-before: avoid; }
