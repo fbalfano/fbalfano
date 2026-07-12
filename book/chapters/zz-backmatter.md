@@ -82,9 +82,9 @@ proportion.
 
 # About the Author
 
-Frank Alfano is a writer with a long-standing interest in how the law actually
-works, in the gap between how crimes are solved on a screen and how they are solved
-on the record. *How Not to Get Away With Murder* is his first book.
+Frank Alfano, LL.B., LL.M., writes about the law the way it actually works: on the
+record, one case at a time. Trained in the law, he built this book the way a lawyer
+builds a case, every chapter anchored to an appellate court decision the reader can
+look up and verify. *How Not to Get Away With Murder* is his first book.
 
-*[Author bio to be completed: a sentence or two on background, where you live, and
-anything else you would like readers to know.]*
+Find him at frankalfano.ca.
