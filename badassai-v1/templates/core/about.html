@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}About — Bad Ass AI{% endblock %}
+{% block meta_description %}Meet Frank Alfano, founder of Bad Ass AI — an AI agency, coaching practice, and community for businesses that would rather build than wait.{% endblock %}
+
+{% block content %}
+<div class="page-hero">
+  <p class="mono hero-eyebrow rise d1">About</p>
+  <h1 class="page-title rise d2">The guy behind <span class="accent">the name</span></h1>
+</div>
+
+<section class="section">
+  <div class="about-grid">
+    <div class="prose rise d2">
+      <p class="lead">Bad Ass AI was started by Frank Alfano, an entrepreneur who got tired of watching good businesses freeze up in front of AI.</p>
+      <p>Frank isn't an academic and doesn't play one on the internet. He's an operator &mdash; someone who builds and runs real businesses, and who has spent the last few years wiring AI into every one of them: automating the grunt work, speeding up the sales pipeline, and shipping things a team twice the size used to handle.</p>
+      <p>That's the whole premise of Bad Ass AI: <strong>the people best positioned to teach business AI are the ones actually running businesses with it.</strong> Not vendors selling software. Not consultants selling decks. Operators showing operators what works, what doesn't, and what's a waste of your money.</p>
+      <p>Whether it's done-for-you agency work, hands-on coaching, or straight-talk consulting, the goal never changes &mdash; make you and your team dangerous with AI, and plug you into a community so you're never figuring it out alone.</p>
+      <div class="hero-actions">
+        <a class="btn" href="{% url 'contact' %}">Talk to Frank</a>
+        <a class="btn ghost" href="{% url 'services' %}">See the services</a>
+      </div>
+    </div>
+    <div class="portrait rise d3">
+      <img src="{% static 'images/frank-profile.jpg' %}" alt="Frank Alfano"
+           onerror="this.style.display='none'">
+      <span class="plate">Frank Alfano</span>
+    </div>
+  </div>
+</section>
+{% endblock %}

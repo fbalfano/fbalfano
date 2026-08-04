@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}Contact — Bad Ass AI{% endblock %}
+{% block meta_description %}Talk to Frank about AI for your business — agency work, coaching, or consulting. Every message gets a reply within one business day.{% endblock %}
+
+{% block content %}
+<div class="page-hero">
+  <p class="mono hero-eyebrow rise d1">Contact</p>
+  <h1 class="page-title rise d2">Let's make you <span class="accent">dangerous</span></h1>
+  <p class="lede rise d3">Tell us what your business does and where things feel slow, manual, or stuck. Frank reads every message and replies within one business day.</p>
+</div>
+
+<section class="section">
+  <div class="contact-grid">
+    <form method="post" class="form-card rise d2" novalidate>
+      {% csrf_token %}
+      <div class="field">
+        <label for="id_name">Name</label>
+        <input type="text" name="name" id="id_name" required value="{{ form.name.value|default:'' }}">
+        {% if form.name.errors %}<p class="err">{{ form.name.errors.0 }}</p>{% endif %}
+      </div>
+      <div class="field">
+        <label for="id_email">Email</label>
+        <input type="email" name="email" id="id_email" required value="{{ form.email.value|default:'' }}">
+        {% if form.email.errors %}<p class="err">{{ form.email.errors.0 }}</p>{% endif %}
+      </div>
+      <div class="field">
+        <label for="id_company">Company <span style="text-transform:none">(optional)</span></label>
+        <input type="text" name="company" id="id_company" value="{{ form.company.value|default:'' }}">
+      </div>
+      <div class="field">
+        <label for="id_phone">Phone <span style="text-transform:none">(optional)</span></label>
+        <input type="text" name="phone" id="id_phone" value="{{ form.phone.value|default:'' }}">
+      </div>
+      <div class="field">
+        <label for="id_message">What are you trying to solve?</label>
+        <textarea name="message" id="id_message" required>{{ form.message.value|default:'' }}</textarea>
+        {% if form.message.errors %}<p class="err">{{ form.message.errors.0 }}</p>{% endif %}
+      </div>
+      <button class="btn" type="submit">Send it</button>
+    </form>
+    <aside class="contact-aside rise d3">
+      <h3>Direct line</h3>
+      <p><a href="mailto:frank@badassai.ca">frank@badassai.ca</a></p>
+      <h3>What happens next</h3>
+      <p>Your message lands in Frank's inbox and in our pipeline. If it's a fit, the next step is a short call &mdash; no pitch deck, no pressure.</p>
+      <h3>Based in</h3>
+      <p>Canada, working with businesses everywhere. &#127809;</p>
+    </aside>
+  </div>
+</section>
+{% endblock %}

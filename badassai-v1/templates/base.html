@@ -1,0 +1,64 @@
+{% load static %}<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Bad Ass AI — AI Agency, Coaching &amp; Consulting{% endblock %}</title>
+<meta name="description" content="{% block meta_description %}Bad Ass AI is a community and consultancy that puts AI to work in real businesses — agency services, coaching, and consulting. No hype, no jargon.{% endblock %}">
+<link rel="canonical" href="https://badassai.ca{{ request.path }}">
+<meta property="og:title" content="{% block og_title %}Bad Ass AI — Agency, Coaching, Consulting{% endblock %}">
+<meta property="og:description" content="Most companies are still forming committees about AI. We make yours dangerous with it.">
+<meta property="og:url" content="https://badassai.ca{{ request.path }}">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%230B0B0D'/><text x='50' y='72' font-family='Arial Black,sans-serif' font-weight='900' font-size='58' fill='%23FF4D1C' text-anchor='middle'>B</text></svg>">
+<link rel="stylesheet" href="{% static 'css/site.css' %}">
+</head>
+<body>
+<canvas id="mesh" aria-hidden="true"></canvas>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="{% url 'home' %}">Bad&nbsp;Ass&nbsp;<span class="ai">AI</span></a>
+    <button class="nav-toggle" aria-label="Menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links">
+      {% with active=request.resolver_match.url_name %}
+      <li><a href="{% url 'home' %}" {% if active == 'home' %}class="on"{% endif %}>Home</a></li>
+      <li><a href="{% url 'about' %}" {% if active == 'about' %}class="on"{% endif %}>About</a></li>
+      <li><a href="{% url 'services' %}" {% if active == 'services' %}class="on"{% endif %}>Services</a></li>
+      <li><a href="{% url 'members' %}" {% if active == 'members' %}class="on"{% endif %}>Members</a></li>
+      <li><a href="{% url 'newsletter' %}" {% if active == 'newsletter' %}class="on"{% endif %}>Newsletter</a></li>
+      <li><a href="{% url 'contact' %}" class="cta {% if active == 'contact' %}on{% endif %}">Contact</a></li>
+      {% endwith %}
+    </ul>
+  </div>
+</nav>
+
+<div class="page">
+  {% if messages %}
+  <div class="flash-wrap">
+    {% for message in messages %}
+    <div class="flash">{{ message }}</div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% block content %}{% endblock %}
+
+  <footer>
+    <div class="foot-inner">
+      <span>&copy; 2026 Bad Ass AI &mdash; <a href="{% url 'home' %}">badassai.ca</a></span>
+      <span class="foot-links">
+        <a href="{% url 'services' %}">Services</a>
+        <a href="{% url 'newsletter' %}">Newsletter</a>
+        <a href="mailto:frank@badassai.ca">frank@badassai.ca</a>
+      </span>
+      <span>Proudly Canadian &#127809;</span>
+    </div>
+  </footer>
+</div>
+
+<script src="{% static 'js/mesh.js' %}" defer></script>
+</body>
+</html>

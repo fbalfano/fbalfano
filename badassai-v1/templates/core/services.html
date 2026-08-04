@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Services — Bad Ass AI{% endblock %}
+{% block meta_description %}Agency, coaching, and consulting — done-for-you AI systems, hands-on training, and straight-talk strategy for businesses that want AI working, not discussed.{% endblock %}
+
+{% block content %}
+<div class="page-hero">
+  <p class="mono hero-eyebrow rise d1">Services</p>
+  <h1 class="page-title rise d2">Three ways to get <span class="accent">dangerous</span></h1>
+  <p class="lede rise d3">Every engagement starts the same way: your business, your bottlenecks, and where AI actually pays off. Pick the level of help that fits.</p>
+</div>
+
+<section class="section">
+  <div class="cards">
+    {% for service in services %}
+    <article class="card rise d2">
+      <span class="mono tag">{{ service.tag }}</span>
+      <h3>{{ service.title }}</h3>
+      <p>{{ service.summary }}</p>
+      {% if service.detail_lines %}
+      <ul>
+        {% for line in service.detail_lines %}<li>{{ line }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+    </article>
+    {% empty %}
+    <article class="card"><p>Services are being loaded &mdash; check back shortly.</p></article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section statement">
+  <p class="big">Not sure which fits? <em>That's what the first call is for.</em></p>
+  <div class="hero-actions" style="justify-content:center">
+    <a class="btn" href="{% url 'contact' %}">Book a conversation</a>
+  </div>
+</section>
+{% endblock %}

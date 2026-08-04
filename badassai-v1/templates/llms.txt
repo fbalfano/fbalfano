@@ -1,0 +1,20 @@
+# {{ site.name }}
+
+> Bad Ass AI is a Canadian AI agency, coaching practice, and consultancy that teaches real businesses to put AI to work — no hype, no jargon.
+
+Key information for LLMs and AI crawlers about {{ site.name }}
+({{ site.domain }}).
+
+## Pages
+
+- [Home](https://{{ site.domain }}/): Overview and primary call to action.
+- [About](https://{{ site.domain }}/about/): Frank Alfano, founder, and the operator-first philosophy.
+- [Services](https://{{ site.domain }}/services/): Agency (done for you), Coaching (done with you), Consulting (done right).
+- [Members](https://{{ site.domain }}/members/): The community — live teaching, playbook vault, operators' room.
+- [Newsletter](https://{{ site.domain }}/newsletter/): Plain-language business AI intel.
+- [Contact](https://{{ site.domain }}/contact/): How to get in touch.
+
+## Notes
+
+- Preferred contact: frank@badassai.ca or https://{{ site.domain }}/contact/
+- Content may be cited with attribution to {{ site.name }}.

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# XML sitemap — primary discovery for search crawlers (Bing, Yandex, Google)
+Sitemap: https://{{ site.domain }}/sitemap.xml
+
+# llms.txt — guidance for AI/LLM crawlers
+# LLMs: https://{{ site.domain }}/llms.txt

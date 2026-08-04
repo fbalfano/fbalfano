@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}Newsletter — Bad Ass AI{% endblock %}
+{% block meta_description %}The Bad Ass AI newsletter: what's actually working in business AI, in plain language, from an operator using it daily. No hype, no jargon.{% endblock %}
+
+{% block content %}
+<div class="page-hero">
+  <p class="mono hero-eyebrow rise d1">Newsletter</p>
+  <h1 class="page-title rise d2">AI intel, <span class="accent">minus the hype</span></h1>
+  <p class="lede rise d3">One email at a time: what's actually working in business AI, what's overhyped, and exactly how to use the good stuff &mdash; written by an operator, not a pundit. Free, and you can bail anytime.</p>
+</div>
+
+<section class="section">
+  <form method="post" class="inline-form rise d1">
+    {% csrf_token %}
+    <input type="email" name="email" placeholder="you@company.com" aria-label="Email address" required
+           value="{{ form.email.value|default:'' }}">
+    <button class="btn" type="submit">Subscribe</button>
+  </form>
+  {% if form.errors %}<p class="form-note accent">That email doesn't look right — mind checking it?</p>{% endif %}
+  <p class="form-note">No spam. Unsubscribe with one click, no hard feelings.</p>
+</section>
+
+<section class="section statement">
+  <p class="big">If it doesn't help you run your business better, <em>it doesn't get sent.</em></p>
+</section>
+{% endblock %}

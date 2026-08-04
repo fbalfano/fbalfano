@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}Members — Bad Ass AI{% endblock %}
+{% block meta_description %}The Bad Ass AI community: teaching, coaching, templates, and a room full of operators putting AI to work. Founding memberships opening soon.{% endblock %}
+
+{% block content %}
+<div class="page-hero">
+  <p class="mono hero-eyebrow rise d1">Members</p>
+  <h1 class="page-title rise d2">The room where AI <span class="accent">gets done</span></h1>
+  <p class="lede rise d3">The Bad Ass AI community is where the coaching lives: live sessions, working templates, honest answers, and other operators one message away. Founding memberships open soon &mdash; and founding members lock in the best deal we'll ever offer.</p>
+</div>
+
+<section class="section">
+  <p class="mono section-head">What members get</p>
+  <div class="cards">
+    <article class="card rise d1">
+      <span class="mono tag">Learn</span>
+      <h3>Live teaching</h3>
+      <p>Regular hands-on sessions on the tools and workflows that matter right now &mdash; taught in plain language, built for busy operators.</p>
+    </article>
+    <article class="card rise d2">
+      <span class="mono tag">Steal</span>
+      <h3>The playbook vault</h3>
+      <p>Prompts, automations, and templates pulled from real businesses. Copy them, adapt them, ship them the same day.</p>
+    </article>
+    <article class="card rise d3">
+      <span class="mono tag">Belong</span>
+      <h3>Operators' room</h3>
+      <p>A community of business owners comparing notes on what's actually working &mdash; so you're never the only one figuring it out.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section">
+  <p class="mono section-head">Founding member waitlist</p>
+  <form method="post" class="inline-form rise d1">
+    {% csrf_token %}
+    <input type="text" name="name" placeholder="Your name" aria-label="Your name" required
+           value="{{ form.name.value|default:'' }}">
+    <input type="email" name="email" placeholder="you@company.com" aria-label="Email address" required
+           value="{{ form.email.value|default:'' }}">
+    <button class="btn" type="submit">Save my spot</button>
+  </form>
+  {% if form.errors %}<p class="form-note accent">Please check your name and email and try again.</p>{% endif %}
+  <p class="form-note">No spam, no obligation &mdash; just first crack at founding membership.</p>
+</section>
+{% endblock %}

@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<header class="hero">
+  <div>
+    <p class="mono hero-eyebrow rise d1">Agency &middot; Coaching &middot; Consulting</p>
+    <h1 class="rise d2">Bad Ass <span class="ai">AI</span></h1>
+    <p class="hero-sub rise d3">Most companies are still forming committees about AI. We make yours dangerous with it.</p>
+    <p class="hero-body rise d3">Bad Ass AI is a community and consultancy that puts artificial intelligence to work in real businesses &mdash; practical skills, working systems, and straight answers. No hype. No jargon. No PhD required.</p>
+    <div class="hero-actions rise d4">
+      <a class="btn" href="{% url 'contact' %}">Work with us</a>
+      <a class="btn ghost" href="{% url 'members' %}">Join the community</a>
+    </div>
+  </div>
+  <div class="portrait rise d3">
+    <img src="{% static 'images/frank-profile.jpg' %}" alt="Frank Alfano, founder of Bad Ass AI"
+         onerror="this.style.display='none'">
+    <span class="plate">Frank Alfano &mdash; Founder</span>
+  </div>
+</header>
+
+<section class="section">
+  <p class="mono section-head">What we do</p>
+  <div class="cards">
+    {% for service in services %}
+    <article class="card">
+      <span class="mono tag">{{ service.tag }}</span>
+      <h3>{{ service.title }}</h3>
+      <p>{{ service.summary }}</p>
+    </article>
+    {% empty %}
+    <article class="card"><p>Services are being loaded &mdash; check back shortly.</p></article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section statement">
+  <p class="big">A community for businesses that would rather <em>build</em> than wait.</p>
+  <p class="sub">Teaching, coaching, and consulting under one roof &mdash; so you're never figuring out AI alone.</p>
+  <div class="hero-actions" style="justify-content:center">
+    <a class="btn ghost" href="{% url 'newsletter' %}">Get the newsletter</a>
+  </div>
+</section>
+{% endblock %}
